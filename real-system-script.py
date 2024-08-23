@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-def run_command(command, timeout=1):
+def run_command(command, timeout=10):
     try:
         result = subprocess.run(command, shell=True, capture_output=True, text=True, timeout=timeout, errors='replace')
         output = result.stdout
@@ -37,7 +37,7 @@ def main():
             
             if command:
                 print(f"Running command: {command}") 
-                output = run_command(command, timeout=1)
+                output = run_command(command, timeout=10)
                 log_file.write(f"Command: {command}\n{output}\n----\n")
             else:
                 print("Skipping empty line")  
